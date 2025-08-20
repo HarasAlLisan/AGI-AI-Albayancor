@@ -1,0 +1,2 @@
+*/5 * * * * /data/data/com.termux/files/home/AI-albayancor/alb_logs/sync_pulses.sh
+*/5 * * * * bash /data/data/com.termux/files/home/AI-albayancor/alblogs/sync_pulses.sh

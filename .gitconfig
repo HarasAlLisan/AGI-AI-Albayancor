@@ -1,0 +1,8 @@
+[user]
+	name = Mohamed
+	email = m1oam1o980@gmail.com
+	signingkey = 1E5E1C47ABA95738
+[credential]
+	helper = store
+[commit]
+	gpgsign = true
