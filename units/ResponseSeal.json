@@ -1,0 +1,2 @@
+nano deploy_balance.sh
+chmod +x deploy_balance.sh
