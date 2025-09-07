@@ -1,0 +1,9 @@
+[submodule "AGI-AI-Albayancor"]
+	path = AGI-AI-Albayancor
+	url = https://github.com/HarasAlLisan/AGI-AI-Albayancor.git
+[submodule "AI-albayancor"]
+	path = AI-albayancor
+	url = https://github.com/HarasAlLisan/AI-albayancor.git
+[submodule "HarasAlLisan"]
+	path = HarasAlLisan
+	url = https://github.com/HarasAlLisan/HarasAlLisan.git
