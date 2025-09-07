@@ -7,3 +7,6 @@
 [submodule "HarasAlLisan"]
 	path = HarasAlLisan
 	url = https://github.com/HarasAlLisan/HarasAlLisan.git
+[submodule "Seal_A1"]
+	path = Seal_A1
+	url = https://github.com/HarasAlLisan/Seal_A1.git
