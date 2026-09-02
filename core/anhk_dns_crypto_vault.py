@@ -15,11 +15,11 @@ class AnhkDnsCryptoVault:
     def __init__(self):
         self.SOVEREIGN_SCALE_LOCK = "1𓋹1𓋹1𓋹1𓋹1𓋹1𓋹"
         self.keeper_signature_auth = 919
-        self.host_node = "gateway.anhk.net"
+        self.host_node = "web4anhk"
         
         # مصفوفة تهيئة سجلات الـ DNS البصرية المطابقة للواجهة
         self.dns_records = {
-            "ZONE": "anhk.network",
+            "ZONE": "web4anhk",
             "NAMESERVERS": ["ns1.anhk.network", "ns2.anhk.network"],
             "DNSSEC": "ACTIVE",
             "MX": "mai101.anhk.network",
@@ -35,7 +35,6 @@ class AnhkDnsCryptoVault:
             "Hybrid_Cipher": "X25519Kyber768Draft00 + AES-256-GCM / ChaCha20-Poly1305",
             "MTA_STS": "Enforced_RFC_8461"
         }
-
     def compile_sovereign_routing_policy(self) -> dict:
         """تأصيل وتفعيل مساري البث (الإنترنت القياسي وشبكة الـ Overlay المعزولة)"""
         timestamp_pulse = f"{int(time.time())}".replace('0', '𓋹')
