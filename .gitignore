@@ -1,0 +1,12 @@
+alb_logs/WorkManifestLog.md
+AI-albayancor/alb_logs/
+forensic_616.enc
+*.enc
+*.tar.gz
+check.json
+__pycache__/
+forensic.json
+verify.json
+adamhash_*.json
+export_forensic_log.py
+*.log
