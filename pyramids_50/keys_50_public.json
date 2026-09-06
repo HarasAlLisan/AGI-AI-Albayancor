@@ -1,0 +1,402 @@
+{
+  "PYRAMID_1": {
+    "lang": "AR - عربي",
+    "public_key_256": "b24dfb19be069132b96afcb5b8be3c9abdf1c4a186c6719b95a7c9dc0da30c9f",
+    "private_vault": "4a28550fa6469254***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_2": {
+    "lang": "EN - English",
+    "public_key_256": "957653a651a270af1291a23da5010eaec203e705e9e51d26170a0cc77bef35a5",
+    "private_vault": "2b6d679fa1389f86***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_3": {
+    "lang": "HE - عبري",
+    "public_key_256": "7db8e8917e58a0725c22eddf135906fc3e21b2a1a38c909563541dc177023613",
+    "private_vault": "7b688157d3bdd53f***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_4": {
+    "lang": "SY - سرياني",
+    "public_key_256": "6396cd8f6abcc1ac12c67a3912e55b14e9e9cc4a071c625cb8eb745b4f7ac9b2",
+    "private_vault": "c202eae58e9d1dac***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_5": {
+    "lang": "QR - قرآني - 6236 آية",
+    "public_key_256": "18e75bcb3069a4d488f7241f70eb0a39d28408e4812fe6399807a443e7882f39",
+    "private_vault": "b2afc65bb7a2d461***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_6": {
+    "lang": "LANG-6 - توليد تلقائي من 1717->256",
+    "public_key_256": "a3506dfa17371c5e5c10401f1210b41d6f4516f87ab89b45238216233f312262",
+    "private_vault": "8acabca115fa6d1a***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_7": {
+    "lang": "LANG-7 - توليد تلقائي من 1717->256",
+    "public_key_256": "dd61a4bdf1e942dfc522438a1488d31e840f91e2a64483209cfda617c12aebce",
+    "private_vault": "47881df7e9e81ca3***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_8": {
+    "lang": "LANG-8 - توليد تلقائي من 1717->256",
+    "public_key_256": "f2aaffdad6cf5bcb3e8e24c291b3508377ae3546f7c152fdfd23437b28dd4808",
+    "private_vault": "a9e3a4d294fe5d91***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_9": {
+    "lang": "LANG-9 - توليد تلقائي من 1717->256",
+    "public_key_256": "47a3c92e1d2eaf8d82080518729b9c15fb779517da98abb886aed72f03321b16",
+    "private_vault": "25e12bb3e5b21f41***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_10": {
+    "lang": "LANG-10 - توليد تلقائي من 1717->256",
+    "public_key_256": "809c2a64c4f588b6ce9be2801a0dd33f94b2075d5e9c92b8de9ddd8fd1904aa3",
+    "private_vault": "2e4b534ab849c578***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_11": {
+    "lang": "LANG-11 - توليد تلقائي من 1717->256",
+    "public_key_256": "d7c3602261c3b30eb3580e03a2c495f3b14a37b3ce35c2ad6db533bb158e3cc6",
+    "private_vault": "0ef39065e598acbb***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_12": {
+    "lang": "LANG-12 - توليد تلقائي من 1717->256",
+    "public_key_256": "f4e3104cc9b503a962850becd513019fe02c0054020e5000ffeafbfdcf21f050",
+    "private_vault": "d44eab2d34c56ec7***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_13": {
+    "lang": "LANG-13 - توليد تلقائي من 1717->256",
+    "public_key_256": "5d6e8bf9c00e1492f872650580abaa2045a8c58d01b25263f54d843161e07f81",
+    "private_vault": "4bb1d57e4de095eb***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_14": {
+    "lang": "LANG-14 - توليد تلقائي من 1717->256",
+    "public_key_256": "4eed47f3690a17a3c6ec1f5567c40625255f92ed7db0ddd9cd5136b08834c5c6",
+    "private_vault": "ed9cf54116832baa***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_15": {
+    "lang": "LANG-15 - توليد تلقائي من 1717->256",
+    "public_key_256": "9a30bcec65d6dc7b8f19a5d864115cde3b28e766997c829c1bbc4b6c8ae85529",
+    "private_vault": "020923f8c3fd8b8a***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_16": {
+    "lang": "LANG-16 - توليد تلقائي من 1717->256",
+    "public_key_256": "4843e6c3aed64267b25af1abe56d7d12949acbc22813a580634365281bb987a6",
+    "private_vault": "ecb4013dd0fae1c2***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_17": {
+    "lang": "LANG-17 - توليد تلقائي من 1717->256",
+    "public_key_256": "6fa6c1d2ddaad6000651da92acf786f05f5e7ce222e50a996159b2fcd8095647",
+    "private_vault": "caacd91521914304***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_18": {
+    "lang": "LANG-18 - توليد تلقائي من 1717->256",
+    "public_key_256": "df074d140d8af5fa7168afd99cbc1096db652f4949db1c8ad301d98fadb5db36",
+    "private_vault": "ad03d362705a317e***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_19": {
+    "lang": "LANG-19 - توليد تلقائي من 1717->256",
+    "public_key_256": "66ae78ab5f7a9362f6a8347b5e19cb8c29272c28de61ac5a349c42331e21481f",
+    "private_vault": "2840fd2b1accd6ae***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_20": {
+    "lang": "LANG-20 - توليد تلقائي من 1717->256",
+    "public_key_256": "b71348c2ec3c18f7199986ff333a2e2935073b85353c8f9bcf62e9fe277b4d7a",
+    "private_vault": "6ffbb7416b03edb4***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_21": {
+    "lang": "LANG-21 - توليد تلقائي من 1717->256",
+    "public_key_256": "97a63252e70d182666c4380e66e080d52c902a1363562ceea71b827f21848765",
+    "private_vault": "5614ca82bcf501b8***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_22": {
+    "lang": "LANG-22 - توليد تلقائي من 1717->256",
+    "public_key_256": "26cda656b006e079af3be90849ff57928bf2683f45dd237c6e8354f74748cc8d",
+    "private_vault": "ddbbed3e1f22f3a1***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_23": {
+    "lang": "LANG-23 - توليد تلقائي من 1717->256",
+    "public_key_256": "20c585cb07df6cf92f5a54742859fd1d8743f48b9b515775c78335a46af0781e",
+    "private_vault": "c4ad87d5b21870d1***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_24": {
+    "lang": "LANG-24 - توليد تلقائي من 1717->256",
+    "public_key_256": "bfdaaf534b8048dcb6768f7805a896c24b164b38030364ea7fc1ced7eb5844d8",
+    "private_vault": "7a7c7577ce6953cb***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_25": {
+    "lang": "LANG-25 - توليد تلقائي من 1717->256",
+    "public_key_256": "83f93db4881d1d7011150d0da914d1ff756be2be0eb18fa02bc27ec8ad70c503",
+    "private_vault": "c8e878fad77baa75***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_26": {
+    "lang": "LANG-26 - توليد تلقائي من 1717->256",
+    "public_key_256": "6d238768269f51f391bca88ba0e54dc3e9c9bac329f092b34db208fac971154a",
+    "private_vault": "1914d716aadd6044***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_27": {
+    "lang": "LANG-27 - توليد تلقائي من 1717->256",
+    "public_key_256": "5d6e4e447d03217575c4aa218c484a84d7847c871e6c14216c2d32cbae170833",
+    "private_vault": "960d29d3da274874***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_28": {
+    "lang": "LANG-28 - توليد تلقائي من 1717->256",
+    "public_key_256": "ca841f1e744ab0cab7b5571329bbd8c31cea77abbda58f6f47be2799ab9f68fd",
+    "private_vault": "800684b33a54144d***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_29": {
+    "lang": "LANG-29 - توليد تلقائي من 1717->256",
+    "public_key_256": "d795be8732ee8e25f9b114bf4d7387153606b54016862b8f2ffbe5931d5934e2",
+    "private_vault": "25f9c0a8a4ead91c***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_30": {
+    "lang": "LANG-30 - توليد تلقائي من 1717->256",
+    "public_key_256": "ac2c3714aeab2a7998e71818f3781c2bfb6f9f020240e1e82bbfbb2c9a75468b",
+    "private_vault": "72543f92f5d5388d***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_31": {
+    "lang": "LANG-31 - توليد تلقائي من 1717->256",
+    "public_key_256": "205336c24f317632b60b043350f223c08ae7d445471cb3125c8ddaba20c33864",
+    "private_vault": "96e6e36643bb5828***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_32": {
+    "lang": "LANG-32 - توليد تلقائي من 1717->256",
+    "public_key_256": "76f869827e578b574de21dceba669eb28192b54096dcb64418bc9d975c1c52b1",
+    "private_vault": "cd2972e1bfd1a873***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_33": {
+    "lang": "LANG-33 - توليد تلقائي من 1717->256",
+    "public_key_256": "880eb2a5b9c354bb740abfb2dcc957b63bf0183196d511b9af0ea16225cf1122",
+    "private_vault": "caf451a33ee923c2***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_34": {
+    "lang": "LANG-34 - توليد تلقائي من 1717->256",
+    "public_key_256": "8062b50b06c6dc3270c0e6707a7c7bc0b6c5b72c14d3172926fb43b68c273d48",
+    "private_vault": "23ca764f02211e61***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_35": {
+    "lang": "LANG-35 - توليد تلقائي من 1717->256",
+    "public_key_256": "de323b34a94d4b757f0811d70200d9eb8c06da80751ab6a201b99f2562ee4569",
+    "private_vault": "d23bced8c2b7a5bc***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_36": {
+    "lang": "LANG-36 - توليد تلقائي من 1717->256",
+    "public_key_256": "597f7068a9ef162b7782f613784c34f0cc21244ec0577fabd4a95031d1bc02bd",
+    "private_vault": "5359212d61d932f3***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_37": {
+    "lang": "LANG-37 - توليد تلقائي من 1717->256",
+    "public_key_256": "3eb0db8d19fdfef33473e11070875d2ed69d1f8c1bf617ecf08eed57be47cb70",
+    "private_vault": "d310192dee1bb133***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_38": {
+    "lang": "LANG-38 - توليد تلقائي من 1717->256",
+    "public_key_256": "937dc7675d7b70f765ec8e3b545b3d2ae3dcfb9934a2d6df20e5a82be382726d",
+    "private_vault": "fa2a3a91cbcf5333***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_39": {
+    "lang": "LANG-39 - توليد تلقائي من 1717->256",
+    "public_key_256": "a6fda0af5edd8b20a842e03b42e52d2176ef56b186a7c109cb4ad380ced2f82d",
+    "private_vault": "a921d2f5dfb58af3***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_40": {
+    "lang": "LANG-40 - توليد تلقائي من 1717->256",
+    "public_key_256": "6d2fa54162d8fd1c3870a00691af865d5bd8c28a04e99abe708577e1b3b77723",
+    "private_vault": "7af3eb599f0d4460***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_41": {
+    "lang": "LANG-41 - توليد تلقائي من 1717->256",
+    "public_key_256": "8f5370eba26375d41e677760b877bdfbf936a61bba62f426ba757b87323ba5ff",
+    "private_vault": "354f922644db49e3***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_42": {
+    "lang": "LANG-42 - توليد تلقائي من 1717->256",
+    "public_key_256": "26e128427185a03eaa7b469704cf8987247033a4a640cf975933ff77517c6aff",
+    "private_vault": "450ac6fb9e24f400***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_43": {
+    "lang": "LANG-43 - توليد تلقائي من 1717->256",
+    "public_key_256": "a98842f61d77eda8fe898ed3345baa818dd965525c4e6cd39af7a2245d048cbf",
+    "private_vault": "f2b7fffbf5f75d74***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_44": {
+    "lang": "LANG-44 - توليد تلقائي من 1717->256",
+    "public_key_256": "9daf26dc9d7c88906fb85e96d40109729bc4d17af7c4153d5133aa196b89bde0",
+    "private_vault": "04ac2904c68efa92***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_45": {
+    "lang": "LANG-45 - توليد تلقائي من 1717->256",
+    "public_key_256": "5823b6c5d8cc73c3714e9e530c07e50710d96979651dcc60ea4c6613b50de8fb",
+    "private_vault": "dc6f0ffd431cc5ed***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_46": {
+    "lang": "LANG-46 - توليد تلقائي من 1717->256",
+    "public_key_256": "94cfc4a51ad4848b651efe6c31f6504c1088921ae4481004005531e877c909e4",
+    "private_vault": "fb111d0b42ec5ac0***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_47": {
+    "lang": "LANG-47 - توليد تلقائي من 1717->256",
+    "public_key_256": "00d60c389cab5ee7c9d758a03666712d31f59d5fdd4f691ec8e112fcfa6b8fe6",
+    "private_vault": "ba8a882da6b7a769***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_48": {
+    "lang": "LANG-48 - توليد تلقائي من 1717->256",
+    "public_key_256": "870064f0265c68a8c37ccda6d41c3e219c4e6e256c272eb8e6556acee665fa6a",
+    "private_vault": "44a36e7232d34906***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_49": {
+    "lang": "LANG-49 - توليد تلقائي من 1717->256",
+    "public_key_256": "7362ee777c6c94531dec1c5c6d003ad79aca12b47bf7bea4651f4b1b42cf26c9",
+    "private_vault": "7d7b8111994adc9e***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  },
+  "PYRAMID_50": {
+    "lang": "LANG-50 - توليد تلقائي من 1717->256",
+    "public_key_256": "0c6c18c870cd4311dc5c79efe8430ec1a89cf05439b1fc1cc697b6f066b70dc6",
+    "private_vault": "2bc037dd245e61c7***SECURED***",
+    "freq": "6236Hz",
+    "lock": "616 SECURE",
+    "pipeline": "256-bit - OS-Almahdi-256"
+  }
+}
