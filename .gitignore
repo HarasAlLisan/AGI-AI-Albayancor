@@ -12,3 +12,5 @@ export_forensic_log.py
 *.log
 .keys_50_private_vault.json
 gate48_616.log
+= *.log
+!ANHK_*.log
