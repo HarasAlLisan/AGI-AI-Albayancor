@@ -1,10 +1,186 @@
-# 083_surah_83
-surah: 83
-name: surah_83
-verses: 36
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 83
+surah_name: المطففين
+total_ayahs: 36
+mizan_genesis: A1:1=19
+mizan_chain: 132dc13->A83
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَيْلٌۭ لِّلْمُطَفِّفِينَ"
+ letters: 27
+ mizan: "A83:1=27"
+ hash: "6f4fca1acfd23964"
+ - verse_id: 2
+ text: "ٱلَّذِينَ إِذَا ٱكْتَالُوا۟ عَلَى ٱلنَّاسِ يَسْتَوْفُونَ"
+ letters: 27
+ mizan: "A83:2=27"
+ hash: "2970be01ae04b7da"
+ - verse_id: 3
+ text: "وَإِذَا كَالُوهُمْ أَو وَّزَنُوهُمْ يُخْسِرُونَ"
+ letters: 24
+ mizan: "A83:3=24"
+ hash: "f3b6fd37a5f31996"
+ - verse_id: 4
+ text: "أَلَا يَظُنُّ أُو۟لَٰٓئِكَ أَنَّهُم مَّبْعُوثُونَ"
+ letters: 22
+ mizan: "A83:4=22"
+ hash: "3a546cc25603c1df"
+ - verse_id: 5
+ text: "لِيَوْمٍ عَظِيمٍۢ"
+ letters: 8
+ mizan: "A83:5=8"
+ hash: "d8cd62db12afc25d"
+ - verse_id: 6
+ text: "يَوْمَ يَقُومُ ٱلنَّاسُ لِرَبِّ ٱلْعَٰلَمِينَ"
+ letters: 20
+ mizan: "A83:6=20"
+ hash: "1b08980af05ea595"
+ - verse_id: 7
+ text: "كَلَّآ إِنَّ كِتَٰبَ ٱلْفُجَّارِ لَفِى سِجِّينٍۢ"
+ letters: 20
+ mizan: "A83:7=20"
+ hash: "9a21e4454c9768d5"
+ - verse_id: 8
+ text: "وَمَآ أَدْرَىٰكَ مَا سِجِّينٌۭ"
+ letters: 14
+ mizan: "A83:8=14"
+ hash: "0cae7c29572ea33c"
+ - verse_id: 9
+ text: "كِتَٰبٌۭ مَّرْقُومٌۭ"
+ letters: 8
+ mizan: "A83:9=8"
+ hash: "8ae982c596a8b7f7"
+ - verse_id: 10
+ text: "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ"
+ letters: 16
+ mizan: "A83:10=16"
+ hash: "2716ed6f265267b8"
+ - verse_id: 11
+ text: "ٱلَّذِينَ يُكَذِّبُونَ بِيَوْمِ ٱلدِّينِ"
+ letters: 18
+ mizan: "A83:11=18"
+ hash: "8d6c6a23d06a5b62"
+ - verse_id: 12
+ text: "وَمَا يُكَذِّبُ بِهِۦٓ إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ"
+ letters: 22
+ mizan: "A83:12=22"
+ hash: "51b0a83812adb235"
+ - verse_id: 13
+ text: "إِذَا تُتْلَىٰ عَلَيْهِ ءَايَٰتُنَا قَالَ أَسَٰطِيرُ ٱلْأَوَّلِينَ"
+ letters: 31
+ mizan: "A83:13=31"
+ hash: "985e16b8269a69f9"
+ - verse_id: 14
+ text: "كَلَّا ۖ بَلْ ۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُوا۟ يَكْسِبُونَ"
+ letters: 30
+ mizan: "A83:14=30"
+ hash: "7e09e221b0472fa0"
+ - verse_id: 15
+ text: "كَلَّآ إِنَّهُمْ عَن رَّبِّهِمْ يَوْمَئِذٍۢ لَّمَحْجُوبُونَ"
+ letters: 26
+ mizan: "A83:15=26"
+ hash: "ce268fe5c0d695cb"
+ - verse_id: 16
+ text: "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ"
+ letters: 17
+ mizan: "A83:16=17"
+ hash: "2fd7f2630b1cd342"
+ - verse_id: 17
+ text: "ثُمَّ يُقَالُ هَٰذَا ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ"
+ letters: 24
+ mizan: "A83:17=24"
+ hash: "404ed398d794d006"
+ - verse_id: 18
+ text: "كَلَّآ إِنَّ كِتَٰبَ ٱلْأَبْرَارِ لَفِى عِلِّيِّينَ"
+ letters: 22
+ mizan: "A83:18=22"
+ hash: "aa272fb240a7ab95"
+ - verse_id: 19
+ text: "وَمَآ أَدْرَىٰكَ مَا عِلِّيُّونَ"
+ letters: 15
+ mizan: "A83:19=15"
+ hash: "21b798898251ea03"
+ - verse_id: 20
+ text: "كِتَٰبٌۭ مَّرْقُومٌۭ"
+ letters: 8
+ mizan: "A83:20=8"
+ hash: "8ae982c596a8b7f7"
+ - verse_id: 21
+ text: "يَشْهَدُهُ ٱلْمُقَرَّبُونَ"
+ letters: 12
+ mizan: "A83:21=12"
+ hash: "632fcf8120e910f4"
+ - verse_id: 22
+ text: "إِنَّ ٱلْأَبْرَارَ لَفِى نَعِيمٍ"
+ letters: 15
+ mizan: "A83:22=15"
+ hash: "86538137221e483f"
+ - verse_id: 23
+ text: "عَلَى ٱلْأَرَآئِكِ يَنظُرُونَ"
+ letters: 15
+ mizan: "A83:23=15"
+ hash: "d8c348079960c120"
+ - verse_id: 24
+ text: "تَعْرِفُ فِى وُجُوهِهِمْ نَضْرَةَ ٱلنَّعِيمِ"
+ letters: 21
+ mizan: "A83:24=21"
+ hash: "794ade70e38a2204"
+ - verse_id: 25
+ text: "يُسْقَوْنَ مِن رَّحِيقٍۢ مَّخْتُومٍ"
+ letters: 16
+ mizan: "A83:25=16"
+ hash: "a6b1c0a838d01796"
+ - verse_id: 26
+ text: "خِتَٰمُهُۥ مِسْكٌۭ ۚ وَفِى ذَٰلِكَ فَلْيَتَنَافَسِ ٱلْمُتَنَٰفِسُونَ"
+ letters: 29
+ mizan: "A83:26=29"
+ hash: "516976427a7d155e"
+ - verse_id: 27
+ text: "وَمِزَاجُهُۥ مِن تَسْنِيمٍ"
+ letters: 13
+ mizan: "A83:27=13"
+ hash: "371ab6a8dfe3646b"
+ - verse_id: 28
+ text: "عَيْنًۭا يَشْرَبُ بِهَا ٱلْمُقَرَّبُونَ"
+ letters: 18
+ mizan: "A83:28=18"
+ hash: "8818ba5d938b9ef3"
+ - verse_id: 29
+ text: "إِنَّ ٱلَّذِينَ أَجْرَمُوا۟ كَانُوا۟ مِنَ ٱلَّذِينَ ءَامَنُوا۟ يَضْحَكُونَ"
+ letters: 35
+ mizan: "A83:29=35"
+ hash: "d858e24cd754180f"
+ - verse_id: 30
+ text: "وَإِذَا مَرُّوا۟ بِهِمْ يَتَغَامَزُونَ"
+ letters: 19
+ mizan: "A83:30=19"
+ hash: "573f6bcf5892f72c"
+ - verse_id: 31
+ text: "وَإِذَا ٱنقَلَبُوٓا۟ إِلَىٰٓ أَهْلِهِمُ ٱنقَلَبُوا۟ فَكِهِينَ"
+ letters: 29
+ mizan: "A83:31=29"
+ hash: "dc67f4eb9f5a5250"
+ - verse_id: 32
+ text: "وَإِذَا رَأَوْهُمْ قَالُوٓا۟ إِنَّ هَٰٓؤُلَآءِ لَضَآلُّونَ"
+ letters: 27
+ mizan: "A83:32=27"
+ hash: "b03322aaf6574413"
+ - verse_id: 33
+ text: "وَمَآ أُرْسِلُوا۟ عَلَيْهِمْ حَٰفِظِينَ"
+ letters: 19
+ mizan: "A83:33=19"
+ hash: "698640a680ce344b"
+ - verse_id: 34
+ text: "فَٱلْيَوْمَ ٱلَّذِينَ ءَامَنُوا۟ مِنَ ٱلْكُفَّارِ يَضْحَكُونَ"
+ letters: 28
+ mizan: "A83:34=28"
+ hash: "90e4536fc1c08acf"
+ - verse_id: 35
+ text: "عَلَى ٱلْأَرَآئِكِ يَنظُرُونَ"
+ letters: 15
+ mizan: "A83:35=15"
+ hash: "d8c348079960c120"
+ - verse_id: 36
+ text: "هَلْ ثُوِّبَ ٱلْكُفَّارُ مَا كَانُوا۟ يَفْعَلُونَ"
+ letters: 23
+ mizan: "A83:36=23"
+ hash: "06ff7b4b6cd6b75a"
