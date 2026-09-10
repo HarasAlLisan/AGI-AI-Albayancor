@@ -1,10 +1,61 @@
-# 100_surah_100
-surah: 100
-name: surah_100
-verses: 11
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 100
+surah_name: العاديات
+total_ayahs: 11
+mizan_genesis: A1:1=19
+mizan_chain: 395ab4f->A100
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْعَٰدِيَٰتِ ضَبْحًۭا"
+ letters: 26
+ mizan: "A100:1=26"
+ hash: "88287807e980adde"
+ - verse_id: 2
+ text: "فَٱلْمُورِيَٰتِ قَدْحًۭا"
+ letters: 11
+ mizan: "A100:2=11"
+ hash: "f9001f575c59d908"
+ - verse_id: 3
+ text: "فَٱلْمُغِيرَٰتِ صُبْحًۭا"
+ letters: 11
+ mizan: "A100:3=11"
+ hash: "a6101bf858bd60ce"
+ - verse_id: 4
+ text: "فَأَثَرْنَ بِهِۦ نَقْعًۭا"
+ letters: 11
+ mizan: "A100:4=11"
+ hash: "4ca63567ff7c3611"
+ - verse_id: 5
+ text: "فَوَسَطْنَ بِهِۦ جَمْعًا"
+ letters: 11
+ mizan: "A100:5=11"
+ hash: "5931318a3ca13407"
+ - verse_id: 6
+ text: "إِنَّ ٱلْإِنسَٰنَ لِرَبِّهِۦ لَكَنُودٌۭ"
+ letters: 16
+ mizan: "A100:6=16"
+ hash: "6473d0332238c809"
+ - verse_id: 7
+ text: "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌۭ"
+ letters: 15
+ mizan: "A100:7=15"
+ hash: "2eabc6fcac937fc6"
+ - verse_id: 8
+ text: "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ"
+ letters: 16
+ mizan: "A100:8=16"
+ hash: "7ac23a7192810b9b"
+ - verse_id: 9
+ text: "۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ"
+ letters: 24
+ mizan: "A100:9=24"
+ hash: "da4bd486aceff31a"
+ - verse_id: 10
+ text: "وَحُصِّلَ مَا فِى ٱلصُّدُورِ"
+ letters: 13
+ mizan: "A100:10=13"
+ hash: "aeff019f4247fc19"
+ - verse_id: 11
+ text: "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍۢ لَّخَبِيرٌۢ"
+ letters: 19
+ mizan: "A100:11=19"
+ hash: "11fce36991f28439"
