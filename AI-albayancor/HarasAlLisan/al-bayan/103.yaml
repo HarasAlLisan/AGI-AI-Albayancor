@@ -1,10 +1,21 @@
-# 103_surah_103
-surah: 103
-name: surah_103
-verses: 3
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 103
+surah_name: العصر
+total_ayahs: 3
+mizan_genesis: A1:1=19
+mizan_chain: f2b9184->A103
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْعَصْرِ"
+ letters: 21
+ mizan: "A103:1=21"
+ hash: "1ee866045c6731d2"
+ - verse_id: 2
+ text: "إِنَّ ٱلْإِنسَٰنَ لَفِى خُسْرٍ"
+ letters: 13
+ mizan: "A103:2=13"
+ hash: "011a365b4ada26ae"
+ - verse_id: 3
+ text: "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ"
+ letters: 47
+ mizan: "A103:3=47"
+ hash: "a3c9590c0ab18376"
