@@ -1,10 +1,236 @@
-# 079_surah_79
-surah: 79
-name: surah_79
-verses: 46
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 79
+surah_name: النازعات
+total_ayahs: 46
+mizan_genesis: A1:1=19
+mizan_chain: a942b60->A79
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلنَّٰزِعَٰتِ غَرْقًۭا"
+ letters: 26
+ mizan: "A79:1=26"
+ hash: "392ecddd0bc4a8c2"
+ - verse_id: 2
+ text: "وَٱلنَّٰشِطَٰتِ نَشْطًۭا"
+ letters: 10
+ mizan: "A79:2=10"
+ hash: "70ba6a81c72a8d80"
+ - verse_id: 3
+ text: "وَٱلسَّٰبِحَٰتِ سَبْحًۭا"
+ letters: 10
+ mizan: "A79:3=10"
+ hash: "4b93ab9fdc43b517"
+ - verse_id: 4
+ text: "فَٱلسَّٰبِقَٰتِ سَبْقًۭا"
+ letters: 10
+ mizan: "A79:4=10"
+ hash: "55bc3b9cf468187d"
+ - verse_id: 5
+ text: "فَٱلْمُدَبِّرَٰتِ أَمْرًۭا"
+ letters: 11
+ mizan: "A79:5=11"
+ hash: "32f935f0b7b61c7c"
+ - verse_id: 6
+ text: "يَوْمَ تَرْجُفُ ٱلرَّاجِفَةُ"
+ letters: 13
+ mizan: "A79:6=13"
+ hash: "76b43f5c9defff01"
+ - verse_id: 7
+ text: "تَتْبَعُهَا ٱلرَّادِفَةُ"
+ letters: 12
+ mizan: "A79:7=12"
+ hash: "8d88c1beb8092b24"
+ - verse_id: 8
+ text: "قُلُوبٌۭ يَوْمَئِذٍۢ وَاجِفَةٌ"
+ letters: 14
+ mizan: "A79:8=14"
+ hash: "c9c30d7ed7895167"
+ - verse_id: 9
+ text: "أَبْصَٰرُهَا خَٰشِعَةٌۭ"
+ letters: 10
+ mizan: "A79:9=10"
+ hash: "2104d583b75a3207"
+ - verse_id: 10
+ text: "يَقُولُونَ أَءِنَّا لَمَرْدُودُونَ فِى ٱلْحَافِرَةِ"
+ letters: 26
+ mizan: "A79:10=26"
+ hash: "598abcd54d1cb30d"
+ - verse_id: 11
+ text: "أَءِذَا كُنَّا عِظَٰمًۭا نَّخِرَةًۭ"
+ letters: 15
+ mizan: "A79:11=15"
+ hash: "3d9a3b644c6f751d"
+ - verse_id: 12
+ text: "قَالُوا۟ تِلْكَ إِذًۭا كَرَّةٌ خَاسِرَةٌۭ"
+ letters: 19
+ mizan: "A79:12=19"
+ hash: "3dae8cb1e3ca01e9"
+ - verse_id: 13
+ text: "فَإِنَّمَا هِىَ زَجْرَةٌۭ وَٰحِدَةٌۭ"
+ letters: 15
+ mizan: "A79:13=15"
+ hash: "1b372b972a602563"
+ - verse_id: 14
+ text: "فَإِذَا هُم بِٱلسَّاهِرَةِ"
+ letters: 13
+ mizan: "A79:14=13"
+ hash: "b88e984942e007e7"
+ - verse_id: 15
+ text: "هَلْ أَتَىٰكَ حَدِيثُ مُوسَىٰٓ"
+ letters: 14
+ mizan: "A79:15=14"
+ hash: "c09198810a9da818"
+ - verse_id: 16
+ text: "إِذْ نَادَىٰهُ رَبُّهُۥ بِٱلْوَادِ ٱلْمُقَدَّسِ طُوًى"
+ letters: 23
+ mizan: "A79:16=23"
+ hash: "4d77d8ce3807a278"
+ - verse_id: 17
+ text: "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ"
+ letters: 17
+ mizan: "A79:17=17"
+ hash: "32d2e77fc5031e8c"
+ - verse_id: 18
+ text: "فَقُلْ هَل لَّكَ إِلَىٰٓ أَن تَزَكَّىٰ"
+ letters: 16
+ mizan: "A79:18=16"
+ hash: "8beb072c30569b3f"
+ - verse_id: 19
+ text: "وَأَهْدِيَكَ إِلَىٰ رَبِّكَ فَتَخْشَىٰ"
+ letters: 17
+ mizan: "A79:19=17"
+ hash: "9792ca4438e4326d"
+ - verse_id: 20
+ text: "فَأَرَىٰهُ ٱلْءَايَةَ ٱلْكُبْرَىٰ"
+ letters: 15
+ mizan: "A79:20=15"
+ hash: "29fd96101f20ad80"
+ - verse_id: 21
+ text: "فَكَذَّبَ وَعَصَىٰ"
+ letters: 8
+ mizan: "A79:21=8"
+ hash: "2905906f7d2be8ec"
+ - verse_id: 22
+ text: "ثُمَّ أَدْبَرَ يَسْعَىٰ"
+ letters: 10
+ mizan: "A79:22=10"
+ hash: "dcb1862fb7ec311a"
+ - verse_id: 23
+ text: "فَحَشَرَ فَنَادَىٰ"
+ letters: 9
+ mizan: "A79:23=9"
+ hash: "22c7dc166d7d0bf6"
+ - verse_id: 24
+ text: "فَقَالَ أَنَا۠ رَبُّكُمُ ٱلْأَعْلَىٰ"
+ letters: 16
+ mizan: "A79:24=16"
+ hash: "e8b1954183be445e"
+ - verse_id: 25
+ text: "فَأَخَذَهُ ٱللَّهُ نَكَالَ ٱلْءَاخِرَةِ وَٱلْأُولَىٰٓ"
+ letters: 24
+ mizan: "A79:25=24"
+ hash: "d73b4ae89c1b8dc9"
+ - verse_id: 26
+ text: "إِنَّ فِى ذَٰلِكَ لَعِبْرَةًۭ لِّمَن يَخْشَىٰٓ"
+ letters: 19
+ mizan: "A79:26=19"
+ hash: "515565b41cb1b638"
+ - verse_id: 27
+ text: "ءَأَنتُمْ أَشَدُّ خَلْقًا أَمِ ٱلسَّمَآءُ ۚ بَنَىٰهَا"
+ letters: 24
+ mizan: "A79:27=24"
+ hash: "219c5158a334691c"
+ - verse_id: 28
+ text: "رَفَعَ سَمْكَهَا فَسَوَّىٰهَا"
+ letters: 14
+ mizan: "A79:28=14"
+ hash: "5e4ab9c1de13c5a0"
+ - verse_id: 29
+ text: "وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَىٰهَا"
+ letters: 20
+ mizan: "A79:29=20"
+ hash: "5e0bb9794fe87672"
+ - verse_id: 30
+ text: "وَٱلْأَرْضَ بَعْدَ ذَٰلِكَ دَحَىٰهَآ"
+ letters: 16
+ mizan: "A79:30=16"
+ hash: "1871a9308d98d566"
+ - verse_id: 31
+ text: "أَخْرَجَ مِنْهَا مَآءَهَا وَمَرْعَىٰهَا"
+ letters: 20
+ mizan: "A79:31=20"
+ hash: "f3c473b835c10559"
+ - verse_id: 32
+ text: "وَٱلْجِبَالَ أَرْسَىٰهَا"
+ letters: 12
+ mizan: "A79:32=12"
+ hash: "37e45d7590b49a39"
+ - verse_id: 33
+ text: "مَتَٰعًۭا لَّكُمْ وَلِأَنْعَٰمِكُمْ"
+ letters: 15
+ mizan: "A79:33=15"
+ hash: "5ac7a15783534756"
+ - verse_id: 34
+ text: "فَإِذَا جَآءَتِ ٱلطَّآمَّةُ ٱلْكُبْرَىٰ"
+ letters: 18
+ mizan: "A79:34=18"
+ hash: "d73a1bdf6efdf060"
+ - verse_id: 35
+ text: "يَوْمَ يَتَذَكَّرُ ٱلْإِنسَٰنُ مَا سَعَىٰ"
+ letters: 18
+ mizan: "A79:35=18"
+ hash: "cb27828da0a71b15"
+ - verse_id: 36
+ text: "وَبُرِّزَتِ ٱلْجَحِيمُ لِمَن يَرَىٰ"
+ letters: 16
+ mizan: "A79:36=16"
+ hash: "bfd48c19c86020d9"
+ - verse_id: 37
+ text: "فَأَمَّا مَن طَغَىٰ"
+ letters: 9
+ mizan: "A79:37=9"
+ hash: "41125f16495ff919"
+ - verse_id: 38
+ text: "وَءَاثَرَ ٱلْحَيَوٰةَ ٱلدُّنْيَا"
+ letters: 15
+ mizan: "A79:38=15"
+ hash: "7ead528121b7cd6b"
+ - verse_id: 39
+ text: "فَإِنَّ ٱلْجَحِيمَ هِىَ ٱلْمَأْوَىٰ"
+ letters: 15
+ mizan: "A79:39=15"
+ hash: "e10cbd93cc44f48e"
+ - verse_id: 40
+ text: "وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى ٱلنَّفْسَ عَنِ ٱلْهَوَىٰ"
+ letters: 30
+ mizan: "A79:40=30"
+ hash: "91c7ff8583f47a41"
+ - verse_id: 41
+ text: "فَإِنَّ ٱلْجَنَّةَ هِىَ ٱلْمَأْوَىٰ"
+ letters: 14
+ mizan: "A79:41=14"
+ hash: "f317cca6e7e9e223"
+ - verse_id: 42
+ text: "يَسْـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرْسَىٰهَا"
+ letters: 24
+ mizan: "A79:42=24"
+ hash: "c9b8dfecd42af18f"
+ - verse_id: 43
+ text: "فِيمَ أَنتَ مِن ذِكْرَىٰهَآ"
+ letters: 14
+ mizan: "A79:43=14"
+ hash: "931656f1bf5751fc"
+ - verse_id: 44
+ text: "إِلَىٰ رَبِّكَ مُنتَهَىٰهَآ"
+ letters: 13
+ mizan: "A79:44=13"
+ hash: "705cd072c5a7e4cc"
+ - verse_id: 45
+ text: "إِنَّمَآ أَنتَ مُنذِرُ مَن يَخْشَىٰهَا"
+ letters: 19
+ mizan: "A79:45=19"
+ hash: "aecc49a9667483eb"
+ - verse_id: 46
+ text: "كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوٓا۟ إِلَّا عَشِيَّةً أَوْ ضُحَىٰهَا"
+ letters: 36
+ mizan: "A79:46=36"
+ hash: "4d28b4cd52145a7a"
