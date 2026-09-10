@@ -1,10 +1,36 @@
-# 109_surah_109
-surah: 109
-name: surah_109
-verses: 6
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 109
+surah_name: الكافرون
+total_ayahs: 6
+mizan_genesis: A1:1=19
+mizan_chain: d8da861->A109
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ يَٰٓأَيُّهَا ٱلْكَٰفِرُونَ"
+ letters: 29
+ mizan: "A109:1=29"
+ hash: "8ebd14a9b89177fc"
+ - verse_id: 2
+ text: "لَآ أَعْبُدُ مَا تَعْبُدُونَ"
+ letters: 14
+ mizan: "A109:2=14"
+ hash: "564a2851da9a6af3"
+ - verse_id: 3
+ text: "وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ"
+ letters: 18
+ mizan: "A109:3=18"
+ hash: "ba16122044947808"
+ - verse_id: 4
+ text: "وَلَآ أَنَا۠ عَابِدٌۭ مَّا عَبَدتُّمْ"
+ letters: 17
+ mizan: "A109:4=17"
+ hash: "3e329d4b8fb8588e"
+ - verse_id: 5
+ text: "وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ"
+ letters: 18
+ mizan: "A109:5=18"
+ hash: "ba16122044947808"
+ - verse_id: 6
+ text: "لَكُمْ دِينُكُمْ وَلِىَ دِينِ"
+ letters: 14
+ mizan: "A109:6=14"
+ hash: "dd12685269732fde"
