@@ -1,10 +1,91 @@
-# 086_surah_86
-surah: 86
-name: surah_86
-verses: 17
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 86
+surah_name: الطارق
+total_ayahs: 17
+mizan_genesis: A1:1=19
+mizan_chain: dc9caaf->A86
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلسَّمَآءِ وَٱلطَّارِقِ"
+ letters: 28
+ mizan: "A86:1=28"
+ hash: "750e727e2dd467f8"
+ - verse_id: 2
+ text: "وَمَآ أَدْرَىٰكَ مَا ٱلطَّارِقُ"
+ letters: 15
+ mizan: "A86:2=15"
+ hash: "ed2572e14d0bf141"
+ - verse_id: 3
+ text: "ٱلنَّجْمُ ٱلثَّاقِبُ"
+ letters: 9
+ mizan: "A86:3=9"
+ hash: "8075176e47fc96af"
+ - verse_id: 4
+ text: "إِن كُلُّ نَفْسٍۢ لَّمَّا عَلَيْهَا حَافِظٌۭ"
+ letters: 19
+ mizan: "A86:4=19"
+ hash: "43ccef6672f80923"
+ - verse_id: 5
+ text: "فَلْيَنظُرِ ٱلْإِنسَٰنُ مِمَّ خُلِقَ"
+ letters: 16
+ mizan: "A86:5=16"
+ hash: "78a41e6bca6113ab"
+ - verse_id: 6
+ text: "خُلِقَ مِن مَّآءٍۢ دَافِقٍۢ"
+ letters: 12
+ mizan: "A86:6=12"
+ hash: "85890370d7d094ea"
+ - verse_id: 7
+ text: "يَخْرُجُ مِنۢ بَيْنِ ٱلصُّلْبِ وَٱلتَّرَآئِبِ"
+ letters: 20
+ mizan: "A86:7=20"
+ hash: "e14c9fdcab3c8ff7"
+ - verse_id: 8
+ text: "إِنَّهُۥ عَلَىٰ رَجْعِهِۦ لَقَادِرٌۭ"
+ letters: 15
+ mizan: "A86:8=15"
+ hash: "d193c71a7dea9705"
+ - verse_id: 9
+ text: "يَوْمَ تُبْلَى ٱلسَّرَآئِرُ"
+ letters: 13
+ mizan: "A86:9=13"
+ hash: "41979197b698f45e"
+ - verse_id: 10
+ text: "فَمَا لَهُۥ مِن قُوَّةٍۢ وَلَا نَاصِرٍۢ"
+ letters: 17
+ mizan: "A86:10=17"
+ hash: "1a52b3b61774b9a3"
+ - verse_id: 11
+ text: "وَٱلسَّمَآءِ ذَاتِ ٱلرَّجْعِ"
+ letters: 13
+ mizan: "A86:11=13"
+ hash: "2d6420a0a3bffe6e"
+ - verse_id: 12
+ text: "وَٱلْأَرْضِ ذَاتِ ٱلصَّدْعِ"
+ letters: 12
+ mizan: "A86:12=12"
+ hash: "2692b4ff4decebab"
+ - verse_id: 13
+ text: "إِنَّهُۥ لَقَوْلٌۭ فَصْلٌۭ"
+ letters: 10
+ mizan: "A86:13=10"
+ hash: "d5587932eab5790a"
+ - verse_id: 14
+ text: "وَمَا هُوَ بِٱلْهَزْلِ"
+ letters: 10
+ mizan: "A86:14=10"
+ hash: "20f1d766ed61f492"
+ - verse_id: 15
+ text: "إِنَّهُمْ يَكِيدُونَ كَيْدًۭا"
+ letters: 14
+ mizan: "A86:15=14"
+ hash: "bc90056714b89f29"
+ - verse_id: 16
+ text: "وَأَكِيدُ كَيْدًۭا"
+ letters: 9
+ mizan: "A86:16=9"
+ hash: "e92e235df6abc6d0"
+ - verse_id: 17
+ text: "فَمَهِّلِ ٱلْكَٰفِرِينَ أَمْهِلْهُمْ رُوَيْدًۢا"
+ letters: 21
+ mizan: "A86:17=21"
+ hash: "2adf2e5a5f1de949"
