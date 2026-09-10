@@ -1,10 +1,31 @@
-# 113_surah_113
-surah: 113
-name: surah_113
-verses: 5
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 113
+surah_name: الفلق
+total_ayahs: 5
+mizan_genesis: A1:1=19
+mizan_chain: 9203059->A113
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ"
+ letters: 29
+ mizan: "A113:1=29"
+ hash: "3af5f9a51b318624"
+ - verse_id: 2
+ text: "مِن شَرِّ مَا خَلَقَ"
+ letters: 9
+ mizan: "A113:2=9"
+ hash: "e20c1399e94c41de"
+ - verse_id: 3
+ text: "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ"
+ letters: 15
+ mizan: "A113:3=15"
+ hash: "b3501f9b1a17ac36"
+ - verse_id: 4
+ text: "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ"
+ letters: 16
+ mizan: "A113:4=16"
+ hash: "00cebba9c3056ff9"
+ - verse_id: 5
+ text: "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ"
+ letters: 15
+ mizan: "A113:5=15"
+ hash: "2a974f26ea539b4c"
