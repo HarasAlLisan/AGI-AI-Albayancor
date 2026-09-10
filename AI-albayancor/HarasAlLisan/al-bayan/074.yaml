@@ -1,10 +1,286 @@
-# 074_surah_74
-surah: 74
-name: surah_74
-verses: 56
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 74
+surah_name: المدثر
+total_ayahs: 56
+mizan_genesis: A1:1=19
+mizan_chain: 4e4b215->A74
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَٰٓأَيُّهَا ٱلْمُدَّثِّرُ"
+ letters: 26
+ mizan: "A74:1=26"
+ hash: "78a6b941d168a000"
+ - verse_id: 2
+ text: "قُمْ فَأَنذِرْ"
+ letters: 7
+ mizan: "A74:2=7"
+ hash: "ec123b5a239e2394"
+ - verse_id: 3
+ text: "وَرَبَّكَ فَكَبِّرْ"
+ letters: 8
+ mizan: "A74:3=8"
+ hash: "9ab80d28ae8753c4"
+ - verse_id: 4
+ text: "وَثِيَابَكَ فَطَهِّرْ"
+ letters: 10
+ mizan: "A74:4=10"
+ hash: "5794484412c1499c"
+ - verse_id: 5
+ text: "وَٱلرُّجْزَ فَٱهْجُرْ"
+ letters: 9
+ mizan: "A74:5=9"
+ hash: "239501db80abaf50"
+ - verse_id: 6
+ text: "وَلَا تَمْنُن تَسْتَكْثِرُ"
+ letters: 13
+ mizan: "A74:6=13"
+ hash: "466cffca24dfaec0"
+ - verse_id: 7
+ text: "وَلِرَبِّكَ فَٱصْبِرْ"
+ letters: 9
+ mizan: "A74:7=9"
+ hash: "b872bcd7b3dfda3e"
+ - verse_id: 8
+ text: "فَإِذَا نُقِرَ فِى ٱلنَّاقُورِ"
+ letters: 15
+ mizan: "A74:8=15"
+ hash: "73dc76a676f8ded4"
+ - verse_id: 9
+ text: "فَذَٰلِكَ يَوْمَئِذٍۢ يَوْمٌ عَسِيرٌ"
+ letters: 16
+ mizan: "A74:9=16"
+ hash: "5cadd35458307047"
+ - verse_id: 10
+ text: "عَلَى ٱلْكَٰفِرِينَ غَيْرُ يَسِيرٍۢ"
+ letters: 16
+ mizan: "A74:10=16"
+ hash: "b5f9a3b7993f339e"
+ - verse_id: 11
+ text: "ذَرْنِى وَمَنْ خَلَقْتُ وَحِيدًۭا"
+ letters: 16
+ mizan: "A74:11=16"
+ hash: "0e4fb6ce951c2039"
+ - verse_id: 12
+ text: "وَجَعَلْتُ لَهُۥ مَالًۭا مَّمْدُودًۭا"
+ letters: 17
+ mizan: "A74:12=17"
+ hash: "204567929b35f631"
+ - verse_id: 13
+ text: "وَبَنِينَ شُهُودًۭا"
+ letters: 10
+ mizan: "A74:13=10"
+ hash: "9c48e4421d336c87"
+ - verse_id: 14
+ text: "وَمَهَّدتُّ لَهُۥ تَمْهِيدًۭا"
+ letters: 13
+ mizan: "A74:14=13"
+ hash: "625cf6fbb835a561"
+ - verse_id: 15
+ text: "ثُمَّ يَطْمَعُ أَنْ أَزِيدَ"
+ letters: 12
+ mizan: "A74:15=12"
+ hash: "d0e6974d9a78bdda"
+ - verse_id: 16
+ text: "كَلَّآ ۖ إِنَّهُۥ كَانَ لِءَايَٰتِنَا عَنِيدًۭا"
+ letters: 21
+ mizan: "A74:16=21"
+ hash: "b8d01becc8f2daf8"
+ - verse_id: 17
+ text: "سَأُرْهِقُهُۥ صَعُودًا"
+ letters: 11
+ mizan: "A74:17=11"
+ hash: "a03229af366c4558"
+ - verse_id: 18
+ text: "إِنَّهُۥ فَكَّرَ وَقَدَّرَ"
+ letters: 10
+ mizan: "A74:18=10"
+ hash: "cd2e17d2bd383371"
+ - verse_id: 19
+ text: "فَقُتِلَ كَيْفَ قَدَّرَ"
+ letters: 10
+ mizan: "A74:19=10"
+ hash: "0555d1da53f5c7d7"
+ - verse_id: 20
+ text: "ثُمَّ قُتِلَ كَيْفَ قَدَّرَ"
+ letters: 11
+ mizan: "A74:20=11"
+ hash: "eaab83ba23379944"
+ - verse_id: 21
+ text: "ثُمَّ نَظَرَ"
+ letters: 5
+ mizan: "A74:21=5"
+ hash: "96e5a188209a13ef"
+ - verse_id: 22
+ text: "ثُمَّ عَبَسَ وَبَسَرَ"
+ letters: 9
+ mizan: "A74:22=9"
+ hash: "8dea9f5edb0c4c7c"
+ - verse_id: 23
+ text: "ثُمَّ أَدْبَرَ وَٱسْتَكْبَرَ"
+ letters: 12
+ mizan: "A74:23=12"
+ hash: "1d67dc0df435d3d8"
+ - verse_id: 24
+ text: "فَقَالَ إِنْ هَٰذَآ إِلَّا سِحْرٌۭ يُؤْثَرُ"
+ letters: 19
+ mizan: "A74:24=19"
+ hash: "94b48b70dbfb1eb7"
+ - verse_id: 25
+ text: "إِنْ هَٰذَآ إِلَّا قَوْلُ ٱلْبَشَرِ"
+ letters: 15
+ mizan: "A74:25=15"
+ hash: "128c4196b1276209"
+ - verse_id: 26
+ text: "سَأُصْلِيهِ سَقَرَ"
+ letters: 9
+ mizan: "A74:26=9"
+ hash: "bacf8e50307f8b71"
+ - verse_id: 27
+ text: "وَمَآ أَدْرَىٰكَ مَا سَقَرُ"
+ letters: 13
+ mizan: "A74:27=13"
+ hash: "a84f5e98e0822926"
+ - verse_id: 28
+ text: "لَا تُبْقِى وَلَا تَذَرُ"
+ letters: 12
+ mizan: "A74:28=12"
+ hash: "85e68f40465596ba"
+ - verse_id: 29
+ text: "لَوَّاحَةٌۭ لِّلْبَشَرِ"
+ letters: 10
+ mizan: "A74:29=10"
+ hash: "1568f285a6a3fde9"
+ - verse_id: 30
+ text: "عَلَيْهَا تِسْعَةَ عَشَرَ"
+ letters: 12
+ mizan: "A74:30=12"
+ hash: "79a5a939603aa3e5"
+ - verse_id: 31
+ text: "وَمَا جَعَلْنَآ أَصْحَٰبَ ٱلنَّارِ إِلَّا مَلَٰٓئِكَةًۭ ۙ وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةًۭ لِّلَّذِينَ كَفَرُوا۟ لِيَسْتَيْقِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ وَيَزْدَادَ ٱلَّذِينَ ءَامَنُوٓا۟ إِيمَٰنًۭا ۙ وَلَا يَرْتَابَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ وَٱلْمُؤْمِنُونَ ۙ وَلِيَقُولَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ وَٱلْكَٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۚ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ ۚ وَمَا هِىَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ"
+ letters: 234
+ mizan: "A74:31=234"
+ hash: "f89a379bdb71d0b8"
+ - verse_id: 32
+ text: "كَلَّا وَٱلْقَمَرِ"
+ letters: 8
+ mizan: "A74:32=8"
+ hash: "4b30e6ff71be3fbe"
+ - verse_id: 33
+ text: "وَٱلَّيْلِ إِذْ أَدْبَرَ"
+ letters: 10
+ mizan: "A74:33=10"
+ hash: "6d6a3ad2ebecd810"
+ - verse_id: 34
+ text: "وَٱلصُّبْحِ إِذَآ أَسْفَرَ"
+ letters: 12
+ mizan: "A74:34=12"
+ hash: "607ee7b901e44c9e"
+ - verse_id: 35
+ text: "إِنَّهَا لَإِحْدَى ٱلْكُبَرِ"
+ letters: 13
+ mizan: "A74:35=13"
+ hash: "e463efa38253ad5c"
+ - verse_id: 36
+ text: "نَذِيرًۭا لِّلْبَشَرِ"
+ letters: 10
+ mizan: "A74:36=10"
+ hash: "11ad5b9fb85fa0a6"
+ - verse_id: 37
+ text: "لِمَن شَآءَ مِنكُمْ أَن يَتَقَدَّمَ أَوْ يَتَأَخَّرَ"
+ letters: 24
+ mizan: "A74:37=24"
+ hash: "09f11241def1d6a2"
+ - verse_id: 38
+ text: "كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ رَهِينَةٌ"
+ letters: 17
+ mizan: "A74:38=17"
+ hash: "3fbd676ae47977f0"
+ - verse_id: 39
+ text: "إِلَّآ أَصْحَٰبَ ٱلْيَمِينِ"
+ letters: 12
+ mizan: "A74:39=12"
+ hash: "c117d2f955353569"
+ - verse_id: 40
+ text: "فِى جَنَّٰتٍۢ يَتَسَآءَلُونَ"
+ letters: 13
+ mizan: "A74:40=13"
+ hash: "62e21ce3f59c2cf9"
+ - verse_id: 41
+ text: "عَنِ ٱلْمُجْرِمِينَ"
+ letters: 9
+ mizan: "A74:41=9"
+ hash: "d609799fe2eb9a7a"
+ - verse_id: 42
+ text: "مَا سَلَكَكُمْ فِى سَقَرَ"
+ letters: 12
+ mizan: "A74:42=12"
+ hash: "9007658c9c98f90e"
+ - verse_id: 43
+ text: "قَالُوا۟ لَمْ نَكُ مِنَ ٱلْمُصَلِّينَ"
+ letters: 17
+ mizan: "A74:43=17"
+ hash: "5cb168ecb058b96a"
+ - verse_id: 44
+ text: "وَلَمْ نَكُ نُطْعِمُ ٱلْمِسْكِينَ"
+ letters: 15
+ mizan: "A74:44=15"
+ hash: "e729d081b4bdfa34"
+ - verse_id: 45
+ text: "وَكُنَّا نَخُوضُ مَعَ ٱلْخَآئِضِينَ"
+ letters: 17
+ mizan: "A74:45=17"
+ hash: "31ab4a18cad6f1b6"
+ - verse_id: 46
+ text: "وَكُنَّا نُكَذِّبُ بِيَوْمِ ٱلدِّينِ"
+ letters: 16
+ mizan: "A74:46=16"
+ hash: "7be1661459cc48ef"
+ - verse_id: 47
+ text: "حَتَّىٰٓ أَتَىٰنَا ٱلْيَقِينُ"
+ letters: 13
+ mizan: "A74:47=13"
+ hash: "9e5dcba38d9c689c"
+ - verse_id: 48
+ text: "فَمَا تَنفَعُهُمْ شَفَٰعَةُ ٱلشَّٰفِعِينَ"
+ letters: 19
+ mizan: "A74:48=19"
+ hash: "c18f708ff762705e"
+ - verse_id: 49
+ text: "فَمَا لَهُمْ عَنِ ٱلتَّذْكِرَةِ مُعْرِضِينَ"
+ letters: 20
+ mizan: "A74:49=20"
+ hash: "9339734dd1efabdf"
+ - verse_id: 50
+ text: "كَأَنَّهُمْ حُمُرٌۭ مُّسْتَنفِرَةٌۭ"
+ letters: 15
+ mizan: "A74:50=15"
+ hash: "de6dcfdfe4d1c00c"
+ - verse_id: 51
+ text: "فَرَّتْ مِن قَسْوَرَةٍۭ"
+ letters: 10
+ mizan: "A74:51=10"
+ hash: "721e6eeb085b9679"
+ - verse_id: 52
+ text: "بَلْ يُرِيدُ كُلُّ ٱمْرِئٍۢ مِّنْهُمْ أَن يُؤْتَىٰ صُحُفًۭا مُّنَشَّرَةًۭ"
+ letters: 30
+ mizan: "A74:52=30"
+ hash: "426a6409af0fe751"
+ - verse_id: 53
+ text: "كَلَّا ۖ بَل لَّا يَخَافُونَ ٱلْءَاخِرَةَ"
+ letters: 19
+ mizan: "A74:53=19"
+ hash: "4e4ba5eec1ff1bd5"
+ - verse_id: 54
+ text: "كَلَّآ إِنَّهُۥ تَذْكِرَةٌۭ"
+ letters: 11
+ mizan: "A74:54=11"
+ hash: "d68f49d3eb3deb4d"
+ - verse_id: 55
+ text: "فَمَن شَآءَ ذَكَرَهُۥ"
+ letters: 10
+ mizan: "A74:55=10"
+ hash: "cbffe735200bb584"
+ - verse_id: 56
+ text: "وَمَا يَذْكُرُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ هُوَ أَهْلُ ٱلتَّقْوَىٰ وَأَهْلُ ٱلْمَغْفِرَةِ"
+ letters: 41
+ mizan: "A74:56=41"
+ hash: "3df880aae37b3ecb"
