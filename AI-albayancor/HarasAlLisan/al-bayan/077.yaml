@@ -1,10 +1,256 @@
-# 077_surah_77
-surah: 77
-name: surah_77
-verses: 50
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 77
+surah_name: المرسلات
+total_ayahs: 50
+mizan_genesis: A1:1=19
+mizan_chain: aff5b93->A77
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْمُرْسَلَٰتِ عُرْفًۭا"
+ letters: 27
+ mizan: "A77:1=27"
+ hash: "8d6c52a33548f172"
+ - verse_id: 2
+ text: "فَٱلْعَٰصِفَٰتِ عَصْفًۭا"
+ letters: 10
+ mizan: "A77:2=10"
+ hash: "52999a48ad614fdc"
+ - verse_id: 3
+ text: "وَٱلنَّٰشِرَٰتِ نَشْرًۭا"
+ letters: 10
+ mizan: "A77:3=10"
+ hash: "5c0e8573fb8eef4c"
+ - verse_id: 4
+ text: "فَٱلْفَٰرِقَٰتِ فَرْقًۭا"
+ letters: 10
+ mizan: "A77:4=10"
+ hash: "3f5c7537b170f38f"
+ - verse_id: 5
+ text: "فَٱلْمُلْقِيَٰتِ ذِكْرًا"
+ letters: 11
+ mizan: "A77:5=11"
+ hash: "ab0a7b646e507b27"
+ - verse_id: 6
+ text: "عُذْرًا أَوْ نُذْرًا"
+ letters: 10
+ mizan: "A77:6=10"
+ hash: "d3947be0ccef617e"
+ - verse_id: 7
+ text: "إِنَّمَا تُوعَدُونَ لَوَٰقِعٌۭ"
+ letters: 14
+ mizan: "A77:7=14"
+ hash: "d4bb25caefba515e"
+ - verse_id: 8
+ text: "فَإِذَا ٱلنُّجُومُ طُمِسَتْ"
+ letters: 13
+ mizan: "A77:8=13"
+ hash: "03c6abcd826b46a1"
+ - verse_id: 9
+ text: "وَإِذَا ٱلسَّمَآءُ فُرِجَتْ"
+ letters: 13
+ mizan: "A77:9=13"
+ hash: "2fa01a891e16c0a8"
+ - verse_id: 10
+ text: "وَإِذَا ٱلْجِبَالُ نُسِفَتْ"
+ letters: 13
+ mizan: "A77:10=13"
+ hash: "14ce6629b8237792"
+ - verse_id: 11
+ text: "وَإِذَا ٱلرُّسُلُ أُقِّتَتْ"
+ letters: 12
+ mizan: "A77:11=12"
+ hash: "d7fab9a1b4510e08"
+ - verse_id: 12
+ text: "لِأَىِّ يَوْمٍ أُجِّلَتْ"
+ letters: 10
+ mizan: "A77:12=10"
+ hash: "2fabd3d446b2fa13"
+ - verse_id: 13
+ text: "لِيَوْمِ ٱلْفَصْلِ"
+ letters: 8
+ mizan: "A77:13=8"
+ hash: "f6e5474701e5d41f"
+ - verse_id: 14
+ text: "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلْفَصْلِ"
+ letters: 17
+ mizan: "A77:14=17"
+ hash: "7a90b11cde9c0216"
+ - verse_id: 15
+ text: "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ"
+ letters: 16
+ mizan: "A77:15=16"
+ hash: "2716ed6f265267b8"
+ - verse_id: 16
+ text: "أَلَمْ نُهْلِكِ ٱلْأَوَّلِينَ"
+ letters: 13
+ mizan: "A77:16=13"
+ hash: "4e5e4e63ccc4a68d"
+ - verse_id: 17
+ text: "ثُمَّ نُتْبِعُهُمُ ٱلْءَاخِرِينَ"
+ letters: 15
+ mizan: "A77:17=15"
+ hash: "4962ab21eba54c28"
+ - verse_id: 18
+ text: "كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ"
+ letters: 16
+ mizan: "A77:18=16"
+ hash: "40aab55b7c793665"
+ - verse_id: 19
+ text: "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ"
+ letters: 16
+ mizan: "A77:19=16"
+ hash: "2716ed6f265267b8"
+ - verse_id: 20
+ text: "أَلَمْ نَخْلُقكُّم مِّن مَّآءٍۢ مَّهِينٍۢ"
+ letters: 18
+ mizan: "A77:20=18"
+ hash: "03795824cf7da7b6"
+ - verse_id: 21
+ text: "فَجَعَلْنَٰهُ فِى قَرَارٍۢ مَّكِينٍ"
+ letters: 16
+ mizan: "A77:21=16"
+ hash: "6702ea0b6a46f5ac"
+ - verse_id: 22
+ text: "إِلَىٰ قَدَرٍۢ مَّعْلُومٍۢ"
+ letters: 11
+ mizan: "A77:22=11"
+ hash: "971ea36a73b99d8a"
+ - verse_id: 23
+ text: "فَقَدَرْنَا فَنِعْمَ ٱلْقَٰدِرُونَ"
+ letters: 16
+ mizan: "A77:23=16"
+ hash: "a9154709841fbf1a"
+ - verse_id: 24
+ text: "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ"
+ letters: 16
+ mizan: "A77:24=16"
+ hash: "2716ed6f265267b8"
+ - verse_id: 25
+ text: "أَلَمْ نَجْعَلِ ٱلْأَرْضَ كِفَاتًا"
+ letters: 16
+ mizan: "A77:25=16"
+ hash: "b335d053e43406d2"
+ - verse_id: 26
+ text: "أَحْيَآءًۭ وَأَمْوَٰتًۭا"
+ letters: 11
+ mizan: "A77:26=11"
+ hash: "7f3d3ad29daba7bf"
+ - verse_id: 27
+ text: "وَجَعَلْنَا فِيهَا رَوَٰسِىَ شَٰمِخَٰتٍۢ وَأَسْقَيْنَٰكُم مَّآءًۭ فُرَاتًۭا"
+ letters: 34
+ mizan: "A77:27=34"
+ hash: "21f81ce3ad8efcc6"
+ - verse_id: 28
+ text: "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ"
+ letters: 16
+ mizan: "A77:28=16"
+ hash: "2716ed6f265267b8"
+ - verse_id: 29
+ text: "ٱنطَلِقُوٓا۟ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ"
+ letters: 23
+ mizan: "A77:29=23"
+ hash: "64bb9791313e2f23"
+ - verse_id: 30
+ text: "ٱنطَلِقُوٓا۟ إِلَىٰ ظِلٍّۢ ذِى ثَلَٰثِ شُعَبٍۢ"
+ letters: 19
+ mizan: "A77:30=19"
+ hash: "2b99594a89ef8b84"
+ - verse_id: 31
+ text: "لَّا ظَلِيلٍۢ وَلَا يُغْنِى مِنَ ٱللَّهَبِ"
+ letters: 19
+ mizan: "A77:31=19"
+ hash: "3d1a9031f3cea1b4"
+ - verse_id: 32
+ text: "إِنَّهَا تَرْمِى بِشَرَرٍۢ كَٱلْقَصْرِ"
+ letters: 17
+ mizan: "A77:32=17"
+ hash: "a7d7fcc394fc8283"
+ - verse_id: 33
+ text: "كَأَنَّهُۥ جِمَٰلَتٌۭ صُفْرٌۭ"
+ letters: 11
+ mizan: "A77:33=11"
+ hash: "3efa4491637f4135"
+ - verse_id: 34
+ text: "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ"
+ letters: 16
+ mizan: "A77:34=16"
+ hash: "2716ed6f265267b8"
+ - verse_id: 35
+ text: "هَٰذَا يَوْمُ لَا يَنطِقُونَ"
+ letters: 14
+ mizan: "A77:35=14"
+ hash: "8c23decf1abca81e"
+ - verse_id: 36
+ text: "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ"
+ letters: 18
+ mizan: "A77:36=18"
+ hash: "4c322e721d90c212"
+ - verse_id: 37
+ text: "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ"
+ letters: 16
+ mizan: "A77:37=16"
+ hash: "2716ed6f265267b8"
+ - verse_id: 38
+ text: "هَٰذَا يَوْمُ ٱلْفَصْلِ ۖ جَمَعْنَٰكُمْ وَٱلْأَوَّلِينَ"
+ letters: 23
+ mizan: "A77:38=23"
+ hash: "fa09fcfb76a16a34"
+ - verse_id: 39
+ text: "فَإِن كَانَ لَكُمْ كَيْدٌۭ فَكِيدُونِ"
+ letters: 18
+ mizan: "A77:39=18"
+ hash: "f7ae9e9af331309a"
+ - verse_id: 40
+ text: "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ"
+ letters: 16
+ mizan: "A77:40=16"
+ hash: "2716ed6f265267b8"
+ - verse_id: 41
+ text: "إِنَّ ٱلْمُتَّقِينَ فِى ظِلَٰلٍۢ وَعُيُونٍۢ"
+ letters: 18
+ mizan: "A77:41=18"
+ hash: "2ef7a371eef27335"
+ - verse_id: 42
+ text: "وَفَوَٰكِهَ مِمَّا يَشْتَهُونَ"
+ letters: 14
+ mizan: "A77:42=14"
+ hash: "2f6cd6fac2b112cc"
+ - verse_id: 43
+ text: "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ"
+ letters: 28
+ mizan: "A77:43=28"
+ hash: "18dcc97d83ebb7f5"
+ - verse_id: 44
+ text: "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ"
+ letters: 18
+ mizan: "A77:44=18"
+ hash: "e6f5440c67afbbe9"
+ - verse_id: 45
+ text: "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ"
+ letters: 16
+ mizan: "A77:45=16"
+ hash: "2716ed6f265267b8"
+ - verse_id: 46
+ text: "كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ"
+ letters: 26
+ mizan: "A77:46=26"
+ hash: "f59371057f488b5a"
+ - verse_id: 47
+ text: "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ"
+ letters: 16
+ mizan: "A77:47=16"
+ hash: "2716ed6f265267b8"
+ - verse_id: 48
+ text: "وَإِذَا قِيلَ لَهُمُ ٱرْكَعُوا۟ لَا يَرْكَعُونَ"
+ letters: 23
+ mizan: "A77:48=23"
+ hash: "ec000685a597487c"
+ - verse_id: 49
+ text: "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ"
+ letters: 16
+ mizan: "A77:49=16"
+ hash: "2716ed6f265267b8"
+ - verse_id: 50
+ text: "فَبِأَىِّ حَدِيثٍۭ بَعْدَهُۥ يُؤْمِنُونَ"
+ letters: 18
+ mizan: "A77:50=18"
+ hash: "e0bd2f6d33afbb4e"
