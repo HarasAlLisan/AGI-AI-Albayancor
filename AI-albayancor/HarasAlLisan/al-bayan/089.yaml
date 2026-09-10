@@ -1,10 +1,156 @@
-# 089_surah_89
-surah: 89
-name: surah_89
-verses: 30
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 89
+surah_name: الفجر
+total_ayahs: 30
+mizan_genesis: A1:1=19
+mizan_chain: 62583a3->A89
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْفَجْرِ"
+ letters: 21
+ mizan: "A89:1=21"
+ hash: "95c5c3e7c65dfcb6"
+ - verse_id: 2
+ text: "وَلَيَالٍ عَشْرٍۢ"
+ letters: 8
+ mizan: "A89:2=8"
+ hash: "1c92c205df585f5c"
+ - verse_id: 3
+ text: "وَٱلشَّفْعِ وَٱلْوَتْرِ"
+ letters: 10
+ mizan: "A89:3=10"
+ hash: "2e416704b56f5d2e"
+ - verse_id: 4
+ text: "وَٱلَّيْلِ إِذَا يَسْرِ"
+ letters: 10
+ mizan: "A89:4=10"
+ hash: "b57e57a97b2b3369"
+ - verse_id: 5
+ text: "هَلْ فِى ذَٰلِكَ قَسَمٌۭ لِّذِى حِجْرٍ"
+ letters: 16
+ mizan: "A89:5=16"
+ hash: "63e5582d42eaaf0c"
+ - verse_id: 6
+ text: "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ"
+ letters: 18
+ mizan: "A89:6=18"
+ hash: "a6f9fbaff3a0e2c8"
+ - verse_id: 7
+ text: "إِرَمَ ذَاتِ ٱلْعِمَادِ"
+ letters: 11
+ mizan: "A89:7=11"
+ hash: "ebb0d98c303b1e3d"
+ - verse_id: 8
+ text: "ٱلَّتِى لَمْ يُخْلَقْ مِثْلُهَا فِى ٱلْبِلَٰدِ"
+ letters: 20
+ mizan: "A89:8=20"
+ hash: "7091c05e3093d2ca"
+ - verse_id: 9
+ text: "وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ"
+ letters: 23
+ mizan: "A89:9=23"
+ hash: "5f925bddc555dd70"
+ - verse_id: 10
+ text: "وَفِرْعَوْنَ ذِى ٱلْأَوْتَادِ"
+ letters: 14
+ mizan: "A89:10=14"
+ hash: "9d0bbbc514f91297"
+ - verse_id: 11
+ text: "ٱلَّذِينَ طَغَوْا۟ فِى ٱلْبِلَٰدِ"
+ letters: 14
+ mizan: "A89:11=14"
+ hash: "6eaf30a434c4c772"
+ - verse_id: 12
+ text: "فَأَكْثَرُوا۟ فِيهَا ٱلْفَسَادَ"
+ letters: 16
+ mizan: "A89:12=16"
+ hash: "12d238aa19a32921"
+ - verse_id: 13
+ text: "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ"
+ letters: 18
+ mizan: "A89:13=18"
+ hash: "99f71b7e91747fa3"
+ - verse_id: 14
+ text: "إِنَّ رَبَّكَ لَبِٱلْمِرْصَادِ"
+ letters: 13
+ mizan: "A89:14=13"
+ hash: "1661a83574022f90"
+ - verse_id: 15
+ text: "فَأَمَّا ٱلْإِنسَٰنُ إِذَا مَا ٱبْتَلَىٰهُ رَبُّهُۥ فَأَكْرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّىٓ أَكْرَمَنِ"
+ letters: 46
+ mizan: "A89:15=46"
+ hash: "3ce21ce9e887839f"
+ - verse_id: 16
+ text: "وَأَمَّآ إِذَا مَا ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ رَبِّىٓ أَهَٰنَنِ"
+ letters: 38
+ mizan: "A89:16=38"
+ hash: "faadc8cf107dbbc4"
+ - verse_id: 17
+ text: "كَلَّا ۖ بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ"
+ letters: 18
+ mizan: "A89:17=18"
+ hash: "d2b7ab60c87b15be"
+ - verse_id: 18
+ text: "وَلَا تَحَٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ"
+ letters: 21
+ mizan: "A89:18=21"
+ hash: "7ef5610d928bfb45"
+ - verse_id: 19
+ text: "وَتَأْكُلُونَ ٱلتُّرَاثَ أَكْلًۭا لَّمًّۭا"
+ letters: 19
+ mizan: "A89:19=19"
+ hash: "fe389f1e67f0e8ef"
+ - verse_id: 20
+ text: "وَتُحِبُّونَ ٱلْمَالَ حُبًّۭا جَمًّۭا"
+ letters: 16
+ mizan: "A89:20=16"
+ hash: "27fee07cdf38893b"
+ - verse_id: 21
+ text: "كَلَّآ إِذَا دُكَّتِ ٱلْأَرْضُ دَكًّۭا دَكًّۭا"
+ letters: 19
+ mizan: "A89:21=19"
+ hash: "4618a2cb3cfe051b"
+ - verse_id: 22
+ text: "وَجَآءَ رَبُّكَ وَٱلْمَلَكُ صَفًّۭا صَفًّۭا"
+ letters: 18
+ mizan: "A89:22=18"
+ hash: "044d50290e67fee2"
+ - verse_id: 23
+ text: "وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ ۚ يَوْمَئِذٍۢ يَتَذَكَّرُ ٱلْإِنسَٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ"
+ letters: 41
+ mizan: "A89:23=41"
+ hash: "a70f8c86da5c7b05"
+ - verse_id: 24
+ text: "يَقُولُ يَٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى"
+ letters: 20
+ mizan: "A89:24=20"
+ hash: "4f41e6d888a41658"
+ - verse_id: 25
+ text: "فَيَوْمَئِذٍۢ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٌۭ"
+ letters: 20
+ mizan: "A89:25=20"
+ hash: "580a9647c5150e70"
+ - verse_id: 26
+ text: "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٌۭ"
+ letters: 15
+ mizan: "A89:26=15"
+ hash: "751db60e9eec415f"
+ - verse_id: 27
+ text: "يَٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ"
+ letters: 17
+ mizan: "A89:27=17"
+ hash: "9081b8e68e718ea6"
+ - verse_id: 28
+ text: "ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةًۭ مَّرْضِيَّةًۭ"
+ letters: 20
+ mizan: "A89:28=20"
+ hash: "8b7ca688ade9688f"
+ - verse_id: 29
+ text: "فَٱدْخُلِى فِى عِبَٰدِى"
+ letters: 11
+ mizan: "A89:29=11"
+ hash: "8525d63e877e7824"
+ - verse_id: 30
+ text: "وَٱدْخُلِى جَنَّتِى"
+ letters: 9
+ mizan: "A89:30=9"
+ hash: "8d1db6dd0f98f4c9"
