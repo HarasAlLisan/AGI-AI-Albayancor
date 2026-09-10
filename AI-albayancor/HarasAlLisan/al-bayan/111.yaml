@@ -1,10 +1,31 @@
-# 111_surah_111
-surah: 111
-name: surah_111
-verses: 5
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 111
+surah_name: المسد
+total_ayahs: 5
+mizan_genesis: A1:1=19
+mizan_chain: a8666dc->A111
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ تَبَّتْ يَدَآ أَبِى لَهَبٍۢ وَتَبَّ"
+ letters: 31
+ mizan: "A111:1=31"
+ hash: "b53df92cdbe394dd"
+ - verse_id: 2
+ text: "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ"
+ letters: 19
+ mizan: "A111:2=19"
+ hash: "1df2759f8c75e1cb"
+ - verse_id: 3
+ text: "سَيَصْلَىٰ نَارًۭا ذَاتَ لَهَبٍۢ"
+ letters: 15
+ mizan: "A111:3=15"
+ hash: "535e5b51b3671b7e"
+ - verse_id: 4
+ text: "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ"
+ letters: 15
+ mizan: "A111:4=15"
+ hash: "b7c329756954fb1b"
+ - verse_id: 5
+ text: "فِى جِيدِهَا حَبْلٌۭ مِّن مَّسَدٍۭ"
+ letters: 15
+ mizan: "A111:5=15"
+ hash: "828eca856d16c0f0"
