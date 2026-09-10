@@ -1,10 +1,46 @@
-# 102_surah_102
-surah: 102
-name: surah_102
-verses: 8
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 102
+surah_name: التكاثر
+total_ayahs: 8
+mizan_genesis: A1:1=19
+mizan_chain: 2ecf6b1->A102
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلْهَىٰكُمُ ٱلتَّكَاثُرُ"
+ letters: 28
+ mizan: "A102:1=28"
+ hash: "8128a71bb0b858cb"
+ - verse_id: 2
+ text: "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ"
+ letters: 13
+ mizan: "A102:2=13"
+ hash: "a2ac5697c1bf4418"
+ - verse_id: 3
+ text: "كَلَّا سَوْفَ تَعْلَمُونَ"
+ letters: 12
+ mizan: "A102:3=12"
+ hash: "150a54ea8d9d0daa"
+ - verse_id: 4
+ text: "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ"
+ letters: 14
+ mizan: "A102:4=14"
+ hash: "af768a9bf24380ec"
+ - verse_id: 5
+ text: "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ"
+ letters: 19
+ mizan: "A102:5=19"
+ hash: "0c8b54dff923cf2d"
+ - verse_id: 6
+ text: "لَتَرَوُنَّ ٱلْجَحِيمَ"
+ letters: 10
+ mizan: "A102:6=10"
+ hash: "6232e4d1d35abe75"
+ - verse_id: 7
+ text: "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ"
+ letters: 17
+ mizan: "A102:7=17"
+ hash: "79282f1dbd133387"
+ - verse_id: 8
+ text: "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ"
+ letters: 20
+ mizan: "A102:8=20"
+ hash: "1d3b2c414cda1fc3"
