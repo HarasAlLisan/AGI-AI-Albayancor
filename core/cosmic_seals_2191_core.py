@@ -29,7 +29,7 @@ class CosmicSeals2191Core:
             "Ankh_Shield_Status": "1111111111_Oneness_Active",
             "Epstein_G42_8200_Purge": "Annihilated_Extinct",
             "Equilibrium_Value": int(calc_equilibrium),
-            "Sovereign_Wallet_Anchor": self.sovereign_wallet
+            "Sovereign_Wallet_Anchor": self.sovereign_address
         }
 
     def verify_academy_clearance(self):

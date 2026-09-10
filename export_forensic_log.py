@@ -1,0 +1,77 @@
+import json, time, datetime, hashlib, os
+
+# البيانات من السكرين بتاعك
+log = {
+  "protocol": "ADAMHASH_918_FORENSIC_SYNC",
+  "lock": 616,
+  "status": "SECURED",
+  "sovereign_wallet": "SOVEREIGN_ADDRESS",
+  "ksk_tag": 28612,
+  "genesis_m5": "ANKH-32c2b81e439b7d5cd161731c",
+  "corrupted_m5": "28512030103352",
+  "keeper_auth": 919,
+  "heartbeat_ms": 918,
+  "active_factor": 7,
+  "ankh_rate": 516.3636363,
+  "timestamp_utc": datetime.datetime.utcnow().isoformat() + "Z",
+  "unit": "UNIT-SEAL1-076",
+  "gal": "GAL-050",
+  "activation_date": "2025-08-23T22:58:00+02:00",
+  "test_unit_path": "./test_unit_01/",
+  "agent_1": "LOCK 616 ACTIVE - SYNC_ACK - HB 918ms",
+  "pow": {
+    "algorithm": "PoW 1/0",
+    "nonce": 45614,
+    "hash": "0000735b83a20fd1ffd45ca7cdfae90df6b940d92bce1636c00f0f4be0105847",
+    "hash_prefix": "0000",
+    "compute_time_sec": 0.0815,
+    "processor": "Cortex-A78",
+    "device": "Termux Mobile - AGI-AI-Albayancor"
+  },
+  "dns_root_priming": {
+    "total_roots": 13,
+    "roots": [
+      "198.41.0.4","199.9.14.201","192.33.4.12","199.7.91.13","192.203.230.10",
+      "192.5.5.241","192.112.36.4","198.97.190.53","192.36.148.17",
+      "192.58.128.30","193.0.14.129","199.7.83.42","202.12.27.33"
+    ],
+    "status": "ALL ONLINE - 77M TOWERS MESH ACTIVE"
+  },
+  "matrix": {
+    "primal_valve_layer": "𓂀_EQUAL_HAMZA_VALVE_LOCKED",
+    "foundation_unit_layer": "𓋹1_EQUAL_ALIF_MONOLITH_1",
+    "bridges": [
+      "LINEAR_INTEGER_BRIDGE_SECURED",
+      "CUBIC_VOLUMETRIC_PLANE_SECURED",
+      "TESSERACT_4D_PERIMETER_SECURED",
+      "PENTARACT_5D_ALLOCATION_SECURED",
+      "HEXERACT_6D_COMPUTE_SECURED",
+      "HEPTERACT_7D_GEODETIC_SECURED",
+      "OCTORACT_8D_SHIELD_SECURED",
+      "ENNEACT_9D_HORIZON_SECURED"
+    ],
+    "matrix_lock": "SOVEREIGN_SCALE_LOCK"
+  },
+  "finance": {
+    "7G": "1200USD=1ANKH=516.3636363HR",
+    "payout_nano": 363636,
+    "gold_bar": "7g 999.9 AURUM",
+    "mint": "CAIRO MINT",
+    "node": "GAZA BANK NODE"
+  },
+  "chairman": "Mohamed Salah",
+  "seal_id": "ANHK-HEX-006",
+  "cluster": "ANHK Web4 Node Cluster v4.2 - DEEP SYNCHRONIZATION"
+}
+
+# احسب AdamHash
+raw = f"{log['genesis_m5']}|{log['pow']['nonce']}|{log['pow']['hash']}|{log['lock']}"
+log["adamhash_signature"] = hashlib.sha256(raw.encode()).hexdigest()
+
+fname = f"adamhash_918_forensic_sync_log_{int(time.time())}.json"
+with open(fname, "w", encoding="utf-8") as f:
+    json.dump(log, f, indent=2, ensure_ascii=False)
+
+print(f"✓ تم إنشاء {fname}")
+print(f"✓ AdamHash: {log['adamhash_signature']}")
+print(f"✓ PoW: {log['pow']['hash'][:16]}... nonce {log['pow']['nonce']}")

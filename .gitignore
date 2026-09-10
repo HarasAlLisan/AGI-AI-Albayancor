@@ -1,22 +1,5 @@
-alb_logs/WorkManifestLog.md
-AI-albayancor/alb_logs/
+.env
 forensic_616.enc
-*.enc
-*.tar.gz
-check.json
+google-cloud-cli-linux-arm.tar.gz
 __pycache__/
-forensic.json
-verify.json
-adamhash_*.json
-export_forensic_log.py
-*.log
-.keys_50_private_vault.json
-gate48_616.log
-= *.log
-!ANHK_*.log
-web4anhk.bak_616/
-ANHK_Ollama_Sync.log
-Modelfile
-web4anhk.bak_616/
-ANHK_Ollama_Sync.log
-Modelfile
+*.enc
