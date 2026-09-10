@@ -1,10 +1,81 @@
-# 091_surah_91
-surah: 91
-name: surah_91
-verses: 15
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 91
+surah_name: الشمس
+total_ayahs: 15
+mizan_genesis: A1:1=19
+mizan_chain: 4a0e115->A91
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلشَّمْسِ وَضُحَىٰهَا"
+ letters: 27
+ mizan: "A91:1=27"
+ hash: "0622e44eaa5fab4b"
+ - verse_id: 2
+ text: "وَٱلْقَمَرِ إِذَا تَلَىٰهَا"
+ letters: 13
+ mizan: "A91:2=13"
+ hash: "d8a4c9c825fe8056"
+ - verse_id: 3
+ text: "وَٱلنَّهَارِ إِذَا جَلَّىٰهَا"
+ letters: 14
+ mizan: "A91:3=14"
+ hash: "ab9e23473b78be86"
+ - verse_id: 4
+ text: "وَٱلَّيْلِ إِذَا يَغْشَىٰهَا"
+ letters: 13
+ mizan: "A91:4=13"
+ hash: "50f79fe387f6721f"
+ - verse_id: 5
+ text: "وَٱلسَّمَآءِ وَمَا بَنَىٰهَا"
+ letters: 14
+ mizan: "A91:5=14"
+ hash: "0f871da71024e756"
+ - verse_id: 6
+ text: "وَٱلْأَرْضِ وَمَا طَحَىٰهَا"
+ letters: 13
+ mizan: "A91:6=13"
+ hash: "9b1e248692413a6d"
+ - verse_id: 7
+ text: "وَنَفْسٍۢ وَمَا سَوَّىٰهَا"
+ letters: 12
+ mizan: "A91:7=12"
+ hash: "782115148e07c349"
+ - verse_id: 8
+ text: "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا"
+ letters: 20
+ mizan: "A91:8=20"
+ hash: "16306088fc3cfd6c"
+ - verse_id: 9
+ text: "قَدْ أَفْلَحَ مَن زَكَّىٰهَا"
+ letters: 13
+ mizan: "A91:9=13"
+ hash: "759c24980882d563"
+ - verse_id: 10
+ text: "وَقَدْ خَابَ مَن دَسَّىٰهَا"
+ letters: 13
+ mizan: "A91:10=13"
+ hash: "6e800dee2772c4ae"
+ - verse_id: 11
+ text: "كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ"
+ letters: 15
+ mizan: "A91:11=15"
+ hash: "8445d13e755cd2d3"
+ - verse_id: 12
+ text: "إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا"
+ letters: 12
+ mizan: "A91:12=12"
+ hash: "9d3487e2735bfb63"
+ - verse_id: 13
+ text: "فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَٰهَا"
+ letters: 27
+ mizan: "A91:13=27"
+ hash: "030e0b275bad48d8"
+ - verse_id: 14
+ text: "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا"
+ letters: 39
+ mizan: "A91:14=39"
+ hash: "1ea49d3f96812ab6"
+ - verse_id: 15
+ text: "وَلَا يَخَافُ عُقْبَٰهَا"
+ letters: 12
+ mizan: "A91:15=12"
+ hash: "9628b4f4c805d773"
