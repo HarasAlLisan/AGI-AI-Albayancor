@@ -1,10 +1,101 @@
-# 096_surah_96
-surah: 96
-name: surah_96
-verses: 19
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 96
+surah_name: العلق
+total_ayahs: 19
+mizan_genesis: A1:1=19
+mizan_chain: 604e3a5->A96
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ"
+ letters: 31
+ mizan: "A96:1=31"
+ hash: "7e049d6c4db1cf0d"
+ - verse_id: 2
+ text: "خَلَقَ ٱلْإِنسَٰنَ مِنْ عَلَقٍ"
+ letters: 13
+ mizan: "A96:2=13"
+ hash: "83dfe337f34c9276"
+ - verse_id: 3
+ text: "ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ"
+ letters: 12
+ mizan: "A96:3=12"
+ hash: "b7fe29e91e8ceb66"
+ - verse_id: 4
+ text: "ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ"
+ letters: 11
+ mizan: "A96:4=11"
+ hash: "663e1e220481de7e"
+ - verse_id: 5
+ text: "عَلَّمَ ٱلْإِنسَٰنَ مَا لَمْ يَعْلَمْ"
+ letters: 16
+ mizan: "A96:5=16"
+ hash: "e756eb8113c90138"
+ - verse_id: 6
+ text: "كَلَّآ إِنَّ ٱلْإِنسَٰنَ لَيَطْغَىٰٓ"
+ letters: 15
+ mizan: "A96:6=15"
+ hash: "a18a12c9c24d4d85"
+ - verse_id: 7
+ text: "أَن رَّءَاهُ ٱسْتَغْنَىٰٓ"
+ letters: 11
+ mizan: "A96:7=11"
+ hash: "62e22ca72f87e9aa"
+ - verse_id: 8
+ text: "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجْعَىٰٓ"
+ letters: 13
+ mizan: "A96:8=13"
+ hash: "6f72769ebedfb4de"
+ - verse_id: 9
+ text: "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ"
+ letters: 12
+ mizan: "A96:9=12"
+ hash: "a1349bbce3332f90"
+ - verse_id: 10
+ text: "عَبْدًا إِذَا صَلَّىٰٓ"
+ letters: 10
+ mizan: "A96:10=10"
+ hash: "1d203f20a63b196f"
+ - verse_id: 11
+ text: "أَرَءَيْتَ إِن كَانَ عَلَى ٱلْهُدَىٰٓ"
+ letters: 17
+ mizan: "A96:11=17"
+ hash: "bae659920cad2168"
+ - verse_id: 12
+ text: "أَوْ أَمَرَ بِٱلتَّقْوَىٰٓ"
+ letters: 11
+ mizan: "A96:12=11"
+ hash: "c80930c189c4b14e"
+ - verse_id: 13
+ text: "أَرَءَيْتَ إِن كَذَّبَ وَتَوَلَّىٰٓ"
+ letters: 15
+ mizan: "A96:13=15"
+ hash: "1667fb4add2677b0"
+ - verse_id: 14
+ text: "أَلَمْ يَعْلَم بِأَنَّ ٱللَّهَ يَرَىٰ"
+ letters: 16
+ mizan: "A96:14=16"
+ hash: "0114f6b72cb44a6c"
+ - verse_id: 15
+ text: "كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًۢا بِٱلنَّاصِيَةِ"
+ letters: 25
+ mizan: "A96:15=25"
+ hash: "ce94a67eb4dbd014"
+ - verse_id: 16
+ text: "نَاصِيَةٍۢ كَٰذِبَةٍ خَاطِئَةٍۢ"
+ letters: 14
+ mizan: "A96:16=14"
+ hash: "f0145b3fa6d620b7"
+ - verse_id: 17
+ text: "فَلْيَدْعُ نَادِيَهُۥ"
+ letters: 10
+ mizan: "A96:17=10"
+ hash: "00bd87b5d8f32c49"
+ - verse_id: 18
+ text: "سَنَدْعُ ٱلزَّبَانِيَةَ"
+ letters: 11
+ mizan: "A96:18=11"
+ hash: "c0e40d3f96e093f9"
+ - verse_id: 19
+ text: "كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩"
+ letters: 18
+ mizan: "A96:19=18"
+ hash: "af5351eb422582e1"
