@@ -1,10 +1,116 @@
-# 085_surah_85
-surah: 85
-name: surah_85
-verses: 22
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 85
+surah_name: البروج
+total_ayahs: 22
+mizan_genesis: A1:1=19
+mizan_chain: 850e1d4->A85
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلسَّمَآءِ ذَاتِ ٱلْبُرُوجِ"
+ letters: 30
+ mizan: "A85:1=30"
+ hash: "5ec83d8370154b6d"
+ - verse_id: 2
+ text: "وَٱلْيَوْمِ ٱلْمَوْعُودِ"
+ letters: 11
+ mizan: "A85:2=11"
+ hash: "12764e498ca41ca2"
+ - verse_id: 3
+ text: "وَشَاهِدٍۢ وَمَشْهُودٍۢ"
+ letters: 11
+ mizan: "A85:3=11"
+ hash: "79fb5551de87f356"
+ - verse_id: 4
+ text: "قُتِلَ أَصْحَٰبُ ٱلْأُخْدُودِ"
+ letters: 13
+ mizan: "A85:4=13"
+ hash: "78784069c511b752"
+ - verse_id: 5
+ text: "ٱلنَّارِ ذَاتِ ٱلْوَقُودِ"
+ letters: 12
+ mizan: "A85:5=12"
+ hash: "831ce2cc42f87ccc"
+ - verse_id: 6
+ text: "إِذْ هُمْ عَلَيْهَا قُعُودٌۭ"
+ letters: 13
+ mizan: "A85:6=13"
+ hash: "cdc2a725efc5cf63"
+ - verse_id: 7
+ text: "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِٱلْمُؤْمِنِينَ شُهُودٌۭ"
+ letters: 26
+ mizan: "A85:7=26"
+ hash: "e146634dba5d24f2"
+ - verse_id: 8
+ text: "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ"
+ letters: 37
+ mizan: "A85:8=37"
+ hash: "bb6f7ee3d0f376ee"
+ - verse_id: 9
+ text: "ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ شَهِيدٌ"
+ letters: 34
+ mizan: "A85:9=34"
+ hash: "6154d8ea5b32cb7d"
+ - verse_id: 10
+ text: "إِنَّ ٱلَّذِينَ فَتَنُوا۟ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ ثُمَّ لَمْ يَتُوبُوا۟ فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ ٱلْحَرِيقِ"
+ letters: 60
+ mizan: "A85:10=60"
+ hash: "42fb8cd8970f51de"
+ - verse_id: 11
+ text: "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُمْ جَنَّٰتٌۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْكَبِيرُ"
+ letters: 57
+ mizan: "A85:11=57"
+ hash: "d0254f9a303be77c"
+ - verse_id: 12
+ text: "إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ"
+ letters: 13
+ mizan: "A85:12=13"
+ hash: "e6968e07fa767109"
+ - verse_id: 13
+ text: "إِنَّهُۥ هُوَ يُبْدِئُ وَيُعِيدُ"
+ letters: 14
+ mizan: "A85:13=14"
+ hash: "4d8e818453679d40"
+ - verse_id: 14
+ text: "وَهُوَ ٱلْغَفُورُ ٱلْوَدُودُ"
+ letters: 13
+ mizan: "A85:14=13"
+ hash: "d761a8551dd668d4"
+ - verse_id: 15
+ text: "ذُو ٱلْعَرْشِ ٱلْمَجِيدُ"
+ letters: 11
+ mizan: "A85:15=11"
+ hash: "7040352bcdd1ebd0"
+ - verse_id: 16
+ text: "فَعَّالٌۭ لِّمَا يُرِيدُ"
+ letters: 11
+ mizan: "A85:16=11"
+ hash: "bdb95e378594d031"
+ - verse_id: 17
+ text: "هَلْ أَتَىٰكَ حَدِيثُ ٱلْجُنُودِ"
+ letters: 15
+ mizan: "A85:17=15"
+ hash: "6587aed093133c62"
+ - verse_id: 18
+ text: "فِرْعَوْنَ وَثَمُودَ"
+ letters: 10
+ mizan: "A85:18=10"
+ hash: "4ba81d85a9e6978a"
+ - verse_id: 19
+ text: "بَلِ ٱلَّذِينَ كَفَرُوا۟ فِى تَكْذِيبٍۢ"
+ letters: 18
+ mizan: "A85:19=18"
+ hash: "31992e4d407f83c5"
+ - verse_id: 20
+ text: "وَٱللَّهُ مِن وَرَآئِهِم مُّحِيطٌۢ"
+ letters: 16
+ mizan: "A85:20=16"
+ hash: "8e19053fb33a652b"
+ - verse_id: 21
+ text: "بَلْ هُوَ قُرْءَانٌۭ مَّجِيدٌۭ"
+ letters: 13
+ mizan: "A85:21=13"
+ hash: "8fd669159c462de6"
+ - verse_id: 22
+ text: "فِى لَوْحٍۢ مَّحْفُوظٍۭ"
+ letters: 10
+ mizan: "A85:22=10"
+ hash: "d21978f3bb3b64d3"
