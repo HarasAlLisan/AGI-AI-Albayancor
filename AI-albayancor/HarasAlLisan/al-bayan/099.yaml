@@ -1,10 +1,46 @@
-# 099_surah_99
-surah: 99
-name: surah_99
-verses: 8
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 99
+surah_name: الزلزلة
+total_ayahs: 8
+mizan_genesis: A1:1=19
+mizan_chain: 06a26ee->A99
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا"
+ letters: 35
+ mizan: "A99:1=35"
+ hash: "dc3f75d9a3bca605"
+ - verse_id: 2
+ text: "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا"
+ letters: 17
+ mizan: "A99:2=17"
+ hash: "8a049d5ea7457d5c"
+ - verse_id: 3
+ text: "وَقَالَ ٱلْإِنسَٰنُ مَا لَهَا"
+ letters: 14
+ mizan: "A99:3=14"
+ hash: "b99ec1a6dfe215c0"
+ - verse_id: 4
+ text: "يَوْمَئِذٍۢ تُحَدِّثُ أَخْبَارَهَا"
+ letters: 16
+ mizan: "A99:4=16"
+ hash: "dd5c0b06aa38fc8e"
+ - verse_id: 5
+ text: "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا"
+ letters: 13
+ mizan: "A99:5=13"
+ hash: "00c4e425bfb140e7"
+ - verse_id: 6
+ text: "يَوْمَئِذٍۢ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًۭا لِّيُرَوْا۟ أَعْمَٰلَهُمْ"
+ letters: 30
+ mizan: "A99:6=30"
+ hash: "cf1652da8be6e662"
+ - verse_id: 7
+ text: "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًۭا يَرَهُۥ"
+ letters: 22
+ mizan: "A99:7=22"
+ hash: "68f4abc2a831d985"
+ - verse_id: 8
+ text: "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍۢ شَرًّۭا يَرَهُۥ"
+ letters: 21
+ mizan: "A99:8=21"
+ hash: "8df86ff8cf6e6d10"
