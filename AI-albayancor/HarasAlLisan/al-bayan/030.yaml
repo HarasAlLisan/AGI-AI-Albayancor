@@ -1,0 +1,10 @@
+# 030_surah_30
+surah: 30
+name: surah_30
+verses: 60
+status: todo
+verse_types: []
+intent_structure:
+  primary: []
+  supporting: []
+grammatical_units: []

@@ -1,0 +1,10 @@
+# 090_surah_90
+surah: 90
+name: surah_90
+verses: 20
+status: todo
+verse_types: []
+intent_structure:
+  primary: []
+  supporting: []
+grammatical_units: []

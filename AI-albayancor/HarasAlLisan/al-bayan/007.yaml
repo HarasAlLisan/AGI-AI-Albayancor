@@ -1,0 +1,10 @@
+# 007_surah_7
+surah: 7
+name: surah_7
+verses: 206
+status: todo
+verse_types: []
+intent_structure:
+  primary: []
+  supporting: []
+grammatical_units: []

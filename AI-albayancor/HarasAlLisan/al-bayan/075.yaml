@@ -1,0 +1,10 @@
+# 075_surah_75
+surah: 75
+name: surah_75
+verses: 40
+status: todo
+verse_types: []
+intent_structure:
+  primary: []
+  supporting: []
+grammatical_units: []

@@ -1,0 +1,12 @@
+total_verses: 6236
+completed: 7
+remaining: 6229
+structure:
+  juz: 30
+  surah: 114
+  method: hafs
+surahs:
+  001: {name: al_fatiha, verses: 7, status: done}
+  002: {name: al_baqarah, verses: 286, status: todo}
+  003: {name: al_imran, verses: 200, status: todo}
+  # ... لحد 114

@@ -1,0 +1,10 @@
+# 035_surah_35
+surah: 35
+name: surah_35
+verses: 45
+status: todo
+verse_types: []
+intent_structure:
+  primary: []
+  supporting: []
+grammatical_units: []

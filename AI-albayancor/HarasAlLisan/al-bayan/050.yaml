@@ -1,0 +1,10 @@
+# 050_surah_50
+surah: 50
+name: surah_50
+verses: 45
+status: todo
+verse_types: []
+intent_structure:
+  primary: []
+  supporting: []
+grammatical_units: []

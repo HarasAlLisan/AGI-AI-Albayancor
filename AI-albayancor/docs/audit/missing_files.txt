@@ -1,0 +1,1 @@
+"interface/cd interface\nstreamlit run app.py"

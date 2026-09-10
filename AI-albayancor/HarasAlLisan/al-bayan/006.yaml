@@ -1,0 +1,10 @@
+# 006_surah_6
+surah: 6
+name: surah_6
+verses: 165
+status: todo
+verse_types: []
+intent_structure:
+  primary: []
+  supporting: []
+grammatical_units: []

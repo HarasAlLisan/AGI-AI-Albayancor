@@ -1,0 +1,10 @@
+# 016_surah_16
+surah: 16
+name: surah_16
+verses: 128
+status: todo
+verse_types: []
+intent_structure:
+  primary: []
+  supporting: []
+grammatical_units: []

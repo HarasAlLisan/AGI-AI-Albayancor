@@ -1,0 +1,11 @@
+AI_albayancor/
+│
+├── docs/
+│   ├── currency/
+│   │   ├── byn_master.json
+│   │   ├── students.json
+│   │   ├── teachers.json
+│   │   ├── developers.json
+│   │   ├── general_users.json
+│   │   ├── projects_allocation.json
+│   │   └── treasury_balance.json

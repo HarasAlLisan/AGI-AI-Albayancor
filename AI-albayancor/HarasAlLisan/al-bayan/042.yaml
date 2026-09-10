@@ -1,0 +1,10 @@
+# 042_surah_42
+surah: 42
+name: surah_42
+verses: 53
+status: todo
+verse_types: []
+intent_structure:
+  primary: []
+  supporting: []
+grammatical_units: []

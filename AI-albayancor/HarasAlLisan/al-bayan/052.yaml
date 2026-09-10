@@ -1,0 +1,10 @@
+# 052_surah_52
+surah: 52
+name: surah_52
+verses: 49
+status: todo
+verse_types: []
+intent_structure:
+  primary: []
+  supporting: []
+grammatical_units: []

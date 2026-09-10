@@ -1,0 +1,10 @@
+manhaj: AI-AlBayancor - 6236 ayah
+anchor: Fatiha 7 = Umm al-Kitab
+division:
+  after_fatiha: 6229 ayah = 113 surah
+  order: mushaf_order 1-114
+  counting: hafs_6236_no_basmala
+status:
+  001_al_fatiha: done - 7 ayat - template reference
+  002-114: skeleton todo - structure ready
+next_step: ملء الـ intent_structure و verse_types لكل سورة زي ما عملنا في الفاتحة

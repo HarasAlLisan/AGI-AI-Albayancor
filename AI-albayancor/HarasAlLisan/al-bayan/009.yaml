@@ -1,0 +1,10 @@
+# 009_surah_9
+surah: 9
+name: surah_9
+verses: 129
+status: todo
+verse_types: []
+intent_structure:
+  primary: []
+  supporting: []
+grammatical_units: []

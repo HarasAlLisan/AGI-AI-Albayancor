@@ -1,0 +1,10 @@
+# 015_surah_15
+surah: 15
+name: surah_15
+verses: 99
+status: todo
+verse_types: []
+intent_structure:
+  primary: []
+  supporting: []
+grammatical_units: []

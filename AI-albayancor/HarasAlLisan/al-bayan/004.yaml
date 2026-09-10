@@ -1,0 +1,10 @@
+# 004_surah_4
+surah: 4
+name: surah_4
+verses: 176
+status: todo
+verse_types: []
+intent_structure:
+  primary: []
+  supporting: []
+grammatical_units: []

@@ -1,0 +1,10 @@
+# 010_surah_10
+surah: 10
+name: surah_10
+verses: 109
+status: todo
+verse_types: []
+intent_structure:
+  primary: []
+  supporting: []
+grammatical_units: []

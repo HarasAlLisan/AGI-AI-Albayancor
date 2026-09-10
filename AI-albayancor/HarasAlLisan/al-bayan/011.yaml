@@ -1,0 +1,10 @@
+# 011_surah_11
+surah: 11
+name: surah_11
+verses: 123
+status: todo
+verse_types: []
+intent_structure:
+  primary: []
+  supporting: []
+grammatical_units: []

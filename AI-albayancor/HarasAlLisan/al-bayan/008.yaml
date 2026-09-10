@@ -1,0 +1,10 @@
+# 008_surah_8
+surah: 8
+name: surah_8
+verses: 75
+status: todo
+verse_types: []
+intent_structure:
+  primary: []
+  supporting: []
+grammatical_units: []

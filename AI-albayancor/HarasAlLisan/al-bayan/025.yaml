@@ -1,0 +1,10 @@
+# 025_surah_25
+surah: 25
+name: surah_25
+verses: 77
+status: todo
+verse_types: []
+intent_structure:
+  primary: []
+  supporting: []
+grammatical_units: []

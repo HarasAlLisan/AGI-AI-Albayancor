@@ -1,0 +1,10 @@
+# 002_surah_2
+surah: 2
+name: surah_2
+verses: 286
+status: todo
+verse_types: []
+intent_structure:
+  primary: []
+  supporting: []
+grammatical_units: []

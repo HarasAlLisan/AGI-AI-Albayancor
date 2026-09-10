@@ -1,0 +1,6 @@
+AI-albayancor/
+└── blockchain/
+    ├── contracts/
+    │   └── BYN.sol               ← عقد العملة الأولي
+    ├── config.json               ← يحتوي عنوان المحفظة
+    └── registry.md               ← سجل إنشاء الوحدات والتحقق

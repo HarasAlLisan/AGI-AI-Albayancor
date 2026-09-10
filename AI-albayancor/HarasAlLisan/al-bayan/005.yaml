@@ -1,0 +1,10 @@
+# 005_surah_5
+surah: 5
+name: surah_5
+verses: 120
+status: todo
+verse_types: []
+intent_structure:
+  primary: []
+  supporting: []
+grammatical_units: []
