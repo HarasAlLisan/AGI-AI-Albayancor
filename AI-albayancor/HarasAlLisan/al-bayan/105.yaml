@@ -1,10 +1,31 @@
-# 105_surah_105
-surah: 105
-name: surah_105
-verses: 5
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 105
+surah_name: الفيل
+total_ayahs: 5
+mizan_genesis: A1:1=19
+mizan_chain: 3326168->A105
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَٰبِ ٱلْفِيلِ"
+ letters: 39
+ mizan: "A105:1=39"
+ hash: "a5865d799d44fa13"
+ - verse_id: 2
+ text: "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍۢ"
+ letters: 19
+ mizan: "A105:2=19"
+ hash: "63c6cd4a0862f8bc"
+ - verse_id: 3
+ text: "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ"
+ letters: 20
+ mizan: "A105:3=20"
+ hash: "28fc4a80e7e16432"
+ - verse_id: 4
+ text: "تَرْمِيهِم بِحِجَارَةٍۢ مِّن سِجِّيلٍۢ"
+ letters: 18
+ mizan: "A105:4=18"
+ hash: "e64fd11db0e6858b"
+ - verse_id: 5
+ text: "فَجَعَلَهُمْ كَعَصْفٍۢ مَّأْكُولٍۭ"
+ letters: 15
+ mizan: "A105:5=15"
+ hash: "92cc1215a939526e"
