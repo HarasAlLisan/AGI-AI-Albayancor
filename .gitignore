@@ -3,3 +3,10 @@ forensic_616.enc
 google-cloud-cli-linux-arm.tar.gz
 __pycache__/
 *.enc
+logs/
+*.log
+*.pid
+__pycache__/
+web4anhk/
+web4anhk.bak_616/
+A/
