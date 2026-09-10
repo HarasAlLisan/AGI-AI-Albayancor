@@ -1,10 +1,486 @@
-# 056_surah_56
-surah: 56
-name: surah_56
-verses: 96
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 56
+surah_name: الواقعة
+total_ayahs: 96
+mizan_genesis: A1:1=19
+mizan_chain: a45ce3a->A56
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا وَقَعَتِ ٱلْوَاقِعَةُ"
+ letters: 29
+ mizan: "A56:1=29"
+ hash: "7e4f87b17a0bd96f"
+ - verse_id: 2
+ text: "لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ"
+ letters: 15
+ mizan: "A56:2=15"
+ hash: "a56a04927e9552fd"
+ - verse_id: 3
+ text: "خَافِضَةٌۭ رَّافِعَةٌ"
+ letters: 10
+ mizan: "A56:3=10"
+ hash: "ac962e27a0864c19"
+ - verse_id: 4
+ text: "إِذَا رُجَّتِ ٱلْأَرْضُ رَجًّۭا"
+ letters: 13
+ mizan: "A56:4=13"
+ hash: "1408307480a32ac6"
+ - verse_id: 5
+ text: "وَبُسَّتِ ٱلْجِبَالُ بَسًّۭا"
+ letters: 12
+ mizan: "A56:5=12"
+ hash: "8c2f55ee49e5f586"
+ - verse_id: 6
+ text: "فَكَانَتْ هَبَآءًۭ مُّنۢبَثًّۭا"
+ letters: 14
+ mizan: "A56:6=14"
+ hash: "9095bb88c738cba0"
+ - verse_id: 7
+ text: "وَكُنتُمْ أَزْوَٰجًۭا ثَلَٰثَةًۭ"
+ letters: 14
+ mizan: "A56:7=14"
+ hash: "872e78b81c0c11f7"
+ - verse_id: 8
+ text: "فَأَصْحَٰبُ ٱلْمَيْمَنَةِ مَآ أَصْحَٰبُ ٱلْمَيْمَنَةِ"
+ letters: 23
+ mizan: "A56:8=23"
+ hash: "d1cad10d8b8a030f"
+ - verse_id: 9
+ text: "وَأَصْحَٰبُ ٱلْمَشْـَٔمَةِ مَآ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ"
+ letters: 23
+ mizan: "A56:9=23"
+ hash: "e124c2ba96506070"
+ - verse_id: 10
+ text: "وَٱلسَّٰبِقُونَ ٱلسَّٰبِقُونَ"
+ letters: 13
+ mizan: "A56:10=13"
+ hash: "739776f1b7ddfba6"
+ - verse_id: 11
+ text: "أُو۟لَٰٓئِكَ ٱلْمُقَرَّبُونَ"
+ letters: 12
+ mizan: "A56:11=12"
+ hash: "c2d8a8fcd9efd58e"
+ - verse_id: 12
+ text: "فِى جَنَّٰتِ ٱلنَّعِيمِ"
+ letters: 10
+ mizan: "A56:12=10"
+ hash: "6e7593fb396bdb03"
+ - verse_id: 13
+ text: "ثُلَّةٌۭ مِّنَ ٱلْأَوَّلِينَ"
+ letters: 11
+ mizan: "A56:13=11"
+ hash: "3b46e727f8f6f0cd"
+ - verse_id: 14
+ text: "وَقَلِيلٌۭ مِّنَ ٱلْءَاخِرِينَ"
+ letters: 14
+ mizan: "A56:14=14"
+ hash: "e5d4157799a37eb6"
+ - verse_id: 15
+ text: "عَلَىٰ سُرُرٍۢ مَّوْضُونَةٍۢ"
+ letters: 12
+ mizan: "A56:15=12"
+ hash: "eab84b0dfdc2ddf8"
+ - verse_id: 16
+ text: "مُّتَّكِـِٔينَ عَلَيْهَا مُتَقَٰبِلِينَ"
+ letters: 18
+ mizan: "A56:16=18"
+ hash: "53405346bb7c7d25"
+ - verse_id: 17
+ text: "يَطُوفُ عَلَيْهِمْ وِلْدَٰنٌۭ مُّخَلَّدُونَ"
+ letters: 19
+ mizan: "A56:17=19"
+ hash: "becb6f1a94c4fca7"
+ - verse_id: 18
+ text: "بِأَكْوَابٍۢ وَأَبَارِيقَ وَكَأْسٍۢ مِّن مَّعِينٍۢ"
+ letters: 23
+ mizan: "A56:18=23"
+ hash: "64993e6869e5c8cc"
+ - verse_id: 19
+ text: "لَّا يُصَدَّعُونَ عَنْهَا وَلَا يُنزِفُونَ"
+ letters: 21
+ mizan: "A56:19=21"
+ hash: "29bc84b2f9ceaa4a"
+ - verse_id: 20
+ text: "وَفَٰكِهَةٍۢ مِّمَّا يَتَخَيَّرُونَ"
+ letters: 15
+ mizan: "A56:20=15"
+ hash: "6db401e36c3af8da"
+ - verse_id: 21
+ text: "وَلَحْمِ طَيْرٍۢ مِّمَّا يَشْتَهُونَ"
+ letters: 16
+ mizan: "A56:21=16"
+ hash: "84f8a986d4c37384"
+ - verse_id: 22
+ text: "وَحُورٌ عِينٌۭ"
+ letters: 7
+ mizan: "A56:22=7"
+ hash: "0fd63d9f0650ffb6"
+ - verse_id: 23
+ text: "كَأَمْثَٰلِ ٱللُّؤْلُؤِ ٱلْمَكْنُونِ"
+ letters: 16
+ mizan: "A56:23=16"
+ hash: "8967d09ddbc2298d"
+ - verse_id: 24
+ text: "جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ"
+ letters: 18
+ mizan: "A56:24=18"
+ hash: "1cb953ccb9bca8cc"
+ - verse_id: 25
+ text: "لَا يَسْمَعُونَ فِيهَا لَغْوًۭا وَلَا تَأْثِيمًا"
+ letters: 25
+ mizan: "A56:25=25"
+ hash: "ff30e3db25c2cd86"
+ - verse_id: 26
+ text: "إِلَّا قِيلًۭا سَلَٰمًۭا سَلَٰمًۭا"
+ letters: 15
+ mizan: "A56:26=15"
+ hash: "2d50d231fe832fd8"
+ - verse_id: 27
+ text: "وَأَصْحَٰبُ ٱلْيَمِينِ مَآ أَصْحَٰبُ ٱلْيَمِينِ"
+ letters: 21
+ mizan: "A56:27=21"
+ hash: "cbbea914b0fbb6fc"
+ - verse_id: 28
+ text: "فِى سِدْرٍۢ مَّخْضُودٍۢ"
+ letters: 10
+ mizan: "A56:28=10"
+ hash: "9a40750e9dff6a79"
+ - verse_id: 29
+ text: "وَطَلْحٍۢ مَّنضُودٍۢ"
+ letters: 9
+ mizan: "A56:29=9"
+ hash: "89084a31b617ef43"
+ - verse_id: 30
+ text: "وَظِلٍّۢ مَّمْدُودٍۢ"
+ letters: 8
+ mizan: "A56:30=8"
+ hash: "c0e2d1a5d6ed05ba"
+ - verse_id: 31
+ text: "وَمَآءٍۢ مَّسْكُوبٍۢ"
+ letters: 9
+ mizan: "A56:31=9"
+ hash: "06688e02c5b1d233"
+ - verse_id: 32
+ text: "وَفَٰكِهَةٍۢ كَثِيرَةٍۢ"
+ letters: 10
+ mizan: "A56:32=10"
+ hash: "cbd7d01b5effdf82"
+ - verse_id: 33
+ text: "لَّا مَقْطُوعَةٍۢ وَلَا مَمْنُوعَةٍۢ"
+ letters: 17
+ mizan: "A56:33=17"
+ hash: "36d8f6edf170e2dd"
+ - verse_id: 34
+ text: "وَفُرُشٍۢ مَّرْفُوعَةٍ"
+ letters: 10
+ mizan: "A56:34=10"
+ hash: "63ac03c01c818a61"
+ - verse_id: 35
+ text: "إِنَّآ أَنشَأْنَٰهُنَّ إِنشَآءًۭ"
+ letters: 15
+ mizan: "A56:35=15"
+ hash: "3b7137cef6595461"
+ - verse_id: 36
+ text: "فَجَعَلْنَٰهُنَّ أَبْكَارًا"
+ letters: 13
+ mizan: "A56:36=13"
+ hash: "1b662fadc0f4e327"
+ - verse_id: 37
+ text: "عُرُبًا أَتْرَابًۭا"
+ letters: 10
+ mizan: "A56:37=10"
+ hash: "3e2ea8e93529a445"
+ - verse_id: 38
+ text: "لِّأَصْحَٰبِ ٱلْيَمِينِ"
+ letters: 10
+ mizan: "A56:38=10"
+ hash: "f356f19bf5d52bd5"
+ - verse_id: 39
+ text: "ثُلَّةٌۭ مِّنَ ٱلْأَوَّلِينَ"
+ letters: 11
+ mizan: "A56:39=11"
+ hash: "3b46e727f8f6f0cd"
+ - verse_id: 40
+ text: "وَثُلَّةٌۭ مِّنَ ٱلْءَاخِرِينَ"
+ letters: 13
+ mizan: "A56:40=13"
+ hash: "81d290cace6a932f"
+ - verse_id: 41
+ text: "وَأَصْحَٰبُ ٱلشِّمَالِ مَآ أَصْحَٰبُ ٱلشِّمَالِ"
+ letters: 21
+ mizan: "A56:41=21"
+ hash: "4555888114497ba6"
+ - verse_id: 42
+ text: "فِى سَمُومٍۢ وَحَمِيمٍۢ"
+ letters: 11
+ mizan: "A56:42=11"
+ hash: "bee2a607b837afbe"
+ - verse_id: 43
+ text: "وَظِلٍّۢ مِّن يَحْمُومٍۢ"
+ letters: 10
+ mizan: "A56:43=10"
+ hash: "a797e6b5942536ae"
+ - verse_id: 44
+ text: "لَّا بَارِدٍۢ وَلَا كَرِيمٍ"
+ letters: 13
+ mizan: "A56:44=13"
+ hash: "91bd3a7fd6bb4d00"
+ - verse_id: 45
+ text: "إِنَّهُمْ كَانُوا۟ قَبْلَ ذَٰلِكَ مُتْرَفِينَ"
+ letters: 21
+ mizan: "A56:45=21"
+ hash: "530e1c953bd8750d"
+ - verse_id: 46
+ text: "وَكَانُوا۟ يُصِرُّونَ عَلَى ٱلْحِنثِ ٱلْعَظِيمِ"
+ letters: 23
+ mizan: "A56:46=23"
+ hash: "54c76ad74f895a2f"
+ - verse_id: 47
+ text: "وَكَانُوا۟ يَقُولُونَ أَئِذَا مِتْنَا وَكُنَّا تُرَابًۭا وَعِظَٰمًا أَءِنَّا لَمَبْعُوثُونَ"
+ letters: 46
+ mizan: "A56:47=46"
+ hash: "a4d0f0a75cc93b1f"
+ - verse_id: 48
+ text: "أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ"
+ letters: 15
+ mizan: "A56:48=15"
+ hash: "1db846f80cd918ce"
+ - verse_id: 49
+ text: "قُلْ إِنَّ ٱلْأَوَّلِينَ وَٱلْءَاخِرِينَ"
+ letters: 18
+ mizan: "A56:49=18"
+ hash: "8e34eee14ddaec4d"
+ - verse_id: 50
+ text: "لَمَجْمُوعُونَ إِلَىٰ مِيقَٰتِ يَوْمٍۢ مَّعْلُومٍۢ"
+ letters: 23
+ mizan: "A56:50=23"
+ hash: "1a6442de4662c7ff"
+ - verse_id: 51
+ text: "ثُمَّ إِنَّكُمْ أَيُّهَا ٱلضَّآلُّونَ ٱلْمُكَذِّبُونَ"
+ letters: 23
+ mizan: "A56:51=23"
+ hash: "2d625d436fd7f5d1"
+ - verse_id: 52
+ text: "لَءَاكِلُونَ مِن شَجَرٍۢ مِّن زَقُّومٍۢ"
+ letters: 18
+ mizan: "A56:52=18"
+ hash: "a892a8cf83fd77fe"
+ - verse_id: 53
+ text: "فَمَالِـُٔونَ مِنْهَا ٱلْبُطُونَ"
+ letters: 16
+ mizan: "A56:53=16"
+ hash: "cf0b39ad4b9d5911"
+ - verse_id: 54
+ text: "فَشَٰرِبُونَ عَلَيْهِ مِنَ ٱلْحَمِيمِ"
+ letters: 17
+ mizan: "A56:54=17"
+ hash: "24b0b1de447af6eb"
+ - verse_id: 55
+ text: "فَشَٰرِبُونَ شُرْبَ ٱلْهِيمِ"
+ letters: 13
+ mizan: "A56:55=13"
+ hash: "a9bb9f9bcde59e61"
+ - verse_id: 56
+ text: "هَٰذَا نُزُلُهُمْ يَوْمَ ٱلدِّينِ"
+ letters: 15
+ mizan: "A56:56=15"
+ hash: "b40e67892b4421f6"
+ - verse_id: 57
+ text: "نَحْنُ خَلَقْنَٰكُمْ فَلَوْلَا تُصَدِّقُونَ"
+ letters: 20
+ mizan: "A56:57=20"
+ hash: "16f6a93d74cb1f19"
+ - verse_id: 58
+ text: "أَفَرَءَيْتُم مَّا تُمْنُونَ"
+ letters: 14
+ mizan: "A56:58=14"
+ hash: "fc9a6141c70a7358"
+ - verse_id: 59
+ text: "ءَأَنتُمْ تَخْلُقُونَهُۥٓ أَمْ نَحْنُ ٱلْخَٰلِقُونَ"
+ letters: 23
+ mizan: "A56:59=23"
+ hash: "1bb317ee0be61465"
+ - verse_id: 60
+ text: "نَحْنُ قَدَّرْنَا بَيْنَكُمُ ٱلْمَوْتَ وَمَا نَحْنُ بِمَسْبُوقِينَ"
+ letters: 31
+ mizan: "A56:60=31"
+ hash: "d7f2087e58a134b2"
+ - verse_id: 61
+ text: "عَلَىٰٓ أَن نُّبَدِّلَ أَمْثَٰلَكُمْ وَنُنشِئَكُمْ فِى مَا لَا تَعْلَمُونَ"
+ letters: 34
+ mizan: "A56:61=34"
+ hash: "7d2f5f72f3766928"
+ - verse_id: 62
+ text: "وَلَقَدْ عَلِمْتُمُ ٱلنَّشْأَةَ ٱلْأُولَىٰ فَلَوْلَا تَذَكَّرُونَ"
+ letters: 30
+ mizan: "A56:62=30"
+ hash: "d0fb54b44e9a408d"
+ - verse_id: 63
+ text: "أَفَرَءَيْتُم مَّا تَحْرُثُونَ"
+ letters: 15
+ mizan: "A56:63=15"
+ hash: "6f1598dc46c7bde0"
+ - verse_id: 64
+ text: "ءَأَنتُمْ تَزْرَعُونَهُۥٓ أَمْ نَحْنُ ٱلزَّٰرِعُونَ"
+ letters: 23
+ mizan: "A56:64=23"
+ hash: "5877bd5491905b95"
+ - verse_id: 65
+ text: "لَوْ نَشَآءُ لَجَعَلْنَٰهُ حُطَٰمًۭا فَظَلْتُمْ تَفَكَّهُونَ"
+ letters: 27
+ mizan: "A56:65=27"
+ hash: "ca2b468bc2d2b917"
+ - verse_id: 66
+ text: "إِنَّا لَمُغْرَمُونَ"
+ letters: 10
+ mizan: "A56:66=10"
+ hash: "03c71135775833a2"
+ - verse_id: 67
+ text: "بَلْ نَحْنُ مَحْرُومُونَ"
+ letters: 12
+ mizan: "A56:67=12"
+ hash: "0001475683a53385"
+ - verse_id: 68
+ text: "أَفَرَءَيْتُمُ ٱلْمَآءَ ٱلَّذِى تَشْرَبُونَ"
+ letters: 20
+ mizan: "A56:68=20"
+ hash: "9fd8c28119ce5c5f"
+ - verse_id: 69
+ text: "ءَأَنتُمْ أَنزَلْتُمُوهُ مِنَ ٱلْمُزْنِ أَمْ نَحْنُ ٱلْمُنزِلُونَ"
+ letters: 31
+ mizan: "A56:69=31"
+ hash: "e8edafeb6747fa89"
+ - verse_id: 70
+ text: "لَوْ نَشَآءُ جَعَلْنَٰهُ أُجَاجًۭا فَلَوْلَا تَشْكُرُونَ"
+ letters: 27
+ mizan: "A56:70=27"
+ hash: "3f4949bda23698c9"
+ - verse_id: 71
+ text: "أَفَرَءَيْتُمُ ٱلنَّارَ ٱلَّتِى تُورُونَ"
+ letters: 19
+ mizan: "A56:71=19"
+ hash: "e3b196013e65cb65"
+ - verse_id: 72
+ text: "ءَأَنتُمْ أَنشَأْتُمْ شَجَرَتَهَآ أَمْ نَحْنُ ٱلْمُنشِـُٔونَ"
+ letters: 29
+ mizan: "A56:72=29"
+ hash: "f32b443ac2bc1901"
+ - verse_id: 73
+ text: "نَحْنُ جَعَلْنَٰهَا تَذْكِرَةًۭ وَمَتَٰعًۭا لِّلْمُقْوِينَ"
+ letters: 26
+ mizan: "A56:73=26"
+ hash: "2f2c1b086d7cdf65"
+ - verse_id: 74
+ text: "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ"
+ letters: 15
+ mizan: "A56:74=15"
+ hash: "7ff0001dad5e31b1"
+ - verse_id: 75
+ text: "۞ فَلَآ أُقْسِمُ بِمَوَٰقِعِ ٱلنُّجُومِ"
+ letters: 17
+ mizan: "A56:75=17"
+ hash: "13d0366121918fd5"
+ - verse_id: 76
+ text: "وَإِنَّهُۥ لَقَسَمٌۭ لَّوْ تَعْلَمُونَ عَظِيمٌ"
+ letters: 20
+ mizan: "A56:76=20"
+ hash: "1c1a69f1e12cec18"
+ - verse_id: 77
+ text: "إِنَّهُۥ لَقُرْءَانٌۭ كَرِيمٌۭ"
+ letters: 13
+ mizan: "A56:77=13"
+ hash: "182cdee7f3aff01b"
+ - verse_id: 78
+ text: "فِى كِتَٰبٍۢ مَّكْنُونٍۢ"
+ letters: 10
+ mizan: "A56:78=10"
+ hash: "072453ace5abb6a0"
+ - verse_id: 79
+ text: "لَّا يَمَسُّهُۥٓ إِلَّا ٱلْمُطَهَّرُونَ"
+ letters: 16
+ mizan: "A56:79=16"
+ hash: "af0b2e40524cceed"
+ - verse_id: 80
+ text: "تَنزِيلٌۭ مِّن رَّبِّ ٱلْعَٰلَمِينَ"
+ letters: 15
+ mizan: "A56:80=15"
+ hash: "a766ac8b8aa61975"
+ - verse_id: 81
+ text: "أَفَبِهَٰذَا ٱلْحَدِيثِ أَنتُم مُّدْهِنُونَ"
+ letters: 21
+ mizan: "A56:81=21"
+ hash: "b3392ca1b81c4cea"
+ - verse_id: 82
+ text: "وَتَجْعَلُونَ رِزْقَكُمْ أَنَّكُمْ تُكَذِّبُونَ"
+ letters: 22
+ mizan: "A56:82=22"
+ hash: "0186a30ce212af3a"
+ - verse_id: 83
+ text: "فَلَوْلَآ إِذَا بَلَغَتِ ٱلْحُلْقُومَ"
+ letters: 18
+ mizan: "A56:83=18"
+ hash: "d4f4d6fd7b1d85d7"
+ - verse_id: 84
+ text: "وَأَنتُمْ حِينَئِذٍۢ تَنظُرُونَ"
+ letters: 16
+ mizan: "A56:84=16"
+ hash: "29d5c39a2dea1c9b"
+ - verse_id: 85
+ text: "وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنكُمْ وَلَٰكِن لَّا تُبْصِرُونَ"
+ letters: 28
+ mizan: "A56:85=28"
+ hash: "93593d28f0d0e016"
+ - verse_id: 86
+ text: "فَلَوْلَآ إِن كُنتُمْ غَيْرَ مَدِينِينَ"
+ letters: 20
+ mizan: "A56:86=20"
+ hash: "d2273f4adae631c9"
+ - verse_id: 87
+ text: "تَرْجِعُونَهَآ إِن كُنتُمْ صَٰدِقِينَ"
+ letters: 19
+ mizan: "A56:87=19"
+ hash: "ed2d89f0fd98ff1c"
+ - verse_id: 88
+ text: "فَأَمَّآ إِن كَانَ مِنَ ٱلْمُقَرَّبِينَ"
+ letters: 18
+ mizan: "A56:88=18"
+ hash: "a2f83d2050695d10"
+ - verse_id: 89
+ text: "فَرَوْحٌۭ وَرَيْحَانٌۭ وَجَنَّتُ نَعِيمٍۢ"
+ letters: 18
+ mizan: "A56:89=18"
+ hash: "3536782caeca1251"
+ - verse_id: 90
+ text: "وَأَمَّآ إِن كَانَ مِنْ أَصْحَٰبِ ٱلْيَمِينِ"
+ letters: 20
+ mizan: "A56:90=20"
+ hash: "995e064a11c11f2a"
+ - verse_id: 91
+ text: "فَسَلَٰمٌۭ لَّكَ مِنْ أَصْحَٰبِ ٱلْيَمِينِ"
+ letters: 17
+ mizan: "A56:91=17"
+ hash: "061f4b0394e278cd"
+ - verse_id: 92
+ text: "وَأَمَّآ إِن كَانَ مِنَ ٱلْمُكَذِّبِينَ ٱلضَّآلِّينَ"
+ letters: 24
+ mizan: "A56:92=24"
+ hash: "c7e7b7d95b8ed184"
+ - verse_id: 93
+ text: "فَنُزُلٌۭ مِّنْ حَمِيمٍۢ"
+ letters: 10
+ mizan: "A56:93=10"
+ hash: "20e97c4be5e4984d"
+ - verse_id: 94
+ text: "وَتَصْلِيَةُ جَحِيمٍ"
+ letters: 10
+ mizan: "A56:94=10"
+ hash: "05c2b8214c4add82"
+ - verse_id: 95
+ text: "إِنَّ هَٰذَا لَهُوَ حَقُّ ٱلْيَقِينِ"
+ letters: 15
+ mizan: "A56:95=15"
+ hash: "7bbfc7ba3a320b2a"
+ - verse_id: 96
+ text: "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ"
+ letters: 15
+ mizan: "A56:96=15"
+ hash: "7ff0001dad5e31b1"
