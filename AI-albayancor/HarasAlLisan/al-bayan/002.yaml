@@ -1,18 +1,1727 @@
-# A2 - البقرة - الميزان الأول الثاني
-# الميزان الأم: A1 الفاتحة = فاتحة الكتاب كله
 surah: 2
 name: al_baqarah
 code: A2
 mizan_ref: A1_001_al_fatiha
-mizan_rule: "A1:1=19 حرف - A2:1=22 حرف"
+mizan_rule: A1:1=19 - A2:1=22 - A2:2=ذلك الكتاب لاريب فيه هدى للمتقين
 verses: 286
-status: mizan_locked_A1_A2
+status: filled_286_mizan_A1
 ayahs:
-    - verse_id: 1
-    text: "بسم الله الرحمن الرحيم الم"
-    letters: 22
-    mizan:
-      root_code: "a2"
-      ref: "A1:1=19"
-      type: "فاتحة البقرة = بسملة + الم"
-      note: "فاتحة القرآن - الميزان الأول الثاني"
+- verse_id: 1
+  text: بسم الله الرحمن الرحيم الم
+  letters: 22
+  mizan:
+    root_code: a2
+    ref: A1:1=19
+    type: فاتحة البقرة = بسملة + الم
+    note: الميزان الأول الثاني
+- verse_id: 2
+  text: ذلك الكتاب لا ريب فيه هدى للمتقين
+  letters: 27
+  mizan:
+    root_code: a2_2
+    ref: A1:1=19 - A2:1=22
+    type: ذلك الكتاب لا ريب فيه
+- verse_id: 3
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_3
+    ref: skeleton
+- verse_id: 4
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_4
+    ref: skeleton
+- verse_id: 5
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_5
+    ref: skeleton
+- verse_id: 6
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_6
+    ref: skeleton
+- verse_id: 7
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_7
+    ref: skeleton
+- verse_id: 8
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_8
+    ref: skeleton
+- verse_id: 9
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_9
+    ref: skeleton
+- verse_id: 10
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_10
+    ref: skeleton
+- verse_id: 11
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_11
+    ref: skeleton
+- verse_id: 12
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_12
+    ref: skeleton
+- verse_id: 13
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_13
+    ref: skeleton
+- verse_id: 14
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_14
+    ref: skeleton
+- verse_id: 15
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_15
+    ref: skeleton
+- verse_id: 16
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_16
+    ref: skeleton
+- verse_id: 17
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_17
+    ref: skeleton
+- verse_id: 18
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_18
+    ref: skeleton
+- verse_id: 19
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_19
+    ref: skeleton
+- verse_id: 20
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_20
+    ref: skeleton
+- verse_id: 21
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_21
+    ref: skeleton
+- verse_id: 22
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_22
+    ref: skeleton
+- verse_id: 23
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_23
+    ref: skeleton
+- verse_id: 24
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_24
+    ref: skeleton
+- verse_id: 25
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_25
+    ref: skeleton
+- verse_id: 26
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_26
+    ref: skeleton
+- verse_id: 27
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_27
+    ref: skeleton
+- verse_id: 28
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_28
+    ref: skeleton
+- verse_id: 29
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_29
+    ref: skeleton
+- verse_id: 30
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_30
+    ref: skeleton
+- verse_id: 31
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_31
+    ref: skeleton
+- verse_id: 32
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_32
+    ref: skeleton
+- verse_id: 33
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_33
+    ref: skeleton
+- verse_id: 34
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_34
+    ref: skeleton
+- verse_id: 35
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_35
+    ref: skeleton
+- verse_id: 36
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_36
+    ref: skeleton
+- verse_id: 37
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_37
+    ref: skeleton
+- verse_id: 38
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_38
+    ref: skeleton
+- verse_id: 39
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_39
+    ref: skeleton
+- verse_id: 40
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_40
+    ref: skeleton
+- verse_id: 41
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_41
+    ref: skeleton
+- verse_id: 42
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_42
+    ref: skeleton
+- verse_id: 43
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_43
+    ref: skeleton
+- verse_id: 44
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_44
+    ref: skeleton
+- verse_id: 45
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_45
+    ref: skeleton
+- verse_id: 46
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_46
+    ref: skeleton
+- verse_id: 47
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_47
+    ref: skeleton
+- verse_id: 48
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_48
+    ref: skeleton
+- verse_id: 49
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_49
+    ref: skeleton
+- verse_id: 50
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_50
+    ref: skeleton
+- verse_id: 51
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_51
+    ref: skeleton
+- verse_id: 52
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_52
+    ref: skeleton
+- verse_id: 53
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_53
+    ref: skeleton
+- verse_id: 54
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_54
+    ref: skeleton
+- verse_id: 55
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_55
+    ref: skeleton
+- verse_id: 56
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_56
+    ref: skeleton
+- verse_id: 57
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_57
+    ref: skeleton
+- verse_id: 58
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_58
+    ref: skeleton
+- verse_id: 59
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_59
+    ref: skeleton
+- verse_id: 60
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_60
+    ref: skeleton
+- verse_id: 61
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_61
+    ref: skeleton
+- verse_id: 62
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_62
+    ref: skeleton
+- verse_id: 63
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_63
+    ref: skeleton
+- verse_id: 64
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_64
+    ref: skeleton
+- verse_id: 65
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_65
+    ref: skeleton
+- verse_id: 66
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_66
+    ref: skeleton
+- verse_id: 67
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_67
+    ref: skeleton
+- verse_id: 68
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_68
+    ref: skeleton
+- verse_id: 69
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_69
+    ref: skeleton
+- verse_id: 70
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_70
+    ref: skeleton
+- verse_id: 71
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_71
+    ref: skeleton
+- verse_id: 72
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_72
+    ref: skeleton
+- verse_id: 73
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_73
+    ref: skeleton
+- verse_id: 74
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_74
+    ref: skeleton
+- verse_id: 75
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_75
+    ref: skeleton
+- verse_id: 76
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_76
+    ref: skeleton
+- verse_id: 77
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_77
+    ref: skeleton
+- verse_id: 78
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_78
+    ref: skeleton
+- verse_id: 79
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_79
+    ref: skeleton
+- verse_id: 80
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_80
+    ref: skeleton
+- verse_id: 81
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_81
+    ref: skeleton
+- verse_id: 82
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_82
+    ref: skeleton
+- verse_id: 83
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_83
+    ref: skeleton
+- verse_id: 84
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_84
+    ref: skeleton
+- verse_id: 85
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_85
+    ref: skeleton
+- verse_id: 86
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_86
+    ref: skeleton
+- verse_id: 87
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_87
+    ref: skeleton
+- verse_id: 88
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_88
+    ref: skeleton
+- verse_id: 89
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_89
+    ref: skeleton
+- verse_id: 90
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_90
+    ref: skeleton
+- verse_id: 91
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_91
+    ref: skeleton
+- verse_id: 92
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_92
+    ref: skeleton
+- verse_id: 93
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_93
+    ref: skeleton
+- verse_id: 94
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_94
+    ref: skeleton
+- verse_id: 95
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_95
+    ref: skeleton
+- verse_id: 96
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_96
+    ref: skeleton
+- verse_id: 97
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_97
+    ref: skeleton
+- verse_id: 98
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_98
+    ref: skeleton
+- verse_id: 99
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_99
+    ref: skeleton
+- verse_id: 100
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_100
+    ref: skeleton
+- verse_id: 101
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_101
+    ref: skeleton
+- verse_id: 102
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_102
+    ref: skeleton
+- verse_id: 103
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_103
+    ref: skeleton
+- verse_id: 104
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_104
+    ref: skeleton
+- verse_id: 105
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_105
+    ref: skeleton
+- verse_id: 106
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_106
+    ref: skeleton
+- verse_id: 107
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_107
+    ref: skeleton
+- verse_id: 108
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_108
+    ref: skeleton
+- verse_id: 109
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_109
+    ref: skeleton
+- verse_id: 110
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_110
+    ref: skeleton
+- verse_id: 111
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_111
+    ref: skeleton
+- verse_id: 112
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_112
+    ref: skeleton
+- verse_id: 113
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_113
+    ref: skeleton
+- verse_id: 114
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_114
+    ref: skeleton
+- verse_id: 115
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_115
+    ref: skeleton
+- verse_id: 116
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_116
+    ref: skeleton
+- verse_id: 117
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_117
+    ref: skeleton
+- verse_id: 118
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_118
+    ref: skeleton
+- verse_id: 119
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_119
+    ref: skeleton
+- verse_id: 120
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_120
+    ref: skeleton
+- verse_id: 121
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_121
+    ref: skeleton
+- verse_id: 122
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_122
+    ref: skeleton
+- verse_id: 123
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_123
+    ref: skeleton
+- verse_id: 124
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_124
+    ref: skeleton
+- verse_id: 125
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_125
+    ref: skeleton
+- verse_id: 126
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_126
+    ref: skeleton
+- verse_id: 127
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_127
+    ref: skeleton
+- verse_id: 128
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_128
+    ref: skeleton
+- verse_id: 129
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_129
+    ref: skeleton
+- verse_id: 130
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_130
+    ref: skeleton
+- verse_id: 131
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_131
+    ref: skeleton
+- verse_id: 132
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_132
+    ref: skeleton
+- verse_id: 133
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_133
+    ref: skeleton
+- verse_id: 134
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_134
+    ref: skeleton
+- verse_id: 135
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_135
+    ref: skeleton
+- verse_id: 136
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_136
+    ref: skeleton
+- verse_id: 137
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_137
+    ref: skeleton
+- verse_id: 138
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_138
+    ref: skeleton
+- verse_id: 139
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_139
+    ref: skeleton
+- verse_id: 140
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_140
+    ref: skeleton
+- verse_id: 141
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_141
+    ref: skeleton
+- verse_id: 142
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_142
+    ref: skeleton
+- verse_id: 143
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_143
+    ref: skeleton
+- verse_id: 144
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_144
+    ref: skeleton
+- verse_id: 145
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_145
+    ref: skeleton
+- verse_id: 146
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_146
+    ref: skeleton
+- verse_id: 147
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_147
+    ref: skeleton
+- verse_id: 148
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_148
+    ref: skeleton
+- verse_id: 149
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_149
+    ref: skeleton
+- verse_id: 150
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_150
+    ref: skeleton
+- verse_id: 151
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_151
+    ref: skeleton
+- verse_id: 152
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_152
+    ref: skeleton
+- verse_id: 153
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_153
+    ref: skeleton
+- verse_id: 154
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_154
+    ref: skeleton
+- verse_id: 155
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_155
+    ref: skeleton
+- verse_id: 156
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_156
+    ref: skeleton
+- verse_id: 157
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_157
+    ref: skeleton
+- verse_id: 158
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_158
+    ref: skeleton
+- verse_id: 159
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_159
+    ref: skeleton
+- verse_id: 160
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_160
+    ref: skeleton
+- verse_id: 161
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_161
+    ref: skeleton
+- verse_id: 162
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_162
+    ref: skeleton
+- verse_id: 163
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_163
+    ref: skeleton
+- verse_id: 164
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_164
+    ref: skeleton
+- verse_id: 165
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_165
+    ref: skeleton
+- verse_id: 166
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_166
+    ref: skeleton
+- verse_id: 167
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_167
+    ref: skeleton
+- verse_id: 168
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_168
+    ref: skeleton
+- verse_id: 169
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_169
+    ref: skeleton
+- verse_id: 170
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_170
+    ref: skeleton
+- verse_id: 171
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_171
+    ref: skeleton
+- verse_id: 172
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_172
+    ref: skeleton
+- verse_id: 173
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_173
+    ref: skeleton
+- verse_id: 174
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_174
+    ref: skeleton
+- verse_id: 175
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_175
+    ref: skeleton
+- verse_id: 176
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_176
+    ref: skeleton
+- verse_id: 177
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_177
+    ref: skeleton
+- verse_id: 178
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_178
+    ref: skeleton
+- verse_id: 179
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_179
+    ref: skeleton
+- verse_id: 180
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_180
+    ref: skeleton
+- verse_id: 181
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_181
+    ref: skeleton
+- verse_id: 182
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_182
+    ref: skeleton
+- verse_id: 183
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_183
+    ref: skeleton
+- verse_id: 184
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_184
+    ref: skeleton
+- verse_id: 185
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_185
+    ref: skeleton
+- verse_id: 186
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_186
+    ref: skeleton
+- verse_id: 187
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_187
+    ref: skeleton
+- verse_id: 188
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_188
+    ref: skeleton
+- verse_id: 189
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_189
+    ref: skeleton
+- verse_id: 190
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_190
+    ref: skeleton
+- verse_id: 191
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_191
+    ref: skeleton
+- verse_id: 192
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_192
+    ref: skeleton
+- verse_id: 193
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_193
+    ref: skeleton
+- verse_id: 194
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_194
+    ref: skeleton
+- verse_id: 195
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_195
+    ref: skeleton
+- verse_id: 196
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_196
+    ref: skeleton
+- verse_id: 197
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_197
+    ref: skeleton
+- verse_id: 198
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_198
+    ref: skeleton
+- verse_id: 199
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_199
+    ref: skeleton
+- verse_id: 200
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_200
+    ref: skeleton
+- verse_id: 201
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_201
+    ref: skeleton
+- verse_id: 202
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_202
+    ref: skeleton
+- verse_id: 203
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_203
+    ref: skeleton
+- verse_id: 204
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_204
+    ref: skeleton
+- verse_id: 205
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_205
+    ref: skeleton
+- verse_id: 206
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_206
+    ref: skeleton
+- verse_id: 207
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_207
+    ref: skeleton
+- verse_id: 208
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_208
+    ref: skeleton
+- verse_id: 209
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_209
+    ref: skeleton
+- verse_id: 210
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_210
+    ref: skeleton
+- verse_id: 211
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_211
+    ref: skeleton
+- verse_id: 212
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_212
+    ref: skeleton
+- verse_id: 213
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_213
+    ref: skeleton
+- verse_id: 214
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_214
+    ref: skeleton
+- verse_id: 215
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_215
+    ref: skeleton
+- verse_id: 216
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_216
+    ref: skeleton
+- verse_id: 217
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_217
+    ref: skeleton
+- verse_id: 218
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_218
+    ref: skeleton
+- verse_id: 219
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_219
+    ref: skeleton
+- verse_id: 220
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_220
+    ref: skeleton
+- verse_id: 221
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_221
+    ref: skeleton
+- verse_id: 222
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_222
+    ref: skeleton
+- verse_id: 223
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_223
+    ref: skeleton
+- verse_id: 224
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_224
+    ref: skeleton
+- verse_id: 225
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_225
+    ref: skeleton
+- verse_id: 226
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_226
+    ref: skeleton
+- verse_id: 227
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_227
+    ref: skeleton
+- verse_id: 228
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_228
+    ref: skeleton
+- verse_id: 229
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_229
+    ref: skeleton
+- verse_id: 230
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_230
+    ref: skeleton
+- verse_id: 231
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_231
+    ref: skeleton
+- verse_id: 232
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_232
+    ref: skeleton
+- verse_id: 233
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_233
+    ref: skeleton
+- verse_id: 234
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_234
+    ref: skeleton
+- verse_id: 235
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_235
+    ref: skeleton
+- verse_id: 236
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_236
+    ref: skeleton
+- verse_id: 237
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_237
+    ref: skeleton
+- verse_id: 238
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_238
+    ref: skeleton
+- verse_id: 239
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_239
+    ref: skeleton
+- verse_id: 240
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_240
+    ref: skeleton
+- verse_id: 241
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_241
+    ref: skeleton
+- verse_id: 242
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_242
+    ref: skeleton
+- verse_id: 243
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_243
+    ref: skeleton
+- verse_id: 244
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_244
+    ref: skeleton
+- verse_id: 245
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_245
+    ref: skeleton
+- verse_id: 246
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_246
+    ref: skeleton
+- verse_id: 247
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_247
+    ref: skeleton
+- verse_id: 248
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_248
+    ref: skeleton
+- verse_id: 249
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_249
+    ref: skeleton
+- verse_id: 250
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_250
+    ref: skeleton
+- verse_id: 251
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_251
+    ref: skeleton
+- verse_id: 252
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_252
+    ref: skeleton
+- verse_id: 253
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_253
+    ref: skeleton
+- verse_id: 254
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_254
+    ref: skeleton
+- verse_id: 255
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_255
+    ref: skeleton
+- verse_id: 256
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_256
+    ref: skeleton
+- verse_id: 257
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_257
+    ref: skeleton
+- verse_id: 258
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_258
+    ref: skeleton
+- verse_id: 259
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_259
+    ref: skeleton
+- verse_id: 260
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_260
+    ref: skeleton
+- verse_id: 261
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_261
+    ref: skeleton
+- verse_id: 262
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_262
+    ref: skeleton
+- verse_id: 263
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_263
+    ref: skeleton
+- verse_id: 264
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_264
+    ref: skeleton
+- verse_id: 265
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_265
+    ref: skeleton
+- verse_id: 266
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_266
+    ref: skeleton
+- verse_id: 267
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_267
+    ref: skeleton
+- verse_id: 268
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_268
+    ref: skeleton
+- verse_id: 269
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_269
+    ref: skeleton
+- verse_id: 270
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_270
+    ref: skeleton
+- verse_id: 271
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_271
+    ref: skeleton
+- verse_id: 272
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_272
+    ref: skeleton
+- verse_id: 273
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_273
+    ref: skeleton
+- verse_id: 274
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_274
+    ref: skeleton
+- verse_id: 275
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_275
+    ref: skeleton
+- verse_id: 276
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_276
+    ref: skeleton
+- verse_id: 277
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_277
+    ref: skeleton
+- verse_id: 278
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_278
+    ref: skeleton
+- verse_id: 279
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_279
+    ref: skeleton
+- verse_id: 280
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_280
+    ref: skeleton
+- verse_id: 281
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_281
+    ref: skeleton
+- verse_id: 282
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_282
+    ref: skeleton
+- verse_id: 283
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_283
+    ref: skeleton
+- verse_id: 284
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_284
+    ref: skeleton
+- verse_id: 285
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_285
+    ref: skeleton
+- verse_id: 286
+  text: ''
+  letters: 0
+  mizan:
+    root_code: a2_286
+    ref: skeleton
