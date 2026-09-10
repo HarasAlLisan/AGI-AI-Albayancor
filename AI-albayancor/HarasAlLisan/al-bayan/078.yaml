@@ -1,10 +1,206 @@
-# 078_surah_78
-surah: 78
-name: surah_78
-verses: 40
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 78
+surah_name: النبأ
+total_ayahs: 40
+mizan_genesis: A1:1=19
+mizan_chain: a9f1015->A78
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ عَمَّ يَتَسَآءَلُونَ"
+ letters: 26
+ mizan: "A78:1=26"
+ hash: "50d129287626772d"
+ - verse_id: 2
+ text: "عَنِ ٱلنَّبَإِ ٱلْعَظِيمِ"
+ letters: 11
+ mizan: "A78:2=11"
+ hash: "7dc905e6403da2a2"
+ - verse_id: 3
+ text: "ٱلَّذِى هُمْ فِيهِ مُخْتَلِفُونَ"
+ letters: 15
+ mizan: "A78:3=15"
+ hash: "90ee9341bf39d86d"
+ - verse_id: 4
+ text: "كَلَّا سَيَعْلَمُونَ"
+ letters: 10
+ mizan: "A78:4=10"
+ hash: "b07c850ced39ecb5"
+ - verse_id: 5
+ text: "ثُمَّ كَلَّا سَيَعْلَمُونَ"
+ letters: 12
+ mizan: "A78:5=12"
+ hash: "9eddd2764a008b16"
+ - verse_id: 6
+ text: "أَلَمْ نَجْعَلِ ٱلْأَرْضَ مِهَٰدًۭا"
+ letters: 15
+ mizan: "A78:6=15"
+ hash: "e6952832f6c38ce7"
+ - verse_id: 7
+ text: "وَٱلْجِبَالَ أَوْتَادًۭا"
+ letters: 12
+ mizan: "A78:7=12"
+ hash: "54156ffb6e5e46f1"
+ - verse_id: 8
+ text: "وَخَلَقْنَٰكُمْ أَزْوَٰجًۭا"
+ letters: 12
+ mizan: "A78:8=12"
+ hash: "2795225c85f55ef7"
+ - verse_id: 9
+ text: "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًۭا"
+ letters: 16
+ mizan: "A78:9=16"
+ hash: "e126dfc9613e1804"
+ - verse_id: 10
+ text: "وَجَعَلْنَا ٱلَّيْلَ لِبَاسًۭا"
+ letters: 14
+ mizan: "A78:10=14"
+ hash: "4d4bd59d0b5a13d3"
+ - verse_id: 11
+ text: "وَجَعَلْنَا ٱلنَّهَارَ مَعَاشًۭا"
+ letters: 16
+ mizan: "A78:11=16"
+ hash: "fe38aa9ee1bba20d"
+ - verse_id: 12
+ text: "وَبَنَيْنَا فَوْقَكُمْ سَبْعًۭا شِدَادًۭا"
+ letters: 20
+ mizan: "A78:12=20"
+ hash: "06d904b9a7e09b71"
+ - verse_id: 13
+ text: "وَجَعَلْنَا سِرَاجًۭا وَهَّاجًۭا"
+ letters: 16
+ mizan: "A78:13=16"
+ hash: "0f7ea4ec49bb012e"
+ - verse_id: 14
+ text: "وَأَنزَلْنَا مِنَ ٱلْمُعْصِرَٰتِ مَآءًۭ ثَجَّاجًۭا"
+ letters: 23
+ mizan: "A78:14=23"
+ hash: "9a9718b5727672fb"
+ - verse_id: 15
+ text: "لِّنُخْرِجَ بِهِۦ حَبًّۭا وَنَبَاتًۭا"
+ letters: 16
+ mizan: "A78:15=16"
+ hash: "1626643f34c9fbb9"
+ - verse_id: 16
+ text: "وَجَنَّٰتٍ أَلْفَافًا"
+ letters: 10
+ mizan: "A78:16=10"
+ hash: "d4847df10173c60e"
+ - verse_id: 17
+ text: "إِنَّ يَوْمَ ٱلْفَصْلِ كَانَ مِيقَٰتًۭا"
+ letters: 17
+ mizan: "A78:17=17"
+ hash: "1511b90ca99e428e"
+ - verse_id: 18
+ text: "يَوْمَ يُنفَخُ فِى ٱلصُّورِ فَتَأْتُونَ أَفْوَاجًۭا"
+ letters: 25
+ mizan: "A78:18=25"
+ hash: "bb71ffdfe268f1b0"
+ - verse_id: 19
+ text: "وَفُتِحَتِ ٱلسَّمَآءُ فَكَانَتْ أَبْوَٰبًۭا"
+ letters: 20
+ mizan: "A78:19=20"
+ hash: "47ce888732dc093b"
+ - verse_id: 20
+ text: "وَسُيِّرَتِ ٱلْجِبَالُ فَكَانَتْ سَرَابًا"
+ letters: 20
+ mizan: "A78:20=20"
+ hash: "1562a8d5dd276f59"
+ - verse_id: 21
+ text: "إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًۭا"
+ letters: 16
+ mizan: "A78:21=16"
+ hash: "2b680bf8bf14d30e"
+ - verse_id: 22
+ text: "لِّلطَّٰغِينَ مَـَٔابًۭا"
+ letters: 11
+ mizan: "A78:22=11"
+ hash: "ade71f05c3b842fb"
+ - verse_id: 23
+ text: "لَّٰبِثِينَ فِيهَآ أَحْقَابًۭا"
+ letters: 15
+ mizan: "A78:23=15"
+ hash: "6ed4fa6614073bc2"
+ - verse_id: 24
+ text: "لَّا يَذُوقُونَ فِيهَا بَرْدًۭا وَلَا شَرَابًا"
+ letters: 24
+ mizan: "A78:24=24"
+ hash: "1b0c785206ec5020"
+ - verse_id: 25
+ text: "إِلَّا حَمِيمًۭا وَغَسَّاقًۭا"
+ letters: 14
+ mizan: "A78:25=14"
+ hash: "4a688983b7c64da1"
+ - verse_id: 26
+ text: "جَزَآءًۭ وِفَاقًا"
+ letters: 9
+ mizan: "A78:26=9"
+ hash: "c4e4528fff8b93cd"
+ - verse_id: 27
+ text: "إِنَّهُمْ كَانُوا۟ لَا يَرْجُونَ حِسَابًۭا"
+ letters: 21
+ mizan: "A78:27=21"
+ hash: "51f6e43b98332648"
+ - verse_id: 28
+ text: "وَكَذَّبُوا۟ بِـَٔايَٰتِنَا كِذَّابًۭا"
+ letters: 18
+ mizan: "A78:28=18"
+ hash: "c62826800d692ce2"
+ - verse_id: 29
+ text: "وَكُلَّ شَىْءٍ أَحْصَيْنَٰهُ كِتَٰبًۭا"
+ letters: 16
+ mizan: "A78:29=16"
+ hash: "0e58c627565c451f"
+ - verse_id: 30
+ text: "فَذُوقُوا۟ فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا"
+ letters: 23
+ mizan: "A78:30=23"
+ hash: "3a879469882a59a8"
+ - verse_id: 31
+ text: "إِنَّ لِلْمُتَّقِينَ مَفَازًا"
+ letters: 14
+ mizan: "A78:31=14"
+ hash: "8ff4658ea733ef98"
+ - verse_id: 32
+ text: "حَدَآئِقَ وَأَعْنَٰبًۭا"
+ letters: 11
+ mizan: "A78:32=11"
+ hash: "fed6c369ba31455d"
+ - verse_id: 33
+ text: "وَكَوَاعِبَ أَتْرَابًۭا"
+ letters: 12
+ mizan: "A78:33=12"
+ hash: "4e76b0a6f4017d1d"
+ - verse_id: 34
+ text: "وَكَأْسًۭا دِهَاقًۭا"
+ letters: 10
+ mizan: "A78:34=10"
+ hash: "43ae30805f203c24"
+ - verse_id: 35
+ text: "لَّا يَسْمَعُونَ فِيهَا لَغْوًۭا وَلَا كِذَّٰبًۭا"
+ letters: 23
+ mizan: "A78:35=23"
+ hash: "715da410010fc745"
+ - verse_id: 36
+ text: "جَزَآءًۭ مِّن رَّبِّكَ عَطَآءً حِسَابًۭا"
+ letters: 18
+ mizan: "A78:36=18"
+ hash: "c72ed20fd881dcd4"
+ - verse_id: 37
+ text: "رَّبِّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلرَّحْمَٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًۭا"
+ letters: 42
+ mizan: "A78:37=42"
+ hash: "a63973015ab8c346"
+ - verse_id: 38
+ text: "يَوْمَ يَقُومُ ٱلرُّوحُ وَٱلْمَلَٰٓئِكَةُ صَفًّۭا ۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ ٱلرَّحْمَٰنُ وَقَالَ صَوَابًۭا"
+ letters: 54
+ mizan: "A78:38=54"
+ hash: "5b6652e900f1cc6a"
+ - verse_id: 39
+ text: "ذَٰلِكَ ٱلْيَوْمُ ٱلْحَقُّ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا"
+ letters: 30
+ mizan: "A78:39=30"
+ hash: "9eeb5aa6c469276c"
+ - verse_id: 40
+ text: "إِنَّآ أَنذَرْنَٰكُمْ عَذَابًۭا قَرِيبًۭا يَوْمَ يَنظُرُ ٱلْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ ٱلْكَافِرُ يَٰلَيْتَنِى كُنتُ تُرَٰبًۢا"
+ letters: 64
+ mizan: "A78:40=64"
+ hash: "8cc002cbf65b492f"
