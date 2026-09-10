@@ -1,10 +1,136 @@
-# 088_surah_88
-surah: 88
-name: surah_88
-verses: 26
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 88
+surah_name: الغاشية
+total_ayahs: 26
+mizan_genesis: A1:1=19
+mizan_chain: d267905->A88
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَٰشِيَةِ"
+ letters: 31
+ mizan: "A88:1=31"
+ hash: "4f117ebd14d2a204"
+ - verse_id: 2
+ text: "وُجُوهٌۭ يَوْمَئِذٍ خَٰشِعَةٌ"
+ letters: 13
+ mizan: "A88:2=13"
+ hash: "f55ff63788749993"
+ - verse_id: 3
+ text: "عَامِلَةٌۭ نَّاصِبَةٌۭ"
+ letters: 10
+ mizan: "A88:3=10"
+ hash: "470af10d2c91848b"
+ - verse_id: 4
+ text: "تَصْلَىٰ نَارًا حَامِيَةًۭ"
+ letters: 13
+ mizan: "A88:4=13"
+ hash: "f30115ee4500a69d"
+ - verse_id: 5
+ text: "تُسْقَىٰ مِنْ عَيْنٍ ءَانِيَةٍۢ"
+ letters: 14
+ mizan: "A88:5=14"
+ hash: "e90a5d8efa21dd56"
+ - verse_id: 6
+ text: "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍۢ"
+ letters: 19
+ mizan: "A88:6=19"
+ hash: "d7f9874bfa7ead74"
+ - verse_id: 7
+ text: "لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍۢ"
+ letters: 18
+ mizan: "A88:7=18"
+ hash: "98b7bf999d748f61"
+ - verse_id: 8
+ text: "وُجُوهٌۭ يَوْمَئِذٍۢ نَّاعِمَةٌۭ"
+ letters: 14
+ mizan: "A88:8=14"
+ hash: "6895d531b73f449d"
+ - verse_id: 9
+ text: "لِّسَعْيِهَا رَاضِيَةٌۭ"
+ letters: 11
+ mizan: "A88:9=11"
+ hash: "1b611eb1256f3cb3"
+ - verse_id: 10
+ text: "فِى جَنَّةٍ عَالِيَةٍۢ"
+ letters: 10
+ mizan: "A88:10=10"
+ hash: "7787633a68240281"
+ - verse_id: 11
+ text: "لَّا تَسْمَعُ فِيهَا لَٰغِيَةًۭ"
+ letters: 14
+ mizan: "A88:11=14"
+ hash: "d47d034783d15a4c"
+ - verse_id: 12
+ text: "فِيهَا عَيْنٌۭ جَارِيَةٌۭ"
+ letters: 12
+ mizan: "A88:12=12"
+ hash: "76c0a981ed06b445"
+ - verse_id: 13
+ text: "فِيهَا سُرُرٌۭ مَّرْفُوعَةٌۭ"
+ letters: 13
+ mizan: "A88:13=13"
+ hash: "fc3bf2f89dffd3e7"
+ - verse_id: 14
+ text: "وَأَكْوَابٌۭ مَّوْضُوعَةٌۭ"
+ letters: 12
+ mizan: "A88:14=12"
+ hash: "c4d5f5f91ea23b0f"
+ - verse_id: 15
+ text: "وَنَمَارِقُ مَصْفُوفَةٌۭ"
+ letters: 12
+ mizan: "A88:15=12"
+ hash: "49105a2e3fe9d9de"
+ - verse_id: 16
+ text: "وَزَرَابِىُّ مَبْثُوثَةٌ"
+ letters: 12
+ mizan: "A88:16=12"
+ hash: "ccbfd3a5ff35e51e"
+ - verse_id: 17
+ text: "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ"
+ letters: 24
+ mizan: "A88:17=24"
+ hash: "4ff535769f0d297a"
+ - verse_id: 18
+ text: "وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ"
+ letters: 16
+ mizan: "A88:18=16"
+ hash: "a965098597b0b3ea"
+ - verse_id: 19
+ text: "وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ"
+ letters: 16
+ mizan: "A88:19=16"
+ hash: "6c347f5463a7e4c7"
+ - verse_id: 20
+ text: "وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ"
+ letters: 15
+ mizan: "A88:20=15"
+ hash: "0b63d5857bea4775"
+ - verse_id: 21
+ text: "فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌۭ"
+ letters: 15
+ mizan: "A88:21=15"
+ hash: "bc6da37af7db619d"
+ - verse_id: 22
+ text: "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ"
+ letters: 14
+ mizan: "A88:22=14"
+ hash: "35508e753a7e467d"
+ - verse_id: 23
+ text: "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ"
+ letters: 13
+ mizan: "A88:23=13"
+ hash: "fcc04e739d162872"
+ - verse_id: 24
+ text: "فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ"
+ letters: 19
+ mizan: "A88:24=19"
+ hash: "45bb253174ec3909"
+ - verse_id: 25
+ text: "إِنَّ إِلَيْنَآ إِيَابَهُمْ"
+ letters: 13
+ mizan: "A88:25=13"
+ hash: "69390234b0c96588"
+ - verse_id: 26
+ text: "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم"
+ letters: 15
+ mizan: "A88:26=15"
+ hash: "cfca090be2715b30"
