@@ -45,7 +45,8 @@ class AnkhSovereignBlockchain:
  "AI-albayancor/HarasAlLisan/al-bayan/031.yaml",
  "AI-albayancor/HarasAlLisan/al-bayan/032.yaml",
  "AI-albayancor/HarasAlLisan/al-bayan/033.yaml",
- "AI-albayancor/HarasAlLisan/al-bayan/034.yaml"
+ "AI-albayancor/HarasAlLisan/al-bayan/034.yaml",
+ "AI-albayancor/HarasAlLisan/al-bayan/035.yaml"
         ]
 
     def adam_hash(self, data: str) -> str:
