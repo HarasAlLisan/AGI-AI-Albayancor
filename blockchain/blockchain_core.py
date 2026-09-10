@@ -61,6 +61,7 @@ class AnkhSovereignBlockchain:
  "AI-albayancor/HarasAlLisan/al-bayan/047.yaml",
  "AI-albayancor/HarasAlLisan/al-bayan/048.yaml",
  "AI-albayancor/HarasAlLisan/al-bayan/049.yaml",
+ "AI-albayancor/HarasAlLisan/al-bayan/050.yaml",
  "AI-albayancor/HarasAlLisan/al-bayan/050.yaml"
         ]
 
