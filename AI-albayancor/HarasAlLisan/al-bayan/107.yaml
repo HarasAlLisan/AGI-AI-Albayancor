@@ -1,10 +1,41 @@
-# 107_surah_107
-surah: 107
-name: surah_107
-verses: 7
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 107
+surah_name: الماعون
+total_ayahs: 7
+mizan_genesis: A1:1=19
+mizan_chain: 2a69338->A107
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ"
+ letters: 33
+ mizan: "A107:1=33"
+ hash: "e6a1f49b888c7c2c"
+ - verse_id: 2
+ text: "فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ"
+ letters: 15
+ mizan: "A107:2=15"
+ hash: "7e46bfe48b04b7bc"
+ - verse_id: 3
+ text: "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ"
+ letters: 19
+ mizan: "A107:3=19"
+ hash: "76266445b558e0ef"
+ - verse_id: 4
+ text: "فَوَيْلٌۭ لِّلْمُصَلِّينَ"
+ letters: 11
+ mizan: "A107:4=11"
+ hash: "7c59fc9e5b3d4af2"
+ - verse_id: 5
+ text: "ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ"
+ letters: 19
+ mizan: "A107:5=19"
+ hash: "2562873d55c99e6a"
+ - verse_id: 6
+ text: "ٱلَّذِينَ هُمْ يُرَآءُونَ"
+ letters: 12
+ mizan: "A107:6=12"
+ hash: "178348ed9c18955d"
+ - verse_id: 7
+ text: "وَيَمْنَعُونَ ٱلْمَاعُونَ"
+ letters: 13
+ mizan: "A107:7=13"
+ hash: "7a22dadd502076b5"
