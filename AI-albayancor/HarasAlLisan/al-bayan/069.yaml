@@ -1,10 +1,266 @@
-# 069_surah_69
-surah: 69
-name: surah_69
-verses: 52
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 69
+surah_name: الحاقة
+total_ayahs: 52
+mizan_genesis: A1:1=19
+mizan_chain: 3b9304d->A69
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلْحَآقَّةُ"
+ letters: 21
+ mizan: "A69:1=21"
+ hash: "39a2c3fda72c4a89"
+ - verse_id: 2
+ text: "مَا ٱلْحَآقَّةُ"
+ letters: 7
+ mizan: "A69:2=7"
+ hash: "9d5baa24d3a8e82c"
+ - verse_id: 3
+ text: "وَمَآ أَدْرَىٰكَ مَا ٱلْحَآقَّةُ"
+ letters: 15
+ mizan: "A69:3=15"
+ hash: "429bf476d9f2d690"
+ - verse_id: 4
+ text: "كَذَّبَتْ ثَمُودُ وَعَادٌۢ بِٱلْقَارِعَةِ"
+ letters: 19
+ mizan: "A69:4=19"
+ hash: "1e51a3244415d210"
+ - verse_id: 5
+ text: "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ"
+ letters: 22
+ mizan: "A69:5=22"
+ hash: "a275bc5f649670d1"
+ - verse_id: 6
+ text: "وَأَمَّا عَادٌۭ فَأُهْلِكُوا۟ بِرِيحٍۢ صَرْصَرٍ عَاتِيَةٍۢ"
+ letters: 27
+ mizan: "A69:6=27"
+ hash: "c7046a667e03e8aa"
+ - verse_id: 7
+ text: "سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍۢ وَثَمَٰنِيَةَ أَيَّامٍ حُسُومًۭا فَتَرَى ٱلْقَوْمَ فِيهَا صَرْعَىٰ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍۢ"
+ letters: 66
+ mizan: "A69:7=66"
+ hash: "180d0647222f2b7a"
+ - verse_id: 8
+ text: "فَهَلْ تَرَىٰ لَهُم مِّنۢ بَاقِيَةٍۢ"
+ letters: 16
+ mizan: "A69:8=16"
+ hash: "abc39d5d1bfc695e"
+ - verse_id: 9
+ text: "وَجَآءَ فِرْعَوْنُ وَمَن قَبْلَهُۥ وَٱلْمُؤْتَفِكَٰتُ بِٱلْخَاطِئَةِ"
+ letters: 31
+ mizan: "A69:9=31"
+ hash: "48e0ae4e6597654c"
+ - verse_id: 10
+ text: "فَعَصَوْا۟ رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ أَخْذَةًۭ رَّابِيَةً"
+ letters: 28
+ mizan: "A69:10=28"
+ hash: "157ec31d85e2de66"
+ - verse_id: 11
+ text: "إِنَّا لَمَّا طَغَا ٱلْمَآءُ حَمَلْنَٰكُمْ فِى ٱلْجَارِيَةِ"
+ letters: 27
+ mizan: "A69:11=27"
+ hash: "3e9b8762a2bebab4"
+ - verse_id: 12
+ text: "لِنَجْعَلَهَا لَكُمْ تَذْكِرَةًۭ وَتَعِيَهَآ أُذُنٌۭ وَٰعِيَةٌۭ"
+ letters: 28
+ mizan: "A69:12=28"
+ hash: "86b02c60b8b8fca4"
+ - verse_id: 13
+ text: "فَإِذَا نُفِخَ فِى ٱلصُّورِ نَفْخَةٌۭ وَٰحِدَةٌۭ"
+ letters: 21
+ mizan: "A69:13=21"
+ hash: "3241abf6210e67b2"
+ - verse_id: 14
+ text: "وَحُمِلَتِ ٱلْأَرْضُ وَٱلْجِبَالُ فَدُكَّتَا دَكَّةًۭ وَٰحِدَةًۭ"
+ letters: 27
+ mizan: "A69:14=27"
+ hash: "5e16d35e09f0a3c5"
+ - verse_id: 15
+ text: "فَيَوْمَئِذٍۢ وَقَعَتِ ٱلْوَاقِعَةُ"
+ letters: 16
+ mizan: "A69:15=16"
+ hash: "45b20828aceeac69"
+ - verse_id: 16
+ text: "وَٱنشَقَّتِ ٱلسَّمَآءُ فَهِىَ يَوْمَئِذٍۢ وَاهِيَةٌۭ"
+ letters: 23
+ mizan: "A69:16=23"
+ hash: "15923b2a036aaf8c"
+ - verse_id: 17
+ text: "وَٱلْمَلَكُ عَلَىٰٓ أَرْجَآئِهَا ۚ وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍۢ ثَمَٰنِيَةٌۭ"
+ letters: 41
+ mizan: "A69:17=41"
+ hash: "a7a4e9611777be9e"
+ - verse_id: 18
+ text: "يَوْمَئِذٍۢ تُعْرَضُونَ لَا تَخْفَىٰ مِنكُمْ خَافِيَةٌۭ"
+ letters: 26
+ mizan: "A69:18=26"
+ hash: "19ca4da8fbea7561"
+ - verse_id: 19
+ text: "فَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِيَمِينِهِۦ فَيَقُولُ هَآؤُمُ ٱقْرَءُوا۟ كِتَٰبِيَهْ"
+ letters: 39
+ mizan: "A69:19=39"
+ hash: "5d08bcf2eedcd4e7"
+ - verse_id: 20
+ text: "إِنِّى ظَنَنتُ أَنِّى مُلَٰقٍ حِسَابِيَهْ"
+ letters: 19
+ mizan: "A69:20=19"
+ hash: "82f0f7b13d3d8ccb"
+ - verse_id: 21
+ text: "فَهُوَ فِى عِيشَةٍۢ رَّاضِيَةٍۢ"
+ letters: 14
+ mizan: "A69:21=14"
+ hash: "903cadc3d6a9d2db"
+ - verse_id: 22
+ text: "فِى جَنَّةٍ عَالِيَةٍۢ"
+ letters: 10
+ mizan: "A69:22=10"
+ hash: "7787633a68240281"
+ - verse_id: 23
+ text: "قُطُوفُهَا دَانِيَةٌۭ"
+ letters: 11
+ mizan: "A69:23=11"
+ hash: "ffe837009f51dbf0"
+ - verse_id: 24
+ text: "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَآ أَسْلَفْتُمْ فِى ٱلْأَيَّامِ ٱلْخَالِيَةِ"
+ letters: 37
+ mizan: "A69:24=37"
+ hash: "27c50117f79467ac"
+ - verse_id: 25
+ text: "وَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِشِمَالِهِۦ فَيَقُولُ يَٰلَيْتَنِى لَمْ أُوتَ كِتَٰبِيَهْ"
+ letters: 41
+ mizan: "A69:25=41"
+ hash: "7d11c31f124cb4de"
+ - verse_id: 26
+ text: "وَلَمْ أَدْرِ مَا حِسَابِيَهْ"
+ letters: 14
+ mizan: "A69:26=14"
+ hash: "f212dbd039483563"
+ - verse_id: 27
+ text: "يَٰلَيْتَهَا كَانَتِ ٱلْقَاضِيَةَ"
+ letters: 16
+ mizan: "A69:27=16"
+ hash: "79ddfeca14f88064"
+ - verse_id: 28
+ text: "مَآ أَغْنَىٰ عَنِّى مَالِيَهْ ۜ"
+ letters: 14
+ mizan: "A69:28=14"
+ hash: "3a96e9bc35f4b668"
+ - verse_id: 29
+ text: "هَلَكَ عَنِّى سُلْطَٰنِيَهْ"
+ letters: 12
+ mizan: "A69:29=12"
+ hash: "29c63e0d66794563"
+ - verse_id: 30
+ text: "خُذُوهُ فَغُلُّوهُ"
+ letters: 9
+ mizan: "A69:30=9"
+ hash: "0b99c940c36bb10d"
+ - verse_id: 31
+ text: "ثُمَّ ٱلْجَحِيمَ صَلُّوهُ"
+ letters: 11
+ mizan: "A69:31=11"
+ hash: "127e1c9810c65b1a"
+ - verse_id: 32
+ text: "ثُمَّ فِى سِلْسِلَةٍۢ ذَرْعُهَا سَبْعُونَ ذِرَاعًۭا فَٱسْلُكُوهُ"
+ letters: 30
+ mizan: "A69:32=30"
+ hash: "92ce157a7c3abdcc"
+ - verse_id: 33
+ text: "إِنَّهُۥ كَانَ لَا يُؤْمِنُ بِٱللَّهِ ٱلْعَظِيمِ"
+ letters: 21
+ mizan: "A69:33=21"
+ hash: "bb592efcca468791"
+ - verse_id: 34
+ text: "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ"
+ letters: 19
+ mizan: "A69:34=19"
+ hash: "76266445b558e0ef"
+ - verse_id: 35
+ text: "فَلَيْسَ لَهُ ٱلْيَوْمَ هَٰهُنَا حَمِيمٌۭ"
+ letters: 18
+ mizan: "A69:35=18"
+ hash: "e94ace6c6d2aa694"
+ - verse_id: 36
+ text: "وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍۢ"
+ letters: 17
+ mizan: "A69:36=17"
+ hash: "e68e5628ada095b3"
+ - verse_id: 37
+ text: "لَّا يَأْكُلُهُۥٓ إِلَّا ٱلْخَٰطِـُٔونَ"
+ letters: 16
+ mizan: "A69:37=16"
+ hash: "3ae01929499b0e3c"
+ - verse_id: 38
+ text: "فَلَآ أُقْسِمُ بِمَا تُبْصِرُونَ"
+ letters: 16
+ mizan: "A69:38=16"
+ hash: "82ee5dbcac32e163"
+ - verse_id: 39
+ text: "وَمَا لَا تُبْصِرُونَ"
+ letters: 11
+ mizan: "A69:39=11"
+ hash: "9f86303902af8219"
+ - verse_id: 40
+ text: "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ"
+ letters: 15
+ mizan: "A69:40=15"
+ hash: "6d4f1385077da7fa"
+ - verse_id: 41
+ text: "وَمَا هُوَ بِقَوْلِ شَاعِرٍۢ ۚ قَلِيلًۭا مَّا تُؤْمِنُونَ"
+ letters: 26
+ mizan: "A69:41=26"
+ hash: "536fb95a70272e15"
+ - verse_id: 42
+ text: "وَلَا بِقَوْلِ كَاهِنٍۢ ۚ قَلِيلًۭا مَّا تَذَكَّرُونَ"
+ letters: 24
+ mizan: "A69:42=24"
+ hash: "6f9c7d78670184e9"
+ - verse_id: 43
+ text: "تَنزِيلٌۭ مِّن رَّبِّ ٱلْعَٰلَمِينَ"
+ letters: 15
+ mizan: "A69:43=15"
+ hash: "a766ac8b8aa61975"
+ - verse_id: 44
+ text: "وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ ٱلْأَقَاوِيلِ"
+ letters: 22
+ mizan: "A69:44=22"
+ hash: "122a76b000e123ab"
+ - verse_id: 45
+ text: "لَأَخَذْنَا مِنْهُ بِٱلْيَمِينِ"
+ letters: 15
+ mizan: "A69:45=15"
+ hash: "7ab6075b2a47547a"
+ - verse_id: 46
+ text: "ثُمَّ لَقَطَعْنَا مِنْهُ ٱلْوَتِينَ"
+ letters: 16
+ mizan: "A69:46=16"
+ hash: "53ff26872d6cfcc8"
+ - verse_id: 47
+ text: "فَمَا مِنكُم مِّنْ أَحَدٍ عَنْهُ حَٰجِزِينَ"
+ letters: 20
+ mizan: "A69:47=20"
+ hash: "c697f24bc982dc36"
+ - verse_id: 48
+ text: "وَإِنَّهُۥ لَتَذْكِرَةٌۭ لِّلْمُتَّقِينَ"
+ letters: 17
+ mizan: "A69:48=17"
+ hash: "2881474fdee095f6"
+ - verse_id: 49
+ text: "وَإِنَّا لَنَعْلَمُ أَنَّ مِنكُم مُّكَذِّبِينَ"
+ letters: 21
+ mizan: "A69:49=21"
+ hash: "6d37355a0ebb464c"
+ - verse_id: 50
+ text: "وَإِنَّهُۥ لَحَسْرَةٌ عَلَى ٱلْكَٰفِرِينَ"
+ letters: 18
+ mizan: "A69:50=18"
+ hash: "5abefc67f8805248"
+ - verse_id: 51
+ text: "وَإِنَّهُۥ لَحَقُّ ٱلْيَقِينِ"
+ letters: 12
+ mizan: "A69:51=12"
+ hash: "b8864de6ff1a9f73"
+ - verse_id: 52
+ text: "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ"
+ letters: 15
+ mizan: "A69:52=15"
+ hash: "7ff0001dad5e31b1"
