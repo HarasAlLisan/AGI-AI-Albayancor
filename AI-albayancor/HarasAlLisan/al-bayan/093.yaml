@@ -1,10 +1,61 @@
-# 093_surah_93
-surah: 93
-name: surah_93
-verses: 11
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 93
+surah_name: الضحى
+total_ayahs: 11
+mizan_genesis: A1:1=19
+mizan_chain: d1655c6->A93
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلضُّحَىٰ"
+ letters: 21
+ mizan: "A93:1=21"
+ hash: "0538de3c21b97567"
+ - verse_id: 2
+ text: "وَٱلَّيْلِ إِذَا سَجَىٰ"
+ letters: 10
+ mizan: "A93:2=10"
+ hash: "6e7c371bc75e3882"
+ - verse_id: 3
+ text: "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ"
+ letters: 15
+ mizan: "A93:3=15"
+ hash: "a16a3dbf01b0132a"
+ - verse_id: 4
+ text: "وَلَلْءَاخِرَةُ خَيْرٌۭ لَّكَ مِنَ ٱلْأُولَىٰ"
+ letters: 20
+ mizan: "A93:4=20"
+ hash: "3144de601aca4298"
+ - verse_id: 5
+ text: "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ"
+ letters: 18
+ mizan: "A93:5=18"
+ hash: "af002defde3350ad"
+ - verse_id: 6
+ text: "أَلَمْ يَجِدْكَ يَتِيمًۭا فَـَٔاوَىٰ"
+ letters: 17
+ mizan: "A93:6=17"
+ hash: "b727ecf7e3ea50f2"
+ - verse_id: 7
+ text: "وَوَجَدَكَ ضَآلًّۭا فَهَدَىٰ"
+ letters: 13
+ mizan: "A93:7=13"
+ hash: "42c1ea842abbf617"
+ - verse_id: 8
+ text: "وَوَجَدَكَ عَآئِلًۭا فَأَغْنَىٰ"
+ letters: 15
+ mizan: "A93:8=15"
+ hash: "f46f1dba89772be3"
+ - verse_id: 9
+ text: "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ"
+ letters: 16
+ mizan: "A93:9=16"
+ hash: "b123f44827a2c7b1"
+ - verse_id: 10
+ text: "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ"
+ letters: 16
+ mizan: "A93:10=16"
+ hash: "55fa789a5bf5f249"
+ - verse_id: 11
+ text: "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ"
+ letters: 16
+ mizan: "A93:11=16"
+ hash: "8d2728d96282b15a"
