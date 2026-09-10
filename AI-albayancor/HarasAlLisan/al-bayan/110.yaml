@@ -1,10 +1,21 @@
-# 110_surah_110
-surah: 110
-name: surah_110
-verses: 3
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 110
+surah_name: النصر
+total_ayahs: 3
+mizan_genesis: A1:1=19
+mizan_chain: 1153b62->A110
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ"
+ letters: 33
+ mizan: "A110:1=33"
+ hash: "378be8d4ca33dda1"
+ - verse_id: 2
+ text: "وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًۭا"
+ letters: 29
+ mizan: "A110:2=29"
+ hash: "f4611b8fe2a5d122"
+ - verse_id: 3
+ text: "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا"
+ letters: 29
+ mizan: "A110:3=29"
+ hash: "3a9da1c2a90819ce"
