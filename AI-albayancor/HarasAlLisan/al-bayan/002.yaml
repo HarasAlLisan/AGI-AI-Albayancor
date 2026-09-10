@@ -1,10 +1,18 @@
-# A2 - البقرة - بداية على نضافة
-# الميزان: A1 الفاتحة
+# A2 - البقرة - الميزان الأول الثاني
+# الميزان الأم: A1 الفاتحة = فاتحة الكتاب كله
 surah: 2
 name: al_baqarah
 code: A2
 mizan_ref: A1_001_al_fatiha
+mizan_rule: "A1:1=19 حرف - A2:1=22 حرف"
 verses: 286
-status: skeleton_clean
-note: "المشروع كله قام على ملف ميزان الفاتحة A1 - لا تعديل على A1"
-ayahs: []
+status: mizan_locked_A1_A2
+ayahs:
+    - verse_id: 1
+    text: "بسم الله الرحمن الرحيم الم"
+    letters: 22
+    mizan:
+      root_code: "a2"
+      ref: "A1:1=19"
+      type: "فاتحة البقرة = بسملة + الم"
+      note: "فاتحة القرآن - الميزان الأول الثاني"
