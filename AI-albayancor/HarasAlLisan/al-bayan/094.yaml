@@ -1,10 +1,46 @@
-# 094_surah_94
-surah: 94
-name: surah_94
-verses: 8
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 94
+surah_name: الشرح
+total_ayahs: 8
+mizan_genesis: A1:1=19
+mizan_chain: 63769d3->A94
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ"
+ letters: 29
+ mizan: "A94:1=29"
+ hash: "c9c461c5e576da7d"
+ - verse_id: 2
+ text: "وَوَضَعْنَا عَنكَ وِزْرَكَ"
+ letters: 13
+ mizan: "A94:2=13"
+ hash: "d26a4cc8405aadae"
+ - verse_id: 3
+ text: "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ"
+ letters: 11
+ mizan: "A94:3=11"
+ hash: "d8b2577f565ca688"
+ - verse_id: 4
+ text: "وَرَفَعْنَا لَكَ ذِكْرَكَ"
+ letters: 12
+ mizan: "A94:4=12"
+ hash: "973ecfffab7bd05c"
+ - verse_id: 5
+ text: "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا"
+ letters: 13
+ mizan: "A94:5=13"
+ hash: "46d6e18e05512d5f"
+ - verse_id: 6
+ text: "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًۭا"
+ letters: 12
+ mizan: "A94:6=12"
+ hash: "08ce47c9cb6e72bf"
+ - verse_id: 7
+ text: "فَإِذَا فَرَغْتَ فَٱنصَبْ"
+ letters: 12
+ mizan: "A94:7=12"
+ hash: "314042bf70acfe97"
+ - verse_id: 8
+ text: "وَإِلَىٰ رَبِّكَ فَٱرْغَب"
+ letters: 11
+ mizan: "A94:8=11"
+ hash: "93e29c35c3f391e9"
