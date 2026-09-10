@@ -1,10 +1,226 @@
-# 070_surah_70
-surah: 70
-name: surah_70
-verses: 44
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 70
+surah_name: المعارج
+total_ayahs: 44
+mizan_genesis: A1:1=19
+mizan_chain: c872fb2->A70
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ سَأَلَ سَآئِلٌۢ بِعَذَابٍۢ وَاقِعٍۢ"
+ letters: 32
+ mizan: "A70:1=32"
+ hash: "aeee0af6026dcb76"
+ - verse_id: 2
+ text: "لِّلْكَٰفِرِينَ لَيْسَ لَهُۥ دَافِعٌۭ"
+ letters: 16
+ mizan: "A70:2=16"
+ hash: "7aa290e8fee09672"
+ - verse_id: 3
+ text: "مِّنَ ٱللَّهِ ذِى ٱلْمَعَارِجِ"
+ letters: 13
+ mizan: "A70:3=13"
+ hash: "e03ed861783777ac"
+ - verse_id: 4
+ text: "تَعْرُجُ ٱلْمَلَٰٓئِكَةُ وَٱلرُّوحُ إِلَيْهِ فِى يَوْمٍۢ كَانَ مِقْدَارُهُۥ خَمْسِينَ أَلْفَ سَنَةٍۢ"
+ letters: 44
+ mizan: "A70:4=44"
+ hash: "e0131be01f6ff1c2"
+ - verse_id: 5
+ text: "فَٱصْبِرْ صَبْرًۭا جَمِيلًا"
+ letters: 13
+ mizan: "A70:5=13"
+ hash: "591598f0672330e3"
+ - verse_id: 6
+ text: "إِنَّهُمْ يَرَوْنَهُۥ بَعِيدًۭا"
+ letters: 14
+ mizan: "A70:6=14"
+ hash: "65739c6c5491e1c0"
+ - verse_id: 7
+ text: "وَنَرَىٰهُ قَرِيبًۭا"
+ letters: 10
+ mizan: "A70:7=10"
+ hash: "9724b681053bd968"
+ - verse_id: 8
+ text: "يَوْمَ تَكُونُ ٱلسَّمَآءُ كَٱلْمُهْلِ"
+ letters: 17
+ mizan: "A70:8=17"
+ hash: "1c15839e766c1c8f"
+ - verse_id: 9
+ text: "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ"
+ letters: 15
+ mizan: "A70:9=15"
+ hash: "0d9e150bd22d07b4"
+ - verse_id: 10
+ text: "وَلَا يَسْـَٔلُ حَمِيمٌ حَمِيمًۭا"
+ letters: 16
+ mizan: "A70:10=16"
+ hash: "c9d2b2b727d4abcc"
+ - verse_id: 11
+ text: "يُبَصَّرُونَهُمْ ۚ يَوَدُّ ٱلْمُجْرِمُ لَوْ يَفْتَدِى مِنْ عَذَابِ يَوْمِئِذٍۭ بِبَنِيهِ"
+ letters: 39
+ mizan: "A70:11=39"
+ hash: "06195be41f1b9b00"
+ - verse_id: 12
+ text: "وَصَٰحِبَتِهِۦ وَأَخِيهِ"
+ letters: 11
+ mizan: "A70:12=11"
+ hash: "391539f305b9ddc3"
+ - verse_id: 13
+ text: "وَفَصِيلَتِهِ ٱلَّتِى تُـْٔوِيهِ"
+ letters: 15
+ mizan: "A70:13=15"
+ hash: "e11bfcdb773b04f1"
+ - verse_id: 14
+ text: "وَمَن فِى ٱلْأَرْضِ جَمِيعًۭا ثُمَّ يُنجِيهِ"
+ letters: 21
+ mizan: "A70:14=21"
+ hash: "3d43e436f151bae5"
+ - verse_id: 15
+ text: "كَلَّآ ۖ إِنَّهَا لَظَىٰ"
+ letters: 10
+ mizan: "A70:15=10"
+ hash: "4175c73ac754c6e3"
+ - verse_id: 16
+ text: "نَزَّاعَةًۭ لِّلشَّوَىٰ"
+ letters: 10
+ mizan: "A70:16=10"
+ hash: "29207f35bfa4fb89"
+ - verse_id: 17
+ text: "تَدْعُوا۟ مَنْ أَدْبَرَ وَتَوَلَّىٰ"
+ letters: 16
+ mizan: "A70:17=16"
+ hash: "399c503731e02200"
+ - verse_id: 18
+ text: "وَجَمَعَ فَأَوْعَىٰٓ"
+ letters: 9
+ mizan: "A70:18=9"
+ hash: "b0b27dfddcebe6ca"
+ - verse_id: 19
+ text: "۞ إِنَّ ٱلْإِنسَٰنَ خُلِقَ هَلُوعًا"
+ letters: 15
+ mizan: "A70:19=15"
+ hash: "ecda809f7da9d0a8"
+ - verse_id: 20
+ text: "إِذَا مَسَّهُ ٱلشَّرُّ جَزُوعًۭا"
+ letters: 14
+ mizan: "A70:20=14"
+ hash: "b0661555e11d54e2"
+ - verse_id: 21
+ text: "وَإِذَا مَسَّهُ ٱلْخَيْرُ مَنُوعًا"
+ letters: 16
+ mizan: "A70:21=16"
+ hash: "9c2982662e41a669"
+ - verse_id: 22
+ text: "إِلَّا ٱلْمُصَلِّينَ"
+ letters: 9
+ mizan: "A70:22=9"
+ hash: "359fdfae575a019d"
+ - verse_id: 23
+ text: "ٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ دَآئِمُونَ"
+ letters: 21
+ mizan: "A70:23=21"
+ hash: "541eef62a278d091"
+ - verse_id: 24
+ text: "وَٱلَّذِينَ فِىٓ أَمْوَٰلِهِمْ حَقٌّۭ مَّعْلُومٌۭ"
+ letters: 20
+ mizan: "A70:24=20"
+ hash: "3929278dc03c641f"
+ - verse_id: 25
+ text: "لِّلسَّآئِلِ وَٱلْمَحْرُومِ"
+ letters: 13
+ mizan: "A70:25=13"
+ hash: "1e5dfe57dc53dc72"
+ - verse_id: 26
+ text: "وَٱلَّذِينَ يُصَدِّقُونَ بِيَوْمِ ٱلدِّينِ"
+ letters: 19
+ mizan: "A70:26=19"
+ hash: "d4600f766acd53f4"
+ - verse_id: 27
+ text: "وَٱلَّذِينَ هُم مِّنْ عَذَابِ رَبِّهِم مُّشْفِقُونَ"
+ letters: 23
+ mizan: "A70:27=23"
+ hash: "0edc90108f286366"
+ - verse_id: 28
+ text: "إِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُونٍۢ"
+ letters: 18
+ mizan: "A70:28=18"
+ hash: "a939aba5745b253f"
+ - verse_id: 29
+ text: "وَٱلَّذِينَ هُمْ لِفُرُوجِهِمْ حَٰفِظُونَ"
+ letters: 19
+ mizan: "A70:29=19"
+ hash: "57eab7abcde6fdb2"
+ - verse_id: 30
+ text: "إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَٰنُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ"
+ letters: 40
+ mizan: "A70:30=40"
+ hash: "4f045d3115194688"
+ - verse_id: 31
+ text: "فَمَنِ ٱبْتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُو۟لَٰٓئِكَ هُمُ ٱلْعَادُونَ"
+ letters: 28
+ mizan: "A70:31=28"
+ hash: "a76b21d5dabc7ebf"
+ - verse_id: 32
+ text: "وَٱلَّذِينَ هُمْ لِأَمَٰنَٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ"
+ letters: 24
+ mizan: "A70:32=24"
+ hash: "b5f90048d450d9fe"
+ - verse_id: 33
+ text: "وَٱلَّذِينَ هُم بِشَهَٰدَٰتِهِمْ قَآئِمُونَ"
+ letters: 20
+ mizan: "A70:33=20"
+ hash: "e9c7a149d16bf8ff"
+ - verse_id: 34
+ text: "وَٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ"
+ letters: 23
+ mizan: "A70:34=23"
+ hash: "2b6e57fceb48f976"
+ - verse_id: 35
+ text: "أُو۟لَٰٓئِكَ فِى جَنَّٰتٍۢ مُّكْرَمُونَ"
+ letters: 16
+ mizan: "A70:35=16"
+ hash: "fe8f8cb2a1c9deed"
+ - verse_id: 36
+ text: "فَمَالِ ٱلَّذِينَ كَفَرُوا۟ قِبَلَكَ مُهْطِعِينَ"
+ letters: 23
+ mizan: "A70:36=23"
+ hash: "11869a86534c6d42"
+ - verse_id: 37
+ text: "عَنِ ٱلْيَمِينِ وَعَنِ ٱلشِّمَالِ عِزِينَ"
+ letters: 19
+ mizan: "A70:37=19"
+ hash: "bb7b3b7e5d414749"
+ - verse_id: 38
+ text: "أَيَطْمَعُ كُلُّ ٱمْرِئٍۢ مِّنْهُمْ أَن يُدْخَلَ جَنَّةَ نَعِيمٍۢ"
+ letters: 27
+ mizan: "A70:38=27"
+ hash: "3c8249c84d9a7e78"
+ - verse_id: 39
+ text: "كَلَّآ ۖ إِنَّا خَلَقْنَٰهُم مِّمَّا يَعْلَمُونَ"
+ letters: 21
+ mizan: "A70:39=21"
+ hash: "51f0d94f0f04d483"
+ - verse_id: 40
+ text: "فَلَآ أُقْسِمُ بِرَبِّ ٱلْمَشَٰرِقِ وَٱلْمَغَٰرِبِ إِنَّا لَقَٰدِرُونَ"
+ letters: 30
+ mizan: "A70:40=30"
+ hash: "d2f808e26c600426"
+ - verse_id: 41
+ text: "عَلَىٰٓ أَن نُّبَدِّلَ خَيْرًۭا مِّنْهُمْ وَمَا نَحْنُ بِمَسْبُوقِينَ"
+ letters: 31
+ mizan: "A70:41=31"
+ hash: "dfcde9abb7d04897"
+ - verse_id: 42
+ text: "فَذَرْهُمْ يَخُوضُوا۟ وَيَلْعَبُوا۟ حَتَّىٰ يُلَٰقُوا۟ يَوْمَهُمُ ٱلَّذِى يُوعَدُونَ"
+ letters: 40
+ mizan: "A70:42=40"
+ hash: "5ffe0b41b7d2a181"
+ - verse_id: 43
+ text: "يَوْمَ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ سِرَاعًۭا كَأَنَّهُمْ إِلَىٰ نُصُبٍۢ يُوفِضُونَ"
+ letters: 39
+ mizan: "A70:43=39"
+ hash: "1aadd7a8194288c5"
+ - verse_id: 44
+ text: "خَٰشِعَةً أَبْصَٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌۭ ۚ ذَٰلِكَ ٱلْيَوْمُ ٱلَّذِى كَانُوا۟ يُوعَدُونَ"
+ letters: 40
+ mizan: "A70:44=40"
+ hash: "50d7fc3f4cab31af"
