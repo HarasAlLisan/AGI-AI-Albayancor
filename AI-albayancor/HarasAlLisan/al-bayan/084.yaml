@@ -1,10 +1,131 @@
-# 084_surah_84
-surah: 84
-name: surah_84
-verses: 25
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 84
+surah_name: الانشقاق
+total_ayahs: 25
+mizan_genesis: A1:1=19
+mizan_chain: 4403564->A84
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا ٱلسَّمَآءُ ٱنشَقَّتْ"
+ letters: 28
+ mizan: "A84:1=28"
+ hash: "820497cbb018f59a"
+ - verse_id: 2
+ text: "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ"
+ letters: 14
+ mizan: "A84:2=14"
+ hash: "8355458e84437752"
+ - verse_id: 3
+ text: "وَإِذَا ٱلْأَرْضُ مُدَّتْ"
+ letters: 11
+ mizan: "A84:3=11"
+ hash: "69afd00fbffee6ed"
+ - verse_id: 4
+ text: "وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ"
+ letters: 16
+ mizan: "A84:4=16"
+ hash: "3fbceeb879ee88e2"
+ - verse_id: 5
+ text: "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ"
+ letters: 14
+ mizan: "A84:5=14"
+ hash: "8355458e84437752"
+ - verse_id: 6
+ text: "يَٰٓأَيُّهَا ٱلْإِنسَٰنُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًۭا فَمُلَٰقِيهِ"
+ letters: 33
+ mizan: "A84:6=33"
+ hash: "1fc31dd515558eec"
+ - verse_id: 7
+ text: "فَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِيَمِينِهِۦ"
+ letters: 20
+ mizan: "A84:7=20"
+ hash: "c4be5f885591686e"
+ - verse_id: 8
+ text: "فَسَوْفَ يُحَاسَبُ حِسَابًۭا يَسِيرًۭا"
+ letters: 19
+ mizan: "A84:8=19"
+ hash: "2f9c4ca794e73032"
+ - verse_id: 9
+ text: "وَيَنقَلِبُ إِلَىٰٓ أَهْلِهِۦ مَسْرُورًۭا"
+ letters: 19
+ mizan: "A84:9=19"
+ hash: "f32758b6bd43bb78"
+ - verse_id: 10
+ text: "وَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ وَرَآءَ ظَهْرِهِۦ"
+ letters: 22
+ mizan: "A84:10=22"
+ hash: "aae3ad9e45a7e1bc"
+ - verse_id: 11
+ text: "فَسَوْفَ يَدْعُوا۟ ثُبُورًۭا"
+ letters: 14
+ mizan: "A84:11=14"
+ hash: "134572d21ab75880"
+ - verse_id: 12
+ text: "وَيَصْلَىٰ سَعِيرًا"
+ letters: 10
+ mizan: "A84:12=10"
+ hash: "6862c10b2f1b1e48"
+ - verse_id: 13
+ text: "إِنَّهُۥ كَانَ فِىٓ أَهْلِهِۦ مَسْرُورًا"
+ letters: 18
+ mizan: "A84:13=18"
+ hash: "b7cdc6b91b614b7d"
+ - verse_id: 14
+ text: "إِنَّهُۥ ظَنَّ أَن لَّن يَحُورَ"
+ letters: 13
+ mizan: "A84:14=13"
+ hash: "2eafcbf57c5e461e"
+ - verse_id: 15
+ text: "بَلَىٰٓ إِنَّ رَبَّهُۥ كَانَ بِهِۦ بَصِيرًۭا"
+ letters: 18
+ mizan: "A84:15=18"
+ hash: "075d220e5ea50343"
+ - verse_id: 16
+ text: "فَلَآ أُقْسِمُ بِٱلشَّفَقِ"
+ letters: 12
+ mizan: "A84:16=12"
+ hash: "0e2ec929f6bcf36d"
+ - verse_id: 17
+ text: "وَٱلَّيْلِ وَمَا وَسَقَ"
+ letters: 10
+ mizan: "A84:17=10"
+ hash: "eb6d4a99b9715eef"
+ - verse_id: 18
+ text: "وَٱلْقَمَرِ إِذَا ٱتَّسَقَ"
+ letters: 11
+ mizan: "A84:18=11"
+ hash: "e51b0b5a7da90873"
+ - verse_id: 19
+ text: "لَتَرْكَبُنَّ طَبَقًا عَن طَبَقٍۢ"
+ letters: 15
+ mizan: "A84:19=15"
+ hash: "2101ca3f22fb4391"
+ - verse_id: 20
+ text: "فَمَا لَهُمْ لَا يُؤْمِنُونَ"
+ letters: 14
+ mizan: "A84:20=14"
+ hash: "d5e49da44f9c79f7"
+ - verse_id: 21
+ text: "وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩"
+ letters: 26
+ mizan: "A84:21=26"
+ hash: "4f2c10ff78f0013e"
+ - verse_id: 22
+ text: "بَلِ ٱلَّذِينَ كَفَرُوا۟ يُكَذِّبُونَ"
+ letters: 17
+ mizan: "A84:22=17"
+ hash: "3192955db36ff609"
+ - verse_id: 23
+ text: "وَٱللَّهُ أَعْلَمُ بِمَا يُوعُونَ"
+ letters: 16
+ mizan: "A84:23=16"
+ hash: "449cefc3cd0adbae"
+ - verse_id: 24
+ text: "فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ"
+ letters: 15
+ mizan: "A84:24=15"
+ hash: "42f61e08f9022ae7"
+ - verse_id: 25
+ text: "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۭ"
+ letters: 38
+ mizan: "A84:25=38"
+ hash: "7554069fae277d85"
