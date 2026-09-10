@@ -1,10 +1,10 @@
-# 002_surah_2
+# A2 - البقرة - بداية على نضافة
+# الميزان: A1 الفاتحة
 surah: 2
-name: surah_2
+name: al_baqarah
+code: A2
+mizan_ref: A1_001_al_fatiha
 verses: 286
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+status: skeleton_clean
+note: "المشروع كله قام على ملف ميزان الفاتحة A1 - لا تعديل على A1"
+ayahs: []
