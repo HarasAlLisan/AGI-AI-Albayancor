@@ -1,0 +1,14 @@
+{
+  "node": "A1",
+  "type": "bayani-unit",
+  "language": "ar",
+  "structure": "surah-based",
+  "mizan": "A1:1=19",
+  "A1": "7 ayat - 19 letters - LOCK",
+  "A2": "286 ayat - A2:1=22 A2:2=27 - LOCK 616 - FULL",
+  "verified": true,
+  "chain": "bfe4301",
+  "continents": 7,
+  "vault_per_continent": 3428571428571,
+  "contract": "BYN.sol"
+}
