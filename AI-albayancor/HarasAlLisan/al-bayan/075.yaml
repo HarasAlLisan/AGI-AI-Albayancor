@@ -1,10 +1,206 @@
-# 075_surah_75
-surah: 75
-name: surah_75
-verses: 40
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 75
+surah_name: القيامة
+total_ayahs: 40
+mizan_genesis: A1:1=19
+mizan_chain: 5133df8->A75
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ لَآ أُقْسِمُ بِيَوْمِ ٱلْقِيَٰمَةِ"
+ letters: 31
+ mizan: "A75:1=31"
+ hash: "2ecd99b90724bee0"
+ - verse_id: 2
+ text: "وَلَآ أُقْسِمُ بِٱلنَّفْسِ ٱللَّوَّامَةِ"
+ letters: 18
+ mizan: "A75:2=18"
+ hash: "67f6d3f9adb60109"
+ - verse_id: 3
+ text: "أَيَحْسَبُ ٱلْإِنسَٰنُ أَلَّن نَّجْمَعَ عِظَامَهُۥ"
+ letters: 22
+ mizan: "A75:3=22"
+ hash: "ecb5fb5340c2bdd6"
+ - verse_id: 4
+ text: "بَلَىٰ قَٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّىَ بَنَانَهُۥ"
+ letters: 22
+ mizan: "A75:4=22"
+ hash: "bfa40caeada88cb2"
+ - verse_id: 5
+ text: "بَلْ يُرِيدُ ٱلْإِنسَٰنُ لِيَفْجُرَ أَمَامَهُۥ"
+ letters: 21
+ mizan: "A75:5=21"
+ hash: "70db1fc67b8d736d"
+ - verse_id: 6
+ text: "يَسْـَٔلُ أَيَّانَ يَوْمُ ٱلْقِيَٰمَةِ"
+ letters: 16
+ mizan: "A75:6=16"
+ hash: "24fcb38d190ba11f"
+ - verse_id: 7
+ text: "فَإِذَا بَرِقَ ٱلْبَصَرُ"
+ letters: 11
+ mizan: "A75:7=11"
+ hash: "11ff1d39577fb306"
+ - verse_id: 8
+ text: "وَخَسَفَ ٱلْقَمَرُ"
+ letters: 8
+ mizan: "A75:8=8"
+ hash: "283323674eff78b8"
+ - verse_id: 9
+ text: "وَجُمِعَ ٱلشَّمْسُ وَٱلْقَمَرُ"
+ letters: 13
+ mizan: "A75:9=13"
+ hash: "94e749a9251176b2"
+ - verse_id: 10
+ text: "يَقُولُ ٱلْإِنسَٰنُ يَوْمَئِذٍ أَيْنَ ٱلْمَفَرُّ"
+ letters: 21
+ mizan: "A75:10=21"
+ hash: "17cd1aec8f6bb508"
+ - verse_id: 11
+ text: "كَلَّا لَا وَزَرَ"
+ letters: 8
+ mizan: "A75:11=8"
+ hash: "dbd3c087035a8a32"
+ - verse_id: 12
+ text: "إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمُسْتَقَرُّ"
+ letters: 17
+ mizan: "A75:12=17"
+ hash: "01b8c60da6028a1d"
+ - verse_id: 13
+ text: "يُنَبَّؤُا۟ ٱلْإِنسَٰنُ يَوْمَئِذٍۭ بِمَا قَدَّمَ وَأَخَّرَ"
+ letters: 25
+ mizan: "A75:13=25"
+ hash: "11771c72d0f9c31c"
+ - verse_id: 14
+ text: "بَلِ ٱلْإِنسَٰنُ عَلَىٰ نَفْسِهِۦ بَصِيرَةٌۭ"
+ letters: 19
+ mizan: "A75:14=19"
+ hash: "1660ec5a40baa614"
+ - verse_id: 15
+ text: "وَلَوْ أَلْقَىٰ مَعَاذِيرَهُۥ"
+ letters: 14
+ mizan: "A75:15=14"
+ hash: "2c10340fadb3cb23"
+ - verse_id: 16
+ text: "لَا تُحَرِّكْ بِهِۦ لِسَانَكَ لِتَعْجَلَ بِهِۦٓ"
+ letters: 20
+ mizan: "A75:16=20"
+ hash: "e84aa63b35afa2a6"
+ - verse_id: 17
+ text: "إِنَّ عَلَيْنَا جَمْعَهُۥ وَقُرْءَانَهُۥ"
+ letters: 18
+ mizan: "A75:17=18"
+ hash: "d82fd9744304f472"
+ - verse_id: 18
+ text: "فَإِذَا قَرَأْنَٰهُ فَٱتَّبِعْ قُرْءَانَهُۥ"
+ letters: 19
+ mizan: "A75:18=19"
+ hash: "ed5d522e06c41e7f"
+ - verse_id: 19
+ text: "ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُۥ"
+ letters: 14
+ mizan: "A75:19=14"
+ hash: "737f11422b3d0a1e"
+ - verse_id: 20
+ text: "كَلَّا بَلْ تُحِبُّونَ ٱلْعَاجِلَةَ"
+ letters: 16
+ mizan: "A75:20=16"
+ hash: "19351f05b97fca70"
+ - verse_id: 21
+ text: "وَتَذَرُونَ ٱلْءَاخِرَةَ"
+ letters: 12
+ mizan: "A75:21=12"
+ hash: "b8dd9141a9a4cc0f"
+ - verse_id: 22
+ text: "وُجُوهٌۭ يَوْمَئِذٍۢ نَّاضِرَةٌ"
+ letters: 14
+ mizan: "A75:22=14"
+ hash: "07994d0d44f2006c"
+ - verse_id: 23
+ text: "إِلَىٰ رَبِّهَا نَاظِرَةٌۭ"
+ letters: 12
+ mizan: "A75:23=12"
+ hash: "8f81f53102b4b65b"
+ - verse_id: 24
+ text: "وَوُجُوهٌۭ يَوْمَئِذٍۭ بَاسِرَةٌۭ"
+ letters: 15
+ mizan: "A75:24=15"
+ hash: "72cb376c9071db63"
+ - verse_id: 25
+ text: "تَظُنُّ أَن يُفْعَلَ بِهَا فَاقِرَةٌۭ"
+ letters: 17
+ mizan: "A75:25=17"
+ hash: "4adeafc0f132016a"
+ - verse_id: 26
+ text: "كَلَّآ إِذَا بَلَغَتِ ٱلتَّرَاقِىَ"
+ letters: 16
+ mizan: "A75:26=16"
+ hash: "0d9341b15c40d0a7"
+ - verse_id: 27
+ text: "وَقِيلَ مَنْ ۜ رَاقٍۢ"
+ letters: 9
+ mizan: "A75:27=9"
+ hash: "51805e52258c1645"
+ - verse_id: 28
+ text: "وَظَنَّ أَنَّهُ ٱلْفِرَاقُ"
+ letters: 11
+ mizan: "A75:28=11"
+ hash: "17831952aa40e259"
+ - verse_id: 29
+ text: "وَٱلْتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ"
+ letters: 14
+ mizan: "A75:29=14"
+ hash: "40b54aaa90d9d1e9"
+ - verse_id: 30
+ text: "إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمَسَاقُ"
+ letters: 16
+ mizan: "A75:30=16"
+ hash: "127c453536a3cd8b"
+ - verse_id: 31
+ text: "فَلَا صَدَّقَ وَلَا صَلَّىٰ"
+ letters: 12
+ mizan: "A75:31=12"
+ hash: "2ccb34262212ec76"
+ - verse_id: 32
+ text: "وَلَٰكِن كَذَّبَ وَتَوَلَّىٰ"
+ letters: 12
+ mizan: "A75:32=12"
+ hash: "d0aa742160bf3f33"
+ - verse_id: 33
+ text: "ثُمَّ ذَهَبَ إِلَىٰٓ أَهْلِهِۦ يَتَمَطَّىٰٓ"
+ letters: 17
+ mizan: "A75:33=17"
+ hash: "e0bee690d150c994"
+ - verse_id: 34
+ text: "أَوْلَىٰ لَكَ فَأَوْلَىٰ"
+ letters: 11
+ mizan: "A75:34=11"
+ hash: "edccaf25c5afc54f"
+ - verse_id: 35
+ text: "ثُمَّ أَوْلَىٰ لَكَ فَأَوْلَىٰٓ"
+ letters: 13
+ mizan: "A75:35=13"
+ hash: "171e64071787efb5"
+ - verse_id: 36
+ text: "أَيَحْسَبُ ٱلْإِنسَٰنُ أَن يُتْرَكَ سُدًى"
+ letters: 19
+ mizan: "A75:36=19"
+ hash: "2323ffb152ba7526"
+ - verse_id: 37
+ text: "أَلَمْ يَكُ نُطْفَةًۭ مِّن مَّنِىٍّۢ يُمْنَىٰ"
+ letters: 18
+ mizan: "A75:37=18"
+ hash: "45de6e4225b7899d"
+ - verse_id: 38
+ text: "ثُمَّ كَانَ عَلَقَةًۭ فَخَلَقَ فَسَوَّىٰ"
+ letters: 17
+ mizan: "A75:38=17"
+ hash: "12a7a23e2f717d11"
+ - verse_id: 39
+ text: "فَجَعَلَ مِنْهُ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ"
+ letters: 23
+ mizan: "A75:39=23"
+ hash: "8be105adfe750164"
+ - verse_id: 40
+ text: "أَلَيْسَ ذَٰلِكَ بِقَٰدِرٍ عَلَىٰٓ أَن يُحْۦِىَ ٱلْمَوْتَىٰ"
+ letters: 24
+ mizan: "A75:40=24"
+ hash: "b3cacd0d0d5b8fa6"
