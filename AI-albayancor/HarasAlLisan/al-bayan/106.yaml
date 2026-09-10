@@ -1,10 +1,26 @@
-# 106_surah_106
-surah: 106
-name: surah_106
-verses: 4
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 106
+surah_name: قريش
+total_ayahs: 4
+mizan_genesis: A1:1=19
+mizan_chain: 5945071->A106
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ لِإِيلَٰفِ قُرَيْشٍ"
+ letters: 25
+ mizan: "A106:1=25"
+ hash: "aac48a77ae671c52"
+ - verse_id: 2
+ text: "إِۦلَٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ"
+ letters: 19
+ mizan: "A106:2=19"
+ hash: "c343453cfe4d7430"
+ - verse_id: 3
+ text: "فَلْيَعْبُدُوا۟ رَبَّ هَٰذَا ٱلْبَيْتِ"
+ letters: 17
+ mizan: "A106:3=17"
+ hash: "a5383c89970a3c54"
+ - verse_id: 4
+ text: "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍۢ وَءَامَنَهُم مِّنْ خَوْفٍۭ"
+ letters: 26
+ mizan: "A106:4=26"
+ hash: "29d4ca5db8badbac"
