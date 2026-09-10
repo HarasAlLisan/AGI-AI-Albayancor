@@ -1,10 +1,106 @@
-# 090_surah_90
-surah: 90
-name: surah_90
-verses: 20
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 90
+surah_name: البلد
+total_ayahs: 20
+mizan_genesis: A1:1=19
+mizan_chain: 63641e5->A90
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ لَآ أُقْسِمُ بِهَٰذَا ٱلْبَلَدِ"
+ letters: 30
+ mizan: "A90:1=30"
+ hash: "f2235b60dfb80803"
+ - verse_id: 2
+ text: "وَأَنتَ حِلٌّۢ بِهَٰذَا ٱلْبَلَدِ"
+ letters: 14
+ mizan: "A90:2=14"
+ hash: "1d8981744188f588"
+ - verse_id: 3
+ text: "وَوَالِدٍۢ وَمَا وَلَدَ"
+ letters: 11
+ mizan: "A90:3=11"
+ hash: "6ace00ddf988d58a"
+ - verse_id: 4
+ text: "لَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ فِى كَبَدٍ"
+ letters: 18
+ mizan: "A90:4=18"
+ hash: "f3b95f31b9ad90d8"
+ - verse_id: 5
+ text: "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌۭ"
+ letters: 20
+ mizan: "A90:5=20"
+ hash: "c3447cb191120320"
+ - verse_id: 6
+ text: "يَقُولُ أَهْلَكْتُ مَالًۭا لُّبَدًا"
+ letters: 17
+ mizan: "A90:6=17"
+ hash: "9ab1ec2485e3d45e"
+ - verse_id: 7
+ text: "أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ"
+ letters: 15
+ mizan: "A90:7=15"
+ hash: "c48875e866ae98d8"
+ - verse_id: 8
+ text: "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ"
+ letters: 14
+ mizan: "A90:8=14"
+ hash: "345eb244c0ac48e5"
+ - verse_id: 9
+ text: "وَلِسَانًۭا وَشَفَتَيْنِ"
+ letters: 12
+ mizan: "A90:9=12"
+ hash: "513e2b9feaa17b01"
+ - verse_id: 10
+ text: "وَهَدَيْنَٰهُ ٱلنَّجْدَيْنِ"
+ letters: 12
+ mizan: "A90:10=12"
+ hash: "f952d45ee13bc770"
+ - verse_id: 11
+ text: "فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ"
+ letters: 12
+ mizan: "A90:11=12"
+ hash: "b477665761218de7"
+ - verse_id: 12
+ text: "وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ"
+ letters: 15
+ mizan: "A90:12=15"
+ hash: "c2d30948edfd38c2"
+ - verse_id: 13
+ text: "فَكُّ رَقَبَةٍ"
+ letters: 6
+ mizan: "A90:13=6"
+ hash: "aaa08ef1f34ff7b2"
+ - verse_id: 14
+ text: "أَوْ إِطْعَٰمٌۭ فِى يَوْمٍۢ ذِى مَسْغَبَةٍۢ"
+ letters: 18
+ mizan: "A90:14=18"
+ hash: "a712eed3aa0678a8"
+ - verse_id: 15
+ text: "يَتِيمًۭا ذَا مَقْرَبَةٍ"
+ letters: 12
+ mizan: "A90:15=12"
+ hash: "038e5b5fee48b792"
+ - verse_id: 16
+ text: "أَوْ مِسْكِينًۭا ذَا مَتْرَبَةٍۢ"
+ letters: 15
+ mizan: "A90:16=15"
+ hash: "e2a2faf184defa05"
+ - verse_id: 17
+ text: "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ"
+ letters: 43
+ mizan: "A90:17=43"
+ hash: "076ecad1d16b4374"
+ - verse_id: 18
+ text: "أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْمَيْمَنَةِ"
+ letters: 15
+ mizan: "A90:18=15"
+ hash: "55bef92aa7a6d746"
+ - verse_id: 19
+ text: "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِنَا هُمْ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ"
+ letters: 29
+ mizan: "A90:19=29"
+ hash: "d44ce6f42575bc6c"
+ - verse_id: 20
+ text: "عَلَيْهِمْ نَارٌۭ مُّؤْصَدَةٌۢ"
+ letters: 13
+ mizan: "A90:20=13"
+ hash: "82ef98bb61919ba9"
