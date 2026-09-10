@@ -1,10 +1,111 @@
-# 092_surah_92
-surah: 92
-name: surah_92
-verses: 21
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 92
+surah_name: الليل
+total_ayahs: 21
+mizan_genesis: A1:1=19
+mizan_chain: e4aaaec->A92
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلَّيْلِ إِذَا يَغْشَىٰ"
+ letters: 27
+ mizan: "A92:1=27"
+ hash: "2c524083bfce708a"
+ - verse_id: 2
+ text: "وَٱلنَّهَارِ إِذَا تَجَلَّىٰ"
+ letters: 13
+ mizan: "A92:2=13"
+ hash: "da3886c507434eec"
+ - verse_id: 3
+ text: "وَمَا خَلَقَ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ"
+ letters: 16
+ mizan: "A92:3=16"
+ hash: "f83624642fac786b"
+ - verse_id: 4
+ text: "إِنَّ سَعْيَكُمْ لَشَتَّىٰ"
+ letters: 11
+ mizan: "A92:4=11"
+ hash: "2285b238b5d82dc2"
+ - verse_id: 5
+ text: "فَأَمَّا مَنْ أَعْطَىٰ وَٱتَّقَىٰ"
+ letters: 14
+ mizan: "A92:5=14"
+ hash: "b96ce9e113f5709c"
+ - verse_id: 6
+ text: "وَصَدَّقَ بِٱلْحُسْنَىٰ"
+ letters: 10
+ mizan: "A92:6=10"
+ hash: "9f01cdf90db8f1de"
+ - verse_id: 7
+ text: "فَسَنُيَسِّرُهُۥ لِلْيُسْرَىٰ"
+ letters: 13
+ mizan: "A92:7=13"
+ hash: "358fc5e2f353b01d"
+ - verse_id: 8
+ text: "وَأَمَّا مَنۢ بَخِلَ وَٱسْتَغْنَىٰ"
+ letters: 15
+ mizan: "A92:8=15"
+ hash: "ad8198af45715d23"
+ - verse_id: 9
+ text: "وَكَذَّبَ بِٱلْحُسْنَىٰ"
+ letters: 10
+ mizan: "A92:9=10"
+ hash: "7a9f0c1154d3dc33"
+ - verse_id: 10
+ text: "فَسَنُيَسِّرُهُۥ لِلْعُسْرَىٰ"
+ letters: 13
+ mizan: "A92:10=13"
+ hash: "aae7d2e10572b8a6"
+ - verse_id: 11
+ text: "وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ"
+ letters: 21
+ mizan: "A92:11=21"
+ hash: "70d5c0618318e5e2"
+ - verse_id: 12
+ text: "إِنَّ عَلَيْنَا لَلْهُدَىٰ"
+ letters: 12
+ mizan: "A92:12=12"
+ hash: "afa76b062d652520"
+ - verse_id: 13
+ text: "وَإِنَّ لَنَا لَلْءَاخِرَةَ وَٱلْأُولَىٰ"
+ letters: 19
+ mizan: "A92:13=19"
+ hash: "7482ac453594b6af"
+ - verse_id: 14
+ text: "فَأَنذَرْتُكُمْ نَارًۭا تَلَظَّىٰ"
+ letters: 16
+ mizan: "A92:14=16"
+ hash: "f1f50765daf7c342"
+ - verse_id: 15
+ text: "لَا يَصْلَىٰهَآ إِلَّا ٱلْأَشْقَى"
+ letters: 16
+ mizan: "A92:15=16"
+ hash: "c1e586d7ba1dafb9"
+ - verse_id: 16
+ text: "ٱلَّذِى كَذَّبَ وَتَوَلَّىٰ"
+ letters: 11
+ mizan: "A92:16=11"
+ hash: "6f37e5b7423432f2"
+ - verse_id: 17
+ text: "وَسَيُجَنَّبُهَا ٱلْأَتْقَى"
+ letters: 13
+ mizan: "A92:17=13"
+ hash: "f872208b0e85560e"
+ - verse_id: 18
+ text: "ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ"
+ letters: 16
+ mizan: "A92:18=16"
+ hash: "e90b0690e784b487"
+ - verse_id: 19
+ text: "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍۢ تُجْزَىٰٓ"
+ letters: 21
+ mizan: "A92:19=21"
+ hash: "8f4e3bcd5e2cb1bc"
+ - verse_id: 20
+ text: "إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ"
+ letters: 19
+ mizan: "A92:20=19"
+ hash: "6b0d7efb3310f6d4"
+ - verse_id: 21
+ text: "وَلَسَوْفَ يَرْضَىٰ"
+ letters: 9
+ mizan: "A92:21=9"
+ hash: "49cb76fd07e5ac82"
