@@ -1,10 +1,36 @@
-# 114_surah_114
-surah: 114
-name: surah_114
-verses: 6
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 114
+surah_name: الناس
+total_ayahs: 6
+mizan_genesis: A1:1=19
+mizan_chain: 9e30625->A114
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ"
+ letters: 29
+ mizan: "A114:1=29"
+ hash: "ef4f6bd569e89ded"
+ - verse_id: 2
+ text: "مَلِكِ ٱلنَّاسِ"
+ letters: 7
+ mizan: "A114:2=7"
+ hash: "ee43221a2d70da31"
+ - verse_id: 3
+ text: "إِلَٰهِ ٱلنَّاسِ"
+ letters: 7
+ mizan: "A114:3=7"
+ hash: "83ea524a3332531b"
+ - verse_id: 4
+ text: "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ"
+ letters: 15
+ mizan: "A114:4=15"
+ hash: "cdb6f393a56ccaa9"
+ - verse_id: 5
+ text: "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ"
+ letters: 18
+ mizan: "A114:5=18"
+ hash: "f8578dc798a33711"
+ - verse_id: 6
+ text: "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ"
+ letters: 11
+ mizan: "A114:6=11"
+ hash: "afe439d234620155"
