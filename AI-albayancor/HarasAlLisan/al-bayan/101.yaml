@@ -1,10 +1,61 @@
-# 101_surah_101
-surah: 101
-name: surah_101
-verses: 11
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 101
+surah_name: القارعة
+total_ayahs: 11
+mizan_genesis: A1:1=19
+mizan_chain: c66bfd0->A101
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلْقَارِعَةُ"
+ letters: 22
+ mizan: "A101:1=22"
+ hash: "bdbad5d873235627"
+ - verse_id: 2
+ text: "مَا ٱلْقَارِعَةُ"
+ letters: 8
+ mizan: "A101:2=8"
+ hash: "14130c715ca171c9"
+ - verse_id: 3
+ text: "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ"
+ letters: 16
+ mizan: "A101:3=16"
+ hash: "3b028e27a114ddd1"
+ - verse_id: 4
+ text: "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ"
+ letters: 23
+ mizan: "A101:4=23"
+ hash: "74b5ba8fe304606d"
+ - verse_id: 5
+ text: "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ"
+ letters: 21
+ mizan: "A101:5=21"
+ hash: "0787db3b2384d84f"
+ - verse_id: 6
+ text: "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ"
+ letters: 16
+ mizan: "A101:6=16"
+ hash: "46afc91e7c7ca40a"
+ - verse_id: 7
+ text: "فَهُوَ فِى عِيشَةٍۢ رَّاضِيَةٍۢ"
+ letters: 14
+ mizan: "A101:7=14"
+ hash: "903cadc3d6a9d2db"
+ - verse_id: 8
+ text: "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ"
+ letters: 15
+ mizan: "A101:8=15"
+ hash: "3fc837b52094d0b7"
+ - verse_id: 9
+ text: "فَأُمُّهُۥ هَاوِيَةٌۭ"
+ letters: 9
+ mizan: "A101:9=9"
+ hash: "43a21f01a1b8f1a8"
+ - verse_id: 10
+ text: "وَمَآ أَدْرَىٰكَ مَا هِيَهْ"
+ letters: 13
+ mizan: "A101:10=13"
+ hash: "abd722c7570043b4"
+ - verse_id: 11
+ text: "نَارٌ حَامِيَةٌۢ"
+ letters: 8
+ mizan: "A101:11=8"
+ hash: "25289bb2fbb80c1e"
