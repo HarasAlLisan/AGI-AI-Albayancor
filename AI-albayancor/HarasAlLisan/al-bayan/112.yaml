@@ -1,10 +1,26 @@
-# 112_surah_112
-surah: 112
-name: surah_112
-verses: 4
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 112
+surah_name: الإخلاص
+total_ayahs: 4
+mizan_genesis: A1:1=19
+mizan_chain: 3423b80->A112
+ayahs:
+ - verse_id: 1
+ text: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ هُوَ ٱللَّهُ أَحَدٌ"
+ letters: 26
+ mizan: "A112:1=26"
+ hash: "65ab18f07109d840"
+ - verse_id: 2
+ text: "ٱللَّهُ ٱلصَّمَدُ"
+ letters: 7
+ mizan: "A112:2=7"
+ hash: "a30b680c0f56ff9a"
+ - verse_id: 3
+ text: "لَمْ يَلِدْ وَلَمْ يُولَدْ"
+ letters: 12
+ mizan: "A112:3=12"
+ hash: "fe38e7c9006a6b60"
+ - verse_id: 4
+ text: "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ"
+ letters: 15
+ mizan: "A112:4=15"
+ hash: "501757e7e551d18b"
