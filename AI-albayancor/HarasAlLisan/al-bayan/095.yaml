@@ -1,10 +1,46 @@
-# 095_surah_95
-surah: 95
-name: surah_95
-verses: 8
-status: todo
-verse_types: []
-intent_structure:
-  primary: []
-  supporting: []
-grammatical_units: []
+surah_id: 95
+surah_name: التين
+total_ayahs: 8
+mizan_genesis: A1:1=19
+mizan_chain: 3d50647->A95
+ayahs:
+ - verse_id: 1
+ text: "بِّسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلتِّينِ وَٱلزَّيْتُونِ"
+ letters: 28
+ mizan: "A95:1=28"
+ hash: "da9f21d002df53bf"
+ - verse_id: 2
+ text: "وَطُورِ سِينِينَ"
+ letters: 9
+ mizan: "A95:2=9"
+ hash: "890581bb591d4d00"
+ - verse_id: 3
+ text: "وَهَٰذَا ٱلْبَلَدِ ٱلْأَمِينِ"
+ letters: 13
+ mizan: "A95:3=13"
+ hash: "c7cd5260eb1fbe48"
+ - verse_id: 4
+ text: "لَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍۢ"
+ letters: 24
+ mizan: "A95:4=24"
+ hash: "114df568bc594eb7"
+ - verse_id: 5
+ text: "ثُمَّ رَدَدْنَٰهُ أَسْفَلَ سَٰفِلِينَ"
+ letters: 16
+ mizan: "A95:5=16"
+ hash: "9e9008e8d7d33b6d"
+ - verse_id: 6
+ text: "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۢ"
+ letters: 39
+ mizan: "A95:6=39"
+ hash: "adf8b4b5ee9781a0"
+ - verse_id: 7
+ text: "فَمَا يُكَذِّبُكَ بَعْدُ بِٱلدِّينِ"
+ letters: 16
+ mizan: "A95:7=16"
+ hash: "8fab3beae29d2f6a"
+ - verse_id: 8
+ text: "أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَٰكِمِينَ"
+ letters: 18
+ mizan: "A95:8=18"
+ hash: "5588a08deefd489a"
