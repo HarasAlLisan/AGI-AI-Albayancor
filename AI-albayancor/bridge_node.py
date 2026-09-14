@@ -3,7 +3,7 @@ import websockets
 import json
 
 class BridgeNode:
-    def __init__(self, node_id, endpoint="ws://localhost:8765"):
+    def __init__(self, node_id, endpoint="ws://localhost:9090"):
         self.node_id = node_id
         self.endpoint = endpoint
 
