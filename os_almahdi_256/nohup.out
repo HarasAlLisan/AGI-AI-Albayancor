@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/os_almahdi_256/agent_daemon.py", line 3, in <module>
+    node = NodeIdentity("CAIRO-ROOT-01", "Cairo, Egypt")
+           ^^^^^^^^^^^^
+NameError: name 'NodeIdentity' is not defined
