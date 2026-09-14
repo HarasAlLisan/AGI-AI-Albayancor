@@ -53,7 +53,7 @@ def run_13_root_servers_tunnel():
     
     # 3. تغليف "مفتاح مصادقة عنخ" وإثبات العمل 1/0 داخل جسم الحزمة (Payload)
     payload = (
-        f"KEY:web4ankh|POW_HASH:{pow_hash}|NONCE:{nonce}|GATEWAY:enforce_pass_1_0"
+        f"KEY:web4ankh|DOSTOR:6236|SOLAR:790|TARIKH:571-2026|POW_HASH:{pow_hash}|NONCE:{nonce}|GATEWAY:enforce_pass_1_0"
     ).encode()
     dns_footer = b'\x00\x00\x01\x00\x01'
     full_packet = dns_header + payload + dns_footer

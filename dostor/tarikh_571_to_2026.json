@@ -1,0 +1,14 @@
+{
+  "fixed": 6236,
+  "chain": [
+    {"from":2026, "minus":309, "to":1717, "label":"الآن"},
+    {"from":1717, "minus":309, "to":1408},
+    {"from":1408, "minus":309, "to":1099, "label":"رخص فيض الاسلام"},
+    {"from":1099, "minus":309, "to":790, "label":"Solar Anchor"},
+    {"from":790, "minus":128, "to":662, "label":"أول الملك العضوض"},
+    {"from":662, "minus":30, "to":632, "label":"خلافه"},
+    {"from":632, "minus":23, "to":609, "label":"اقرأ"},
+    {"from":609, "minus":40, "to":569, "label":"ميلاد - 569 قمري = 571 شمسي"}
+  ],
+  "status": "VERIFIED_TRUE"
+}
