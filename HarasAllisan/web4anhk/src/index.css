@@ -1,0 +1,155 @@
+@import "tailwindcss";
+
+@layer utilities {
+  /* Pure Holographic Grid Background */
+  .hologram-mesh-grid {
+    background-image: 
+      linear-gradient(to right, rgba(6, 182, 212, 0.05) 1px, transparent 1px),
+      linear-gradient(to bottom, rgba(6, 182, 212, 0.05) 1px, transparent 1px);
+    background-size: 32px 32px;
+  }
+
+  .hologram-radial-bg {
+    background: radial-gradient(circle at 50% 0%, rgba(14, 165, 233, 0.15) 0%, rgba(15, 23, 42, 0.6) 45%, rgba(2, 6, 23, 0.98) 100%);
+  }
+
+  /* Hologram Glass Panels */
+  .hologram-glass {
+    background: rgba(15, 23, 42, 0.75);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(6, 182, 212, 0.22);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.45), inset 0 1px 0 rgba(255, 255, 255, 0.08);
+  }
+
+  .hologram-glass-active {
+    background: rgba(8, 47, 73, 0.65);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(6, 182, 212, 0.55);
+    box-shadow: 0 0 20px rgba(6, 182, 212, 0.25), inset 0 1px 0 rgba(255, 255, 255, 0.15);
+  }
+
+  /* Hologram Glow Borders */
+  .holo-glow-cyan {
+    box-shadow: 0 0 16px rgba(6, 182, 212, 0.28), inset 0 0 8px rgba(6, 182, 212, 0.12);
+  }
+
+  .holo-glow-amber {
+    box-shadow: 0 0 16px rgba(245, 158, 11, 0.28), inset 0 0 8px rgba(245, 158, 11, 0.12);
+  }
+
+  .holo-glow-emerald {
+    box-shadow: 0 0 16px rgba(16, 185, 129, 0.28), inset 0 0 8px rgba(16, 185, 129, 0.12);
+  }
+
+  /* Standardized Holographic Button System */
+  .holo-btn {
+    height: 38px;
+    padding: 0 14px;
+    border-radius: 12px;
+    font-size: 12px;
+    font-weight: 700;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 7px;
+    white-space: nowrap;
+    transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+    position: relative;
+    overflow: hidden;
+  }
+
+  .holo-btn:hover {
+    transform: translateY(-1px);
+  }
+
+  .holo-btn:active {
+    transform: scale(0.97) translateY(0);
+  }
+
+  .holo-btn-sm {
+    height: 32px;
+    padding: 0 10px;
+    border-radius: 10px;
+    font-size: 11px;
+    font-weight: 600;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    white-space: nowrap;
+    transition: all 0.2s ease;
+  }
+
+  .holo-btn-icon {
+    width: 38px;
+    height: 38px;
+    border-radius: 12px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s ease;
+  }
+
+  .holo-btn-icon-sm {
+    width: 32px;
+    height: 32px;
+    border-radius: 10px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s ease;
+  }
+
+  /* Micro-interactions */
+  .icon-hover-active {
+    transition: transform 0.2s cubic-bezier(0.34, 1.56, 0.64, 1), color 0.15s ease, background-color 0.15s ease;
+  }
+  .icon-hover-active:hover {
+    transform: scale(1.08) translateY(-1px);
+  }
+  .icon-hover-active:active {
+    transform: scale(0.94);
+  }
+
+  /* Marquee Animation for Upper Status Ribbons */
+  @keyframes marquee {
+    0% { transform: translateX(0%); }
+    100% { transform: translateX(-50%); }
+  }
+  @keyframes marquee-rtl {
+    0% { transform: translateX(0%); }
+    100% { transform: translateX(50%); }
+  }
+
+  .animate-marquee {
+    display: inline-flex;
+    white-space: nowrap;
+    animation: marquee 28s linear infinite;
+  }
+  .animate-marquee-rtl {
+    display: inline-flex;
+    white-space: nowrap;
+    animation: marquee-rtl 28s linear infinite;
+  }
+  .animate-marquee:hover, .animate-marquee-rtl:hover {
+    animation-play-state: paused;
+  }
+
+  /* Custom Responsive Scrollbars */
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+  }
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: rgba(15, 23, 42, 0.6);
+  }
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background: rgba(51, 65, 85, 0.6);
+    border-radius: 9999px;
+  }
+  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: rgba(6, 182, 212, 0.6);
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Web4 ANHK Webmail",
+  "description": "Futuristic next-generation webmail application for web4anhk.anhkmail.anhk with AI composition, thread summaries, and threat analysis",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
