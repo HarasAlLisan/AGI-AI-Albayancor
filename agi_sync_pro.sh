@@ -2,7 +2,7 @@
 # agi_sync_pro.sh - النسخة الاحترافية العليا لمزامنة AGI ودمج كل manifests
 
 BASE_DIR=~/AGI-AI-Albayancor
-MODULES=("AGI-AI-Albayancor" "AI-albayancor" "HarasAlLisan" "Seal_A1")
+MODULES=("AGI-AI-Albayancor" "AI-albayancor" "HarasAllisan" "Seal_A1" "web4anhk")
 DATE_NOW=$(date +"%Y-%m-%d-%H%M")
 PULSE_FILE="$BASE_DIR/Pulse-$DATE_NOW.md"
 MASTER_MANIFEST="$BASE_DIR/MasterManifest.md"
