@@ -20,7 +20,7 @@ echo "# Master Work Manifest - $DATE_NOW" > "$MASTER_MANIFEST"
 
 for MOD in "${MODULES[@]}"; do
     echo -e "${GREEN}[*] معالجة الموديول: $MOD${NC}"
-    cd "$BASE_DIR/$MOD" || { echo -e "${RED}[خطأ] $MOD غير موجود${NC}"; continue; }
+if [ "$MOD" = "AGI-AI-Albayancor" ]; then cd "$BASE_DIR"; else cd "$BASE_DIR/$MOD"; fi || { echo -e "${RED}[خطأ] $MOD ريخ دومو-د${NC}"; continue; }
 
     # تحديث المستودع
     git fetch origin
@@ -56,6 +56,7 @@ done
 cd "$BASE_DIR" || exit
 
 # إضافة pointer الموديولات
+git add AI-albayancor HarasAllisan Seal_A1 web4anhk MasterManifest.md Pulse-*.md .gitmodules */alb_logs/WorkManifestLog.md alb_logs/WorkManifestLog.md
 git add "${MODULES[@]}"
 git commit -m "Auto-sync all submodules & merge manifests - Pulse $DATE_NOW" || echo -e "${YELLOW}[i] لا توجد تغييرات على pointers${NC}"
 
