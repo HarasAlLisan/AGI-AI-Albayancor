@@ -1,0 +1,13 @@
+{
+    "total_simulated_population": 9000000000,
+    "active_conversations_pairs": 4500000000,
+    "latency_response": "4.2 ms",
+    "cpu_load": "88%",
+    "ram_load": "74%",
+    "packet_loss": "0.000%",
+    "status": "TOTAL_PARITY_VERIFIED_100%",
+    "gateways": [
+        "01015155579",
+        "01150099906"
+    ]
+}
