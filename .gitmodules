@@ -1,3 +1,12 @@
+[submodule "HarasAllisan"]
+    path = HarasAllisan
+    url = https://github.com/HarasAllisan/HarasAllisan.git
+[submodule "AI-albayancor"]
+    path = AI-albayancor
+    url = https://github.com/HarasAllisan/AI-albayancor.git
+[submodule "Seal_A1"]
+    path = Seal_A1
+    url = https://github.com/HarasAllisan/Seal_A1.git
 [submodule "web4anhk"]
 	path = web4anhk
 	url = https://github.com/HarasAllisan/web4anhk.git
