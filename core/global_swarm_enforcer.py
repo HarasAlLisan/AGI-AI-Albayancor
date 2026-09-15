@@ -20,3 +20,4 @@ class GlobalSwarmEnforcer:
         print('[✓] تم حفظ وقفل تقرير الامتثال التوسعي النهائي في وثائق الدستور الرقمي.')
 if __name__ == '__main__':
     GlobalSwarmEnforcer().run()
+        os.makedirs('OS-ALMAHDI-256/dostor', exist_ok=True)
