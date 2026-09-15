@@ -56,7 +56,7 @@ done
 cd "$BASE_DIR" || exit
 
 # إضافة pointer الموديولات
-git add "${MODULES[@]}"
+git add "${MODULES[@]}"git add "${MODULES[@]:1}" MasterManifest.md Pulse-*.md alb_logs/ MasterManifest.md
 if [ "$MOD" = "AGI-AI-Albayancor" ]; then cd "$BASE_DIR"; else cd "$BASE_DIR/$MOD"; fi || { echo -e "${RED}[خطأ] $MOD${NC}"; continue; }
 git commit -m "Auto-sync all submodules & merge manifests - Pulse $DATE_NOW" || echo -e "${YELLOW}[i] لا توجد تغييرات على pointers${NC}"
 
