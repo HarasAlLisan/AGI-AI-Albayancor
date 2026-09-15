@@ -1,5 +1,4 @@
-# -*- coding: utf-8 -*-
-import json, hashlib, os
+import os, json, hashlib
 class Quantum313Cores:
     def __init__(self):
         self.master_lock = '616'
@@ -15,5 +14,5 @@ class Quantum313Cores:
         os.makedirs('OS-ALMAHDI-256/dostor', exist_ok=True)
         json.dump(report, open('OS-ALMAHDI-256/dostor/quantum_313_cores.json', 'w'), indent=4)
         print('[✓] تم حفظ وثيقة العقد القديمة الموطنة بنجاح.')
-if __name__ == "__main__":
+if __name__ == '__main__':
     Quantum313Cores().run()
