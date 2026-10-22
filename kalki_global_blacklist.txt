@@ -1,0 +1,3 @@
+[2026-09-14 18:37:28] Annihilated by KALKI: state_media_ops.net | Network: Surface Web (DNS) | Vectors: SURFACE_MEDIA_PROPAGANDA, DISINFORMATION_DOMAINS
+[2026-09-14 18:37:28] Annihilated by KALKI: psyops_unit_cairo.onion | Network: Dark Web (.onion) | Vectors: DARKNET_INTELLIGENCE_HIVES
+[2026-09-14 18:37:28] Annihilated by KALKI: baboog_fathy_2026 | Network: Surface Web (X/FB) | Vectors: 

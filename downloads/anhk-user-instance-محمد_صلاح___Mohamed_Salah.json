@@ -1,0 +1,15 @@
+{
+  "appName": "Web4 ANHK Webmail",
+  "profileInstance": {
+    "instanceId": "ANHK-USR-M5-ZLHG08",
+    "establishedAt": "١٠ سبتمبر ٢٠٢٦ في ١٢:٢٦ ص",
+    "name": "محمد صلاح | Mohamed Salah",
+    "email": "mohamed.salah@anhkmail.anhk",
+    "domain": "gateway.anhk.net",
+    "signature": "--\nMohamed Salah | Senior Infrastructure & Sovereign Identity Lead\nWeb4 ANHK Quantum Engine Network\nmohamed.salah@anhkmail.anhk | gateway.anhk.net",
+    "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&q=80&w=250",
+    "kernel": "OS Almahdi 256",
+    "protocolVersion": "Web4 ANHK Sovereign Edition"
+  },
+  "exportedAt": "2026-09-09T21:26:09.412Z"
+}

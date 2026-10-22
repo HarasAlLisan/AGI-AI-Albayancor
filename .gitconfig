@@ -1,8 +1,15 @@
 [user]
-	name = Mohamed
-	email = m1oam1o980@gmail.com
+	name = YOUR_GITHUB_USERNAME
+	email = YOUR_EMAIL@example.com
 	signingkey = 1E5E1C47ABA95738
 [credential]
 	helper = store
 [commit]
-	gpgsign = true
+	gpgsign = false
+[http]
+	postBuffer = 2147483648
+[core]
+	quotepath = false
+	compression = 9
+[ssh]
+	postBuffer = 2147483648

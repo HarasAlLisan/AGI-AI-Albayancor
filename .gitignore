@@ -1,0 +1,11 @@
+AGI-AI-Albayancor/
+.cache/
+.ollama/models/blobs/
+*.tar.gz
+*.zip
+.ollama/models/blobs/
+*.tar.gz
+*.zip
+.ollama/models/blobs/
+*.tar.gz
+*.zip

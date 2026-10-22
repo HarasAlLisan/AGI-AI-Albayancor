@@ -1,0 +1,429 @@
+[2026-09-26 18:58:08] Action: AUTO_BUY | Price: 64107.69 USD | Amount: 0.155988 BTC | Total Net Worth: 10000.0 USD
+[2026-09-26 18:58:20] Action: AUTO_SELL | Price: 64404.18 USD | Amount: 0.155988 BTC | Total Net Worth: 10046.25 USD
+[2026-09-26 18:58:26] Action: AUTO_BUY | Price: 64506.6 USD | Amount: 0.15574 BTC | Total Net Worth: 10046.25 USD
+[2026-09-26 19:08:29] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 64639.35 USD | Net Worth: 10000.0 USD
+[2026-09-26 19:08:31] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 64420.98 USD | Net Worth: 10337.83 USD
+[2026-09-26 19:08:33] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 64462.14 USD | Net Worth: 10337.83 USD
+[2026-09-26 19:08:35] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 64266.48 USD | Net Worth: 10651.61 USD
+[2026-09-26 19:08:43] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 64458.35 USD | Net Worth: 10651.61 USD
+[2026-09-26 19:08:45] AI_AI_STOP_LOSS | Asset: BTC | Price: 64691.55 USD | Net Worth: 10266.25 USD
+[2026-09-26 19:08:49] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 64663.45 USD | Net Worth: 10266.25 USD
+[2026-09-26 19:08:51] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 64514.94 USD | Net Worth: 10502.03 USD
+[2026-09-26 19:08:53] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 64649.06 USD | Net Worth: 10502.03 USD
+[2026-09-26 19:08:55] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 64506.82 USD | Net Worth: 10733.1 USD
+[2026-09-26 19:08:57] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 64459.62 USD | Net Worth: 10733.1 USD
+[2026-09-26 19:09:01] AI_AI_STOP_LOSS | Asset: BTC | Price: 64715.21 USD | Net Worth: 10307.52 USD
+[2026-09-26 19:09:03] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 64596.47 USD | Net Worth: 10307.52 USD
+[2026-09-26 19:09:08] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 64310.56 USD | Net Worth: 10763.74 USD
+[2026-09-26 19:09:10] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 64313.91 USD | Net Worth: 10763.74 USD
+[2026-09-26 19:09:14] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 64002.38 USD | Net Worth: 11285.12 USD
+[2026-09-26 19:09:24] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 63959.84 USD | Net Worth: 11285.12 USD
+[2026-09-26 19:09:28] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 63525.66 USD | Net Worth: 12051.19 USD
+[2026-09-26 19:09:42] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 63618.87 USD | Net Worth: 12051.19 USD
+[2026-09-26 19:09:44] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 63441.35 USD | Net Worth: 12387.46 USD
+[2026-09-26 19:09:54] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 63655.28 USD | Net Worth: 12387.46 USD
+[2026-09-26 19:09:56] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 63359.72 USD | Net Worth: 12962.63 USD
+[2026-09-26 19:10:00] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 63869.44 USD | Net Worth: 12962.63 USD
+[2026-09-26 19:10:02] AI_AI_STOP_LOSS | Asset: BTC | Price: 64190.84 USD | Net Worth: 12310.33 USD
+[2026-09-26 19:10:04] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 64046.93 USD | Net Worth: 12310.33 USD
+[2026-09-26 19:10:08] AI_AI_STOP_LOSS | Asset: BTC | Price: 64145.91 USD | Net Worth: 12120.09 USD
+[2026-09-26 19:10:10] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 64231.52 USD | Net Worth: 12120.09 USD
+[2026-09-26 19:10:12] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 63994.47 USD | Net Worth: 12567.38 USD
+[2026-09-26 19:10:20] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 63348.97 USD | Net Worth: 12567.38 USD
+[2026-09-26 19:10:24] AI_AI_STOP_LOSS | Asset: BTC | Price: 63126.77 USD | Net Worth: 12126.58 USD
+[2026-09-26 19:10:30] AI_AUTO_LONG_OPEN | Asset: SOL | Price: 136.1 USD | Net Worth: 12126.58 USD
+[2026-09-26 19:10:32] AI_AI_STOP_LOSS | Asset: SOL | Price: 134.66 USD | Net Worth: 10843.53 USD
+[2026-09-26 19:10:34] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 62887.15 USD | Net Worth: 10843.53 USD
+[2026-09-26 19:10:38] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 63014.15 USD | Net Worth: 11062.51 USD
+[2026-09-26 19:10:40] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 62780.96 USD | Net Worth: 11062.51 USD
+[2026-09-26 19:10:42] AI_AI_STOP_LOSS | Asset: BTC | Price: 62451.98 USD | Net Worth: 10482.82 USD
+[2026-09-26 19:10:44] AI_AUTO_LONG_OPEN | Asset: SOL | Price: 121.98 USD | Net Worth: 10482.82 USD
+[2026-09-26 19:10:46] AI_AI_TAKE_PROFIT | Asset: SOL | Price: 123.8 USD | Net Worth: 12046.91 USD
+[2026-09-26 19:10:48] AI_AUTO_LONG_OPEN | Asset: SOL | Price: 123.96 USD | Net Worth: 12046.91 USD
+[2026-09-26 19:10:50] AI_AI_STOP_LOSS | Asset: SOL | Price: 123.73 USD | Net Worth: 11823.39 USD
+[2026-09-26 19:10:52] AI_AUTO_LONG_OPEN | Asset: SOL | Price: 126.57 USD | Net Worth: 11823.39 USD
+[2026-09-26 19:10:54] AI_AI_STOP_LOSS | Asset: SOL | Price: 124.95 USD | Net Worth: 10310.08 USD
+[2026-09-26 19:11:04] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 62571.93 USD | Net Worth: 10310.08 USD
+[2026-09-26 19:11:06] AI_AI_STOP_LOSS | Asset: BTC | Price: 62374.37 USD | Net Worth: 9984.56 USD
+[2026-09-26 19:11:08] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 62330.25 USD | Net Worth: 9984.56 USD
+[2026-09-26 19:11:10] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 62664.79 USD | Net Worth: 10520.45 USD
+[2026-09-26 19:11:12] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 62560.82 USD | Net Worth: 10520.45 USD
+[2026-09-26 19:11:14] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 62759.49 USD | Net Worth: 10854.54 USD
+[2026-09-26 19:11:16] AI_AUTO_LONG_OPEN | Asset: SOL | Price: 139.73 USD | Net Worth: 10854.54 USD
+[2026-09-26 19:11:18] AI_AI_TAKE_PROFIT | Asset: SOL | Price: 143.65 USD | Net Worth: 13899.69 USD
+[2026-09-26 19:11:20] AI_AUTO_LONG_OPEN | Asset: SOL | Price: 141.89 USD | Net Worth: 13899.69 USD
+[2026-09-26 19:11:22] AI_AI_STOP_LOSS | Asset: SOL | Price: 138.22 USD | Net Worth: 10304.52 USD
+[2026-09-26 19:11:24] AI_AUTO_LONG_OPEN | Asset: SOL | Price: 136.11 USD | Net Worth: 10304.52 USD
+[2026-09-26 19:11:26] AI_AI_STOP_LOSS | Asset: SOL | Price: 135.18 USD | Net Worth: 9600.44 USD
+[2026-09-26 19:11:42] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 62600.11 USD | Net Worth: 9600.44 USD
+[2026-09-26 19:11:46] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 63003.36 USD | Net Worth: 10218.87 USD
+[2026-09-26 19:11:52] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 62584.76 USD | Net Worth: 10218.87 USD
+[2026-09-26 19:11:54] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 62890.0 USD | Net Worth: 10717.27 USD
+[2026-09-26 19:11:56] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 62711.32 USD | Net Worth: 10717.27 USD
+[2026-09-26 19:11:58] AI_AI_STOP_LOSS | Asset: BTC | Price: 62585.88 USD | Net Worth: 10502.9 USD
+[2026-09-26 19:12:02] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 62683.56 USD | Net Worth: 10502.9 USD
+[2026-09-26 19:12:04] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 62830.37 USD | Net Worth: 10748.88 USD
+[2026-09-26 19:12:06] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 62820.11 USD | Net Worth: 10748.88 USD
+[2026-09-26 19:12:10] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 63050.48 USD | Net Worth: 11143.06 USD
+[2026-09-26 19:12:26] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 62633.49 USD | Net Worth: 11143.06 USD
+[2026-09-26 19:12:28] AI_AI_STOP_LOSS | Asset: BTC | Price: 62440.88 USD | Net Worth: 10800.39 USD
+[2026-09-26 19:12:31] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 62404.27 USD | Net Worth: 10800.39 USD
+[2026-09-26 19:12:35] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 62858.07 USD | Net Worth: 11585.78 USD
+[2026-09-26 19:12:37] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 62540.42 USD | Net Worth: 11585.78 USD
+[2026-09-26 19:12:39] AI_AI_STOP_LOSS | Asset: BTC | Price: 62298.77 USD | Net Worth: 11138.12 USD
+[2026-09-26 19:12:41] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 62275.64 USD | Net Worth: 11138.12 USD
+[2026-09-26 19:12:43] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 62613.3 USD | Net Worth: 11742.03 USD
+[2026-09-26 19:13:03] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 63786.31 USD | Net Worth: 11742.03 USD
+[2026-09-26 19:13:05] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 63572.52 USD | Net Worth: 12135.59 USD
+[2026-09-26 19:13:07] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 63763.14 USD | Net Worth: 12135.59 USD
+[2026-09-26 19:13:09] AI_AI_STOP_LOSS | Asset: BTC | Price: 64048.53 USD | Net Worth: 11592.42 USD
+[2026-09-26 19:13:11] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 64112.66 USD | Net Worth: 11592.42 USD
+[2026-09-26 19:13:13] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 63819.79 USD | Net Worth: 12121.97 USD
+[2026-09-26 19:13:39] AI_AUTO_LONG_OPEN | Asset: SOL | Price: 154.89 USD | Net Worth: 12121.97 USD
+[2026-09-26 19:13:41] AI_AI_TAKE_PROFIT | Asset: SOL | Price: 157.85 USD | Net Worth: 14438.52 USD
+[2026-09-26 19:13:45] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 63711.98 USD | Net Worth: 14438.52 USD
+[2026-09-26 19:13:47] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 63392.65 USD | Net Worth: 15162.19 USD
+[2026-09-26 19:13:49] AI_AUTO_SHORT_OPEN | Asset: ETH | Price: 3542.81 USD | Net Worth: 15162.19 USD
+[2026-09-26 19:13:51] AI_AI_TAKE_PROFIT | Asset: ETH | Price: 3529.64 USD | Net Worth: 15725.83 USD
+[2026-09-26 19:13:55] AI_AUTO_SHORT_OPEN | Asset: ETH | Price: 3530.91 USD | Net Worth: 15725.83 USD
+[2026-09-26 19:13:59] AI_AI_TAKE_PROFIT | Asset: ETH | Price: 3523.42 USD | Net Worth: 16059.42 USD
+[2026-09-26 19:14:01] AI_AUTO_SHORT_OPEN | Asset: ETH | Price: 3507.35 USD | Net Worth: 16059.42 USD
+[2026-09-26 19:14:03] AI_AI_STOP_LOSS | Asset: ETH | Price: 3522.24 USD | Net Worth: 15377.63 USD
+[2026-09-26 19:14:05] AI_AUTO_SHORT_OPEN | Asset: ETH | Price: 3536.92 USD | Net Worth: 15377.63 USD
+[2026-09-26 19:14:07] AI_AI_TAKE_PROFIT | Asset: ETH | Price: 3522.86 USD | Net Worth: 15988.93 USD
+[2026-09-26 19:14:09] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 62911.47 USD | Net Worth: 15988.93 USD
+[2026-09-26 19:14:11] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 63043.66 USD | Net Worth: 16324.89 USD
+[2026-09-26 19:14:13] AI_AUTO_SHORT_OPEN | Asset: ETH | Price: 3512.45 USD | Net Worth: 16324.89 USD
+[2026-09-26 19:14:15] AI_AI_STOP_LOSS | Asset: ETH | Price: 3523.21 USD | Net Worth: 15824.79 USD
+[2026-09-26 19:14:17] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 62945.35 USD | Net Worth: 15824.79 USD
+[2026-09-26 19:14:19] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 63170.03 USD | Net Worth: 16389.65 USD
+[2026-09-26 19:14:43] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 63806.52 USD | Net Worth: 16389.65 USD
+[2026-09-26 19:14:45] AI_AI_STOP_LOSS | Asset: BTC | Price: 64040.61 USD | Net Worth: 15788.36 USD
+[2026-09-26 19:14:47] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 64016.78 USD | Net Worth: 15788.36 USD
+[2026-09-26 19:14:49] AI_AI_STOP_LOSS | Asset: BTC | Price: 64273.7 USD | Net Worth: 15154.72 USD
+[2026-09-26 19:14:51] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 64272.34 USD | Net Worth: 15154.72 USD
+[2026-09-26 19:14:55] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 64143.35 USD | Net Worth: 15458.86 USD
+[2026-09-26 19:15:01] AI_AUTO_LONG_OPEN | Asset: SOL | Price: 183.51 USD | Net Worth: 15458.86 USD
+[2026-09-26 19:15:03] AI_AI_TAKE_PROFIT | Asset: SOL | Price: 186.44 USD | Net Worth: 17927.09 USD
+[2026-09-26 19:15:05] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 63192.93 USD | Net Worth: 17927.09 USD
+[2026-09-26 19:15:11] AI_AI_STOP_LOSS | Asset: BTC | Price: 62941.65 USD | Net Worth: 17214.24 USD
+[2026-09-26 19:15:13] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 62972.19 USD | Net Worth: 17214.24 USD
+[2026-09-26 19:15:17] AI_AI_STOP_LOSS | Asset: BTC | Price: 62807.28 USD | Net Worth: 16763.44 USD
+[2026-09-26 19:15:19] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 62939.92 USD | Net Worth: 16763.44 USD
+[2026-09-26 19:15:21] AI_AI_STOP_LOSS | Asset: BTC | Price: 62641.71 USD | Net Worth: 15969.18 USD
+[2026-09-26 19:15:23] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 62502.71 USD | Net Worth: 15969.18 USD
+[2026-09-26 19:15:29] AI_AI_STOP_LOSS | Asset: BTC | Price: 62325.91 USD | Net Worth: 15517.47 USD
+[2026-09-26 19:15:31] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 62116.01 USD | Net Worth: 15517.47 USD
+[2026-09-26 19:15:33] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 62250.45 USD | Net Worth: 15853.32 USD
+[2026-09-26 19:15:35] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 62237.62 USD | Net Worth: 15853.32 USD
+[2026-09-26 19:15:38] AI_AI_STOP_LOSS | Asset: BTC | Price: 61912.53 USD | Net Worth: 15025.24 USD
+[2026-09-26 19:15:40] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 62038.89 USD | Net Worth: 15025.24 USD
+[2026-09-26 19:15:42] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 62276.35 USD | Net Worth: 15600.35 USD
+[2026-09-26 19:15:54] AI_AUTO_LONG_OPEN | Asset: SOL | Price: 184.81 USD | Net Worth: 15600.35 USD
+[2026-09-26 19:15:56] AI_AI_TAKE_PROFIT | Asset: SOL | Price: 186.25 USD | Net Worth: 16815.89 USD
+[2026-09-26 19:15:58] AI_AUTO_LONG_OPEN | Asset: SOL | Price: 189.28 USD | Net Worth: 16815.89 USD
+[2026-09-26 19:16:00] AI_AI_STOP_LOSS | Asset: SOL | Price: 188.55 USD | Net Worth: 16167.35 USD
+[2026-09-26 19:16:06] AI_AUTO_LONG_OPEN | Asset: ETH | Price: 3544.85 USD | Net Worth: 16167.35 USD
+[2026-09-26 19:16:08] AI_AI_TAKE_PROFIT | Asset: ETH | Price: 3559.81 USD | Net Worth: 16849.65 USD
+[2026-09-26 19:16:10] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 61546.45 USD | Net Worth: 16849.65 USD
+[2026-09-26 19:16:14] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 61908.94 USD | Net Worth: 17842.04 USD
+[2026-09-26 19:16:16] AI_AUTO_LONG_OPEN | Asset: ETH | Price: 3568.57 USD | Net Worth: 17842.04 USD
+[2026-09-26 19:16:18] AI_AI_TAKE_PROFIT | Asset: ETH | Price: 3582.56 USD | Net Worth: 18541.51 USD
+[2026-09-26 19:16:20] AI_AUTO_LONG_OPEN | Asset: ETH | Price: 3580.76 USD | Net Worth: 18541.51 USD
+[2026-09-26 19:16:24] AI_AI_STOP_LOSS | Asset: ETH | Price: 3570.73 USD | Net Worth: 18022.14 USD
+[2026-09-26 19:16:26] AI_AUTO_LONG_OPEN | Asset: SOL | Price: 191.28 USD | Net Worth: 18022.14 USD
+[2026-09-26 19:16:28] AI_AI_STOP_LOSS | Asset: SOL | Price: 190.94 USD | Net Worth: 17701.8 USD
+[2026-09-26 19:16:34] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 62707.26 USD | Net Worth: 17701.8 USD
+[2026-09-26 19:16:36] AI_AI_STOP_LOSS | Asset: BTC | Price: 62980.02 USD | Net Worth: 16931.82 USD
+[2026-09-26 19:16:38] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 63095.6 USD | Net Worth: 16931.82 USD
+[2026-09-26 19:16:40] AI_AI_STOP_LOSS | Asset: BTC | Price: 63274.91 USD | Net Worth: 16450.64 USD
+[2026-09-26 19:16:42] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 63328.03 USD | Net Worth: 16450.64 USD
+[2026-09-26 19:16:44] AI_AI_STOP_LOSS | Asset: BTC | Price: 63399.4 USD | Net Worth: 16265.24 USD
+[2026-09-26 19:16:46] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 63421.56 USD | Net Worth: 16265.24 USD
+[2026-09-26 19:16:48] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 63241.36 USD | Net Worth: 16727.39 USD
+[2026-09-26 19:16:58] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 62012.84 USD | Net Worth: 16727.39 USD
+[2026-09-26 19:17:00] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 62253.12 USD | Net Worth: 17375.52 USD
+[2026-09-26 19:17:14] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 63075.09 USD | Net Worth: 17375.52 USD
+[2026-09-26 19:17:18] AI_AI_STOP_LOSS | Asset: BTC | Price: 63348.37 USD | Net Worth: 16622.71 USD
+[2026-09-26 19:17:20] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 63284.42 USD | Net Worth: 16622.71 USD
+[2026-09-26 19:17:24] AI_AI_STOP_LOSS | Asset: BTC | Price: 63430.64 USD | Net Worth: 16238.63 USD
+[2026-09-26 19:17:26] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 63557.13 USD | Net Worth: 16238.63 USD
+[2026-09-26 19:17:28] AI_AI_STOP_LOSS | Asset: BTC | Price: 63793.88 USD | Net Worth: 15633.75 USD
+[2026-09-26 19:17:30] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 63895.61 USD | Net Worth: 15633.75 USD
+[2026-09-26 19:17:36] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 63760.76 USD | Net Worth: 15963.69 USD
+[2026-09-26 19:17:38] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 63903.99 USD | Net Worth: 15963.69 USD
+[2026-09-26 19:17:40] AI_AI_STOP_LOSS | Asset: BTC | Price: 63995.66 USD | Net Worth: 15734.69 USD
+[2026-09-26 19:17:42] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 64086.45 USD | Net Worth: 15734.69 USD
+[2026-09-26 19:17:44] AI_AI_STOP_LOSS | Asset: BTC | Price: 64399.4 USD | Net Worth: 14966.33 USD
+[2026-09-26 19:17:46] AI_AUTO_SHORT_OPEN | Asset: ETH | Price: 3532.12 USD | Net Worth: 14966.33 USD
+[2026-09-26 19:17:50] AI_AI_TAKE_PROFIT | Asset: ETH | Price: 3504.02 USD | Net Worth: 16156.99 USD
+[2026-09-26 19:17:56] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 63113.98 USD | Net Worth: 16156.99 USD
+[2026-09-26 19:17:58] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 63450.01 USD | Net Worth: 17017.21 USD
+[2026-09-26 19:18:04] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 63781.0 USD | Net Worth: 17017.21 USD
+[2026-09-26 19:18:06] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 63642.25 USD | Net Worth: 17387.41 USD
+[2026-09-26 19:18:08] AI_AUTO_SHORT_OPEN | Asset: ETH | Price: 3530.62 USD | Net Worth: 17387.41 USD
+[2026-09-26 19:18:10] AI_AI_STOP_LOSS | Asset: ETH | Price: 3539.18 USD | Net Worth: 16965.85 USD
+[2026-09-26 19:18:12] AI_AUTO_SHORT_OPEN | Asset: ETH | Price: 3553.32 USD | Net Worth: 16965.85 USD
+[2026-09-26 19:18:16] AI_AI_STOP_LOSS | Asset: ETH | Price: 3561.73 USD | Net Worth: 16564.3 USD
+[2026-09-26 19:18:18] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 63946.67 USD | Net Worth: 16564.3 USD
+[2026-09-26 19:18:20] AI_AI_STOP_LOSS | Asset: BTC | Price: 64160.06 USD | Net Worth: 16011.55 USD
+[2026-09-26 19:18:22] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 64442.09 USD | Net Worth: 16011.55 USD
+[2026-09-26 19:18:24] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 64267.29 USD | Net Worth: 16445.86 USD
+[2026-09-26 19:18:26] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 64258.98 USD | Net Worth: 16445.86 USD
+[2026-09-26 19:18:28] AI_AI_STOP_LOSS | Asset: BTC | Price: 64483.74 USD | Net Worth: 15870.63 USD
+[2026-09-26 19:18:30] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 64579.17 USD | Net Worth: 15870.63 USD
+[2026-09-26 19:18:32] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 64449.64 USD | Net Worth: 16188.96 USD
+[2026-09-26 19:18:34] AI_AUTO_SHORT_OPEN | Asset: ETH | Price: 3585.37 USD | Net Worth: 16188.96 USD
+[2026-09-26 19:18:36] AI_AI_TAKE_PROFIT | Asset: ETH | Price: 3574.12 USD | Net Worth: 16696.93 USD
+[2026-09-26 19:18:38] AI_AUTO_SHORT_OPEN | Asset: ETH | Price: 3564.2 USD | Net Worth: 16696.93 USD
+[2026-09-26 19:18:42] AI_AI_TAKE_PROFIT | Asset: ETH | Price: 3550.6 USD | Net Worth: 17334.04 USD
+[2026-09-26 19:18:44] AI_AUTO_SHORT_OPEN | Asset: ETH | Price: 3530.78 USD | Net Worth: 17334.04 USD
+[2026-09-26 19:18:46] AI_AI_TAKE_PROFIT | Asset: ETH | Price: 3507.11 USD | Net Worth: 18496.1 USD
+[2026-09-26 19:18:48] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 63665.43 USD | Net Worth: 18496.1 USD
+[2026-09-26 19:18:50] AI_AI_STOP_LOSS | Asset: BTC | Price: 63432.61 USD | Net Worth: 17819.71 USD
+[2026-09-26 19:18:53] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 63571.27 USD | Net Worth: 17819.71 USD
+[2026-09-26 19:18:59] AI_AI_STOP_LOSS | Asset: BTC | Price: 63327.01 USD | Net Worth: 17135.02 USD
+[2026-09-26 19:19:01] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 63511.25 USD | Net Worth: 17135.02 USD
+[2026-09-26 19:19:03] AI_AI_STOP_LOSS | Asset: BTC | Price: 63215.13 USD | Net Worth: 16336.1 USD
+[2026-09-26 19:19:05] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 63028.11 USD | Net Worth: 16336.1 USD
+[2026-09-26 19:19:11] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 63263.42 USD | Net Worth: 16946.0 USD
+[2026-09-26 19:19:13] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 62920.56 USD | Net Worth: 16946.0 USD
+[2026-09-26 19:19:15] AI_AI_STOP_LOSS | Asset: BTC | Price: 62606.36 USD | Net Worth: 16099.78 USD
+[2026-09-26 19:19:17] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 62313.94 USD | Net Worth: 16099.78 USD
+[2026-09-26 19:19:21] AI_AI_STOP_LOSS | Asset: BTC | Price: 62201.4 USD | Net Worth: 15809.02 USD
+[2026-09-26 19:19:23] AI_AUTO_LONG_OPEN | Asset: BTC | Price: 62137.36 USD | Net Worth: 15809.02 USD
+[2026-09-26 19:19:25] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 62304.57 USD | Net Worth: 16234.43 USD
+[2026-09-26 19:19:37] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 63260.88 USD | Net Worth: 16234.43 USD
+[2026-09-26 19:19:39] AI_AI_TAKE_PROFIT | Asset: BTC | Price: 62920.49 USD | Net Worth: 17107.96 USD
+[2026-09-26 19:19:41] AI_AUTO_LONG_OPEN | Asset: SOL | Price: 209.29 USD | Net Worth: 17107.96 USD
+[2026-09-26 19:19:43] AI_AI_TAKE_PROFIT | Asset: SOL | Price: 212.81 USD | Net Worth: 19985.31 USD
+[2026-09-26 19:19:45] AI_AUTO_LONG_OPEN | Asset: SOL | Price: 212.65 USD | Net Worth: 19985.31 USD
+[2026-09-26 19:19:47] AI_AI_STOP_LOSS | Asset: SOL | Price: 211.47 USD | Net Worth: 18876.32 USD
+[2026-09-26 19:19:49] AI_AUTO_LONG_OPEN | Asset: SOL | Price: 215.41 USD | Net Worth: 18876.32 USD
+[2026-09-26 19:19:53] AI_AI_STOP_LOSS | Asset: SOL | Price: 213.84 USD | Net Worth: 17500.54 USD
+[2026-09-26 19:19:55] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 63596.62 USD | Net Worth: 17500.54 USD
+[2026-09-26 19:19:57] AI_AI_STOP_LOSS | Asset: BTC | Price: 63781.69 USD | Net Worth: 16991.26 USD
+[2026-09-26 19:19:59] AI_AUTO_SHORT_OPEN | Asset: BTC | Price: 63542.21 USD | Net Worth: 16991.26 USD
+[2026-09-26 19:46:35] Claimed: 0.83 USDT | Total Gathered: 0.83 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:46:43] Claimed: 0.41 USDT | Total Gathered: 1.24 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:46:51] Claimed: 0.87 USDT | Total Gathered: 2.11 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:46:58] Claimed: 0.26 USDT | Total Gathered: 2.37 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:47:06] Claimed: 0.95 USDT | Total Gathered: 3.32 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:47:14] Claimed: 0.94 USDT | Total Gathered: 4.26 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:47:21] Claimed: 1.12 USDT | Total Gathered: 5.38 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:47:28] Claimed: 1.35 USDT | Total Gathered: 6.73 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:47:35] Claimed: 1.18 USDT | Total Gathered: 7.91 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:47:43] Claimed: 0.76 USDT | Total Gathered: 8.67 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:47:51] Claimed: 1.23 USDT | Total Gathered: 9.9 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:47:59] Claimed: 0.86 USDT | Total Gathered: 10.76 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:48:06] Claimed: 0.85 USDT | Total Gathered: 11.61 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:48:13] Claimed: 0.46 USDT | Total Gathered: 12.07 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:48:20] Claimed: 0.75 USDT | Total Gathered: 12.82 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:51:22] Claimed: 0.63 USDT | Total: 0.63 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:51:27] Claimed: 0.74 USDT | Total: 1.37 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:51:33] Claimed: 0.69 USDT | Total: 2.06 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:51:39] Claimed: 1.26 USDT | Total: 3.32 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:51:52] Claimed: 1.18 USDT | Total: 4.5 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:51:58] Claimed: 1.02 USDT | Total: 5.52 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:52:17] Claimed: 0.3 USDT | Total: 5.82 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:52:28] Claimed: 0.47 USDT | Total: 6.29 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:52:37] Claimed: 1.17 USDT | Total: 7.46 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:52:44] Claimed: 0.61 USDT | Total: 8.07 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:52:54] Claimed: 0.86 USDT | Total: 8.93 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:53:04] Claimed: 1.1 USDT | Total: 10.03 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:53:14] Claimed: 1.2 USDT | Total: 11.23 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:53:21] Claimed: 1.31 USDT | Total: 12.54 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:53:32] Claimed: 1.14 USDT | Total: 13.68 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:53:38] Claimed: 0.34 USDT | Total: 14.02 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:53:53] Claimed: 1.53 USDT | Total: 15.55 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:54:06] Claimed: 1.18 USDT | Total: 16.73 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:54:12] Claimed: 1.24 USDT | Total: 17.97 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:54:21] Claimed: 1.02 USDT | Total: 18.99 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:54:28] Claimed: 0.84 USDT | Total: 19.83 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:54:37] Claimed: 0.48 USDT | Total: 20.31 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:54:47] Claimed: 1.47 USDT | Total: 21.78 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:54:53] Claimed: 0.67 USDT | Total: 22.45 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:54:58] Claimed: 0.69 USDT | Total: 23.14 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:55:04] Claimed: 1.0 USDT | Total: 24.14 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:55:09] Claimed: 1.53 USDT | Total: 25.67 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:55:14] Claimed: 0.48 USDT | Total: 26.15 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:55:19] Claimed: 0.46 USDT | Total: 26.61 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:55:25] Claimed: 1.47 USDT | Total: 28.08 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:55:30] Claimed: 0.44 USDT | Total: 28.52 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:55:35] Claimed: 0.22 USDT | Total: 28.74 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:55:40] Claimed: 0.4 USDT | Total: 29.14 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:55:46] Claimed: 1.53 USDT | Total: 30.67 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:55:51] Claimed: 1.35 USDT | Total: 32.02 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:55:56] Claimed: 0.29 USDT | Total: 32.31 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:56:02] Claimed: 0.5 USDT | Total: 32.81 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:56:07] Claimed: 1.23 USDT | Total: 34.04 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:56:13] Claimed: 0.31 USDT | Total: 34.35 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:56:18] Claimed: 1.45 USDT | Total: 35.8 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:56:23] Claimed: 1.75 USDT | Total: 37.55 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:56:29] Claimed: 0.74 USDT | Total: 38.29 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:56:34] Claimed: 0.58 USDT | Total: 38.87 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:56:39] Claimed: 0.26 USDT | Total: 39.13 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:56:45] Claimed: 0.81 USDT | Total: 39.94 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:56:50] Claimed: 0.31 USDT | Total: 40.25 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:56:55] Claimed: 0.8 USDT | Total: 41.05 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:57:01] Claimed: 0.59 USDT | Total: 41.64 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:57:29] Claimed: 0.26 USDT | Total Gathered: 0.26 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:57:34] Claimed: 0.47 USDT | Total Gathered: 0.73 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:57:41] Claimed: 1.26 USDT | Total Gathered: 1.99 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:57:46] Claimed: 0.68 USDT | Total Gathered: 2.67 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:57:51] Claimed: 0.32 USDT | Total Gathered: 2.99 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:57:56] Claimed: 1.67 USDT | Total Gathered: 4.66 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:58:02] Claimed: 0.4 USDT | Total Gathered: 5.06 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:58:07] Claimed: 1.29 USDT | Total Gathered: 6.35 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:58:12] Claimed: 1.65 USDT | Total Gathered: 8.0 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:58:18] Claimed: 0.33 USDT | Total Gathered: 8.33 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:58:23] Claimed: 1.1 USDT | Total Gathered: 9.43 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:58:28] Claimed: 1.53 USDT | Total Gathered: 10.96 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:58:33] Claimed: 1.59 USDT | Total Gathered: 12.55 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:58:39] Claimed: 0.53 USDT | Total Gathered: 13.08 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:58:45] Claimed: 1.23 USDT | Total Gathered: 14.31 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:58:50] Claimed: 0.94 USDT | Total Gathered: 15.25 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:58:56] Claimed: 1.06 USDT | Total Gathered: 16.31 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:59:02] Claimed: 1.74 USDT | Total Gathered: 18.05 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:59:07] Claimed: 1.48 USDT | Total Gathered: 19.53 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:59:13] Claimed: 1.18 USDT | Total Gathered: 20.71 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:59:19] Claimed: 1.29 USDT | Total Gathered: 22.0 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:59:24] Claimed: 0.51 USDT | Total Gathered: 22.51 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:59:29] Claimed: 0.49 USDT | Total Gathered: 23.0 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:59:35] Claimed: 1.06 USDT | Total Gathered: 24.06 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:59:40] Claimed: 0.39 USDT | Total Gathered: 24.45 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:59:46] Claimed: 0.67 USDT | Total Gathered: 25.12 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:59:51] Claimed: 0.56 USDT | Total Gathered: 25.68 USDT | Real Balance: 0.0 USDT
+[2026-09-26 19:59:57] Claimed: 1.67 USDT | Total Gathered: 27.35 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:00:02] Claimed: 1.11 USDT | Total Gathered: 28.46 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:00:08] Claimed: 1.28 USDT | Total Gathered: 29.74 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:00:14] Claimed: 0.5 USDT | Total Gathered: 30.24 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:00:19] Claimed: 1.23 USDT | Total Gathered: 31.47 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:00:24] Claimed: 1.77 USDT | Total Gathered: 33.24 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:00:30] Claimed: 0.23 USDT | Total Gathered: 33.47 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:00:35] Claimed: 1.33 USDT | Total Gathered: 34.8 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:00:41] Claimed: 0.97 USDT | Total Gathered: 35.77 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:00:46] Claimed: 1.21 USDT | Total Gathered: 36.98 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:00:52] Claimed: 1.36 USDT | Total Gathered: 38.34 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:00:57] Claimed: 0.78 USDT | Total Gathered: 39.12 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:01:02] Claimed: 0.42 USDT | Total Gathered: 39.54 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:01:07] Claimed: 0.47 USDT | Total Gathered: 40.01 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:01:13] Claimed: 0.79 USDT | Total Gathered: 40.8 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:01:18] Claimed: 0.95 USDT | Total Gathered: 41.75 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:01:23] Claimed: 1.07 USDT | Total Gathered: 42.82 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:01:29] Claimed: 1.47 USDT | Total Gathered: 44.29 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:01:34] Claimed: 1.25 USDT | Total Gathered: 45.54 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:01:39] Claimed: 1.77 USDT | Total Gathered: 47.31 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:01:44] Claimed: 0.48 USDT | Total Gathered: 47.79 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:01:50] Claimed: 0.91 USDT | Total Gathered: 48.7 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:01:55] Claimed: 0.7 USDT | Total Gathered: 49.4 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:02:00] Claimed: 1.64 USDT | Total Gathered: 51.04 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:02:06] Claimed: 0.54 USDT | Total Gathered: 51.58 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:02:11] Claimed: 0.62 USDT | Total Gathered: 52.2 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:02:17] Claimed: 1.21 USDT | Total Gathered: 53.41 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:02:23] Claimed: 1.44 USDT | Total Gathered: 54.85 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:02:29] Claimed: 1.51 USDT | Total Gathered: 56.36 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:02:34] Claimed: 0.57 USDT | Total Gathered: 56.93 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:02:40] Claimed: 0.37 USDT | Total Gathered: 57.3 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:02:45] Claimed: 0.63 USDT | Total Gathered: 57.93 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:02:50] Claimed: 0.23 USDT | Total Gathered: 58.16 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:02:55] Claimed: 0.31 USDT | Total Gathered: 58.47 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:03:01] Claimed: 0.29 USDT | Total Gathered: 58.76 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:03:06] Claimed: 0.48 USDT | Total Gathered: 59.24 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:03:11] Claimed: 1.07 USDT | Total Gathered: 60.31 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:03:17] Claimed: 1.46 USDT | Total Gathered: 61.77 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:03:22] Claimed: 1.31 USDT | Total Gathered: 63.08 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:03:28] Claimed: 0.9 USDT | Total Gathered: 63.98 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:03:34] Claimed: 0.51 USDT | Total Gathered: 64.49 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:03:39] Claimed: 0.22 USDT | Total Gathered: 64.71 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:03:45] Claimed: 0.54 USDT | Total Gathered: 65.25 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:03:51] Claimed: 0.85 USDT | Total Gathered: 66.1 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:03:56] Claimed: 1.14 USDT | Total Gathered: 67.24 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:04:02] Claimed: 0.48 USDT | Total Gathered: 67.72 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:04:07] Claimed: 1.29 USDT | Total Gathered: 69.01 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:04:13] Claimed: 1.43 USDT | Total Gathered: 70.44 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:04:18] Claimed: 0.63 USDT | Total Gathered: 71.07 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:04:24] Claimed: 0.56 USDT | Total Gathered: 71.63 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:04:30] Claimed: 0.41 USDT | Total Gathered: 72.04 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:04:35] Claimed: 0.38 USDT | Total Gathered: 72.42 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:04:40] Claimed: 1.02 USDT | Total Gathered: 73.44 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:04:46] Claimed: 0.53 USDT | Total Gathered: 73.97 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:04:51] Claimed: 1.5 USDT | Total Gathered: 75.47 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:04:57] Claimed: 1.57 USDT | Total Gathered: 77.04 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:05:03] Claimed: 1.52 USDT | Total Gathered: 78.56 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:05:09] Claimed: 0.96 USDT | Total Gathered: 79.52 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:05:15] Claimed: 0.35 USDT | Total Gathered: 79.87 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:05:20] Claimed: 1.7 USDT | Total Gathered: 81.57 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:05:25] Claimed: 1.21 USDT | Total Gathered: 82.78 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:05:30] Claimed: 1.39 USDT | Total Gathered: 84.17 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:05:36] Claimed: 1.42 USDT | Total Gathered: 85.59 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:05:41] Claimed: 0.51 USDT | Total Gathered: 86.1 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:05:47] Claimed: 1.43 USDT | Total Gathered: 87.53 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:05:52] Claimed: 0.93 USDT | Total Gathered: 88.46 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:05:57] Claimed: 0.33 USDT | Total Gathered: 88.79 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:06:03] Claimed: 0.95 USDT | Total Gathered: 89.74 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:06:08] Claimed: 1.29 USDT | Total Gathered: 91.03 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:06:14] Claimed: 1.06 USDT | Total Gathered: 92.09 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:07:05] Claimed: 1.22 USDT | Total Gathered: 93.31 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:07:11] Claimed: 1.13 USDT | Total Gathered: 94.44 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:07:16] Claimed: 1.39 USDT | Total Gathered: 95.83 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:07:22] Claimed: 0.84 USDT | Total Gathered: 96.67 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:07:27] Claimed: 1.07 USDT | Total Gathered: 97.74 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:07:33] Claimed: 1.49 USDT | Total Gathered: 99.23 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:07:38] Claimed: 0.94 USDT | Total Gathered: 100.17 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:07:44] Claimed: 0.39 USDT | Total Gathered: 100.56 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:07:50] Claimed: 1.28 USDT | Total Gathered: 101.84 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:07:56] Claimed: 0.36 USDT | Total Gathered: 102.2 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:08:02] Claimed: 0.97 USDT | Total Gathered: 103.17 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:08:07] Claimed: 1.22 USDT | Total Gathered: 104.39 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:08:12] Claimed: 1.4 USDT | Total Gathered: 105.79 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:08:17] Claimed: 1.15 USDT | Total Gathered: 106.94 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:08:23] Claimed: 0.52 USDT | Total Gathered: 107.46 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:08:29] Claimed: 1.75 USDT | Total Gathered: 109.21 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:08:35] Claimed: 0.31 USDT | Total Gathered: 109.52 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:08:40] Claimed: 1.42 USDT | Total Gathered: 110.94 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:08:46] Claimed: 1.27 USDT | Total Gathered: 112.21 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:08:51] Claimed: 1.53 USDT | Total Gathered: 113.74 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:08:57] Claimed: 1.04 USDT | Total Gathered: 114.78 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:09:03] Claimed: 1.62 USDT | Total Gathered: 116.4 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:09:08] Claimed: 0.53 USDT | Total Gathered: 116.93 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:09:13] Claimed: 0.36 USDT | Total Gathered: 117.29 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:09:19] Claimed: 0.57 USDT | Total Gathered: 117.86 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:09:24] Claimed: 1.68 USDT | Total Gathered: 119.54 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:09:30] Claimed: 1.52 USDT | Total Gathered: 121.06 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:09:35] Claimed: 0.4 USDT | Total Gathered: 121.46 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:09:41] Claimed: 0.5 USDT | Total Gathered: 121.96 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:09:46] Claimed: 0.95 USDT | Total Gathered: 122.91 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:09:51] Claimed: 1.62 USDT | Total Gathered: 124.53 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:09:57] Claimed: 1.27 USDT | Total Gathered: 125.8 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:10:02] Claimed: 1.13 USDT | Total Gathered: 126.93 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:10:08] Claimed: 0.87 USDT | Total Gathered: 127.8 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:10:14] Claimed: 1.31 USDT | Total Gathered: 129.11 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:10:25] Claimed: 0.99 USDT | Total Gathered: 130.1 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:10:32] Claimed: 1.76 USDT | Total Gathered: 131.86 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:10:39] Claimed: 1.34 USDT | Total Gathered: 133.2 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:10:45] Claimed: 1.74 USDT | Total Gathered: 134.94 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:10:51] Claimed: 1.25 USDT | Total Gathered: 136.19 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:10:56] Claimed: 0.98 USDT | Total Gathered: 137.17 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:11:02] Claimed: 1.5 USDT | Total Gathered: 138.67 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:11:08] Claimed: 0.94 USDT | Total Gathered: 139.61 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:11:13] Claimed: 0.93 USDT | Total Gathered: 140.54 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:11:19] Claimed: 1.35 USDT | Total Gathered: 141.89 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:11:25] Claimed: 0.79 USDT | Total Gathered: 142.68 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:11:30] Claimed: 0.4 USDT | Total Gathered: 143.08 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:11:36] Claimed: 1.26 USDT | Total Gathered: 144.34 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:11:42] Claimed: 1.0 USDT | Total Gathered: 145.34 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:11:47] Claimed: 0.97 USDT | Total Gathered: 146.31 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:11:53] Claimed: 1.39 USDT | Total Gathered: 147.7 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:11:59] Claimed: 1.15 USDT | Total Gathered: 148.85 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:12:05] Claimed: 1.12 USDT | Total Gathered: 149.97 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:12:10] Claimed: 0.47 USDT | Total Gathered: 150.44 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:12:16] Claimed: 1.44 USDT | Total Gathered: 151.88 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:12:22] Claimed: 1.34 USDT | Total Gathered: 153.22 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:12:27] Claimed: 0.32 USDT | Total Gathered: 153.54 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:12:33] Claimed: 0.74 USDT | Total Gathered: 154.28 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:12:39] Claimed: 1.55 USDT | Total Gathered: 155.83 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:12:45] Claimed: 1.01 USDT | Total Gathered: 156.84 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:12:50] Claimed: 0.2 USDT | Total Gathered: 157.04 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:12:56] Claimed: 1.51 USDT | Total Gathered: 158.55 USDT | Real Balance: 0.0 USDT
+[2026-09-26 20:13:02] Claimed: 1.61 USDT | Total Gathered: 160.16 USDT | Real Balance: 0.0 USDT

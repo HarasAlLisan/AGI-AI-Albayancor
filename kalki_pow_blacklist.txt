@@ -1,0 +1,3 @@
+[2026-09-14 18:42:35] Neutralized via PoW 6236: @cairo_lajna_hub | Net: Surface Web (FB/X)
+[2026-09-14 18:42:35] Neutralized via PoW 6236: @central_spider_ops.onion | Net: Dark Web (.onion)
+[2026-09-14 18:42:36] Neutralized via PoW 6236: @baboog_fathy_2026 | Net: Surface Web (Media)

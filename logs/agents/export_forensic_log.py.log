@@ -1,0 +1,5 @@
+/data/data/com.termux/files/home/AGI-AI-Albayancor/export_forensic_log.py:16: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  "timestamp_utc": datetime.datetime.utcnow().isoformat() + "Z",
+✓ تم إنشاء adamhash_918_forensic_sync_log_1789468646.json
+✓ AdamHash: d79410e426625aaa97c6e4588c57cf4c797733841232a38c5e0fea056a961613
+✓ PoW: 0000735b83a20fd1... nonce 45614

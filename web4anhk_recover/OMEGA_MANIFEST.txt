@@ -1,0 +1,8 @@
+
+OMEGA v13 - دمج الأنوية الداخلية
+KALKI 5000 + INNER 1267 = TOTAL 6267 blocks
+OLD: ac7f6d35
+SUPER: 3b48184a
+OMEGA: c5800e4bff10dd7a322b4280a1c5721b3d2281baa743be509dc98bc109d5ee11
+SHARDS: 7 قارات - بيت المال الكعبة
+CORES: 7 أنوية - Lattice + 6236 + Haras + M5 + ANKH + Seal_A1 + Kalki

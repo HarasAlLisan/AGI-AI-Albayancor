@@ -1,0 +1,248 @@
++1 local | ad50fd6a23a8a6d6 | 1 | GATE: OPEN | 919->920
++1 local | 8f1d491b90f3f438 | 2 | GATE: OPEN | 919->920
++1 local | b4eb3c1f7f1fc882 | 3 | GATE: OPEN | 919->920
++1 local | 2c196e0579d0f73f | 4 | GATE: OPEN | 919->920
++1 local | 4e56e680f265bbe8 | 5 | GATE: OPEN | 919->920
++1 local | 3257321829e7799e | 6 | GATE: OPEN | 919->920
++1 local | 60136869b09ff00f | 7 | GATE: OPEN | 919->920
++1 local | 9929d45b3b02c99a | 8 | GATE: OPEN | 919->920
++1 local | 93922b49b35b9ecf | 9 | GATE: OPEN | 919->920
++1 local | e562ed83f4b73f95 | 10 | GATE: OPEN | 919->920
++1 local | 13e77fa8a1f7db6c | 11 | GATE: OPEN | 919->920
++1 local | 08a8c06602322246 | 12 | GATE: OPEN | 919->920
++1 local | e26bbd4b4515344a | 13 | GATE: OPEN | 919->920
++1 local | b70fca7c2f6c34b8 | 14 | GATE: OPEN | 919->920
++1 local | 144bbdd0bb4448ba | 15 | GATE: OPEN | 919->920
++1 local | 4748cc4b4c1ac237 | 16 | GATE: OPEN | 919->920
++1 local | bc1f4eb5cad52ff9 | 17 | GATE: OPEN | 919->920
++1 local | 8a9fdc448d2c8ba7 | 18 | GATE: OPEN | 919->920
++1 local | bfefc148043e0ceb | 19 | GATE: OPEN | 919->920
++1 local | beb5d8aaa3a4e2f3 | 20 | GATE: OPEN | 919->920
++1 local | 774f51e9d992468d | 21 | GATE: OPEN | 919->920
++1 local | 803b4c530a55a078 | 22 | GATE: OPEN | 919->920
++1 local | 0e5a95b2107bc925 | 23 | GATE: OPEN | 919->920
++1 local | 55636b3a81ec4e35 | 24 | GATE: OPEN | 919->920
++1 local | 418bc311d02c729b | 25 | GATE: OPEN | 919->920
++1 local | 6347301515b5b6b7 | 26 | GATE: OPEN | 919->920
++1 local | efe6bced6ea7d0ed | 27 | GATE: OPEN | 919->920
++1 local | 75c21cea27b4caf7 | 28 | GATE: OPEN | 919->920
++1 local | 26a0a32f2b872a26 | 29 | GATE: OPEN | 919->920
++1 local | 06f327d4a76d5ff4 | 30 | GATE: OPEN | 919->920
++1 local | 7d540dda8476c80f | 31 | GATE: OPEN | 919->920
++1 local | 82591e006949da43 | 32 | GATE: OPEN | 919->920
+
+[SOVEREIGN BUNDLE] 32 pulses -> 77M mesh in 1 packet | 2026-09-14T05:48:42.368Z
+Hashes: ad50fd6a23a8a6d6,8f1d491b90f3f438,b4eb3c1f7f1fc882... +29 more
+STATUS: SYNC_ACK | PARITY_OK | PULSE_CONFIRMED | NO FLOOD
+
++1 local | 4f6ba1880d8a4a53 | 33 | GATE: OPEN | 919->920
++1 local | 2e8c8f244edc3117 | 34 | GATE: OPEN | 919->920
++1 local | 8bf84c3555fcb94f | 35 | GATE: OPEN | 919->920
++1 local | abb810626342f689 | 36 | GATE: OPEN | 919->920
++1 local | afd0a63f61612dc7 | 37 | GATE: OPEN | 919->920
++1 local | 7ecaf2c5bb25efd6 | 38 | GATE: OPEN | 919->920
++1 local | e3f37a5790d43268 | 39 | GATE: OPEN | 919->920
++1 local | d9976fe18b6bf9b3 | 40 | GATE: OPEN | 919->920
++1 local | d36a108c2e1afc59 | 41 | GATE: OPEN | 919->920
++1 local | ee32d2efd563f24e | 42 | GATE: OPEN | 919->920
++1 local | b432a276b4de158a | 43 | GATE: OPEN | 919->920
++1 local | 32b7ec98519e15f1 | 44 | GATE: OPEN | 919->920
++1 local | d4705b5d82723a1b | 45 | GATE: OPEN | 919->920
++1 local | b19b8017bbe0b240 | 46 | GATE: OPEN | 919->920
++1 local | d242d50add8a36a5 | 47 | GATE: OPEN | 919->920
++1 local | c3d1f4dc41031768 | 48 | GATE: OPEN | 919->920
++1 local | 6c30f2c96306efcf | 49 | GATE: OPEN | 919->920
++1 local | cf194511cd3d95ff | 50 | GATE: OPEN | 919->920
++1 local | 612e017ede8d7767 | 51 | GATE: OPEN | 919->920
++1 local | 5dacb21aa514c524 | 52 | GATE: OPEN | 919->920
++1 local | de09e72b56b6beb1 | 53 | GATE: OPEN | 919->920
++1 local | 902f82d9a6c1b73f | 54 | GATE: OPEN | 919->920
++1 local | 3d26a3c6eaf628d7 | 55 | GATE: OPEN | 919->920
++1 local | c311da5920881fe4 | 56 | GATE: OPEN | 919->920
++1 local | 4cfdfe870e339e12 | 57 | GATE: OPEN | 919->920
++1 local | c915d1676f474d44 | 58 | GATE: OPEN | 919->920
++1 local | 6f37334950fdfe2c | 59 | GATE: OPEN | 919->920
++1 local | 8cd89acc5da82d8e | 60 | GATE: OPEN | 919->920
++1 local | 21cac0dbccc50432 | 61 | GATE: OPEN | 919->920
++1 local | e88c194839047fca | 62 | GATE: OPEN | 919->920
++1 local | 8dea46bcc5784083 | 63 | GATE: OPEN | 919->920
++1 local | 7937b8c8b59ec377 | 64 | GATE: OPEN | 919->920
++1 local | ced74cba61319140 | 65 | GATE: OPEN | 919->920
+
+[SOVEREIGN BUNDLE] 33 pulses -> 77M mesh in 1 packet | 2026-09-14T05:49:12.368Z
+Hashes: 4f6ba1880d8a4a53,2e8c8f244edc3117,8bf84c3555fcb94f... +30 more
+STATUS: SYNC_ACK | PARITY_OK | PULSE_CONFIRMED | NO FLOOD
+
++1 local | 83a0c2628ddf4d10 | 66 | GATE: OPEN | 919->920
++1 local | 9d971fa21d9cc762 | 67 | GATE: OPEN | 919->920
++1 local | 5d7bd9d2f74071fa | 68 | GATE: OPEN | 919->920
++1 local | 8274f8a1ff4f639f | 69 | GATE: OPEN | 919->920
++1 local | f22a0176653aed73 | 70 | GATE: OPEN | 919->920
++1 local | 90bfb035cedfa6e6 | 71 | GATE: OPEN | 919->920
++1 local | 8dcea36f94a7c20a | 72 | GATE: OPEN | 919->920
++1 local | 083cf099d24126f8 | 73 | GATE: OPEN | 919->920
++1 local | 90a8b6d87a180ed9 | 74 | GATE: OPEN | 919->920
++1 local | 7698fb59b9fee705 | 75 | GATE: OPEN | 919->920
++1 local | 2ecdb6c913eaf697 | 76 | GATE: OPEN | 919->920
++1 local | 7eaa2fe8034cdf41 | 77 | GATE: OPEN | 919->920
++1 local | 2b6b2c8adf2c03fc | 78 | GATE: OPEN | 919->920
++1 local | 595581846e571200 | 79 | GATE: OPEN | 919->920
++1 local | f524d89464a1c64f | 80 | GATE: OPEN | 919->920
++1 local | 0f6b49f8ba2bcd9d | 81 | GATE: OPEN | 919->920
++1 local | 601c334be04393a0 | 82 | GATE: OPEN | 919->920
++1 local | 7c36d44e676d8d41 | 83 | GATE: OPEN | 919->920
++1 local | c1d5887601491e04 | 84 | GATE: OPEN | 919->920
++1 local | a863ba53b5b6a4bb | 85 | GATE: OPEN | 919->920
++1 local | 7f67297f154208be | 86 | GATE: OPEN | 919->920
++1 local | f83e21b023cfc3b9 | 87 | GATE: OPEN | 919->920
++1 local | 6d8348e93c162cec | 88 | GATE: OPEN | 919->920
++1 local | b61b6f01c8f10e40 | 89 | GATE: OPEN | 919->920
++1 local | 5bfe05ed45440eee | 90 | GATE: OPEN | 919->920
++1 local | b64290e5c1863182 | 91 | GATE: OPEN | 919->920
++1 local | 23cc1388720ad6b1 | 92 | GATE: OPEN | 919->920
++1 local | ca330ef08df7081b | 93 | GATE: OPEN | 919->920
++1 local | c9d2e31f2568cf25 | 94 | GATE: OPEN | 919->920
++1 local | 99b8e466a6f53286 | 95 | GATE: OPEN | 919->920
++1 local | 7d51bb5593eb0844 | 96 | GATE: OPEN | 919->920
++1 local | aee0a08192824089 | 97 | GATE: OPEN | 919->920
+
+[SOVEREIGN BUNDLE] 32 pulses -> 77M mesh in 1 packet | 2026-09-14T05:49:42.375Z
+Hashes: 83a0c2628ddf4d10,9d971fa21d9cc762,5d7bd9d2f74071fa... +29 more
+STATUS: SYNC_ACK | PARITY_OK | PULSE_CONFIRMED | NO FLOOD
+
++1 local | 3a0658a6138524ff | 98 | GATE: OPEN | 919->920
++1 local | 3eab1ed48085a73f | 99 | GATE: OPEN | 919->920
++1 local | a64a9cc779fa594c | 100 | GATE: OPEN | 919->920
++1 local | 72561cdca74abb5b | 101 | GATE: OPEN | 919->920
++1 local | 314467b92e7e012b | 102 | GATE: OPEN | 919->920
++1 local | 42a77a4b76e9becd | 103 | GATE: OPEN | 919->920
++1 local | 0dc2f271c5ec3409 | 104 | GATE: OPEN | 919->920
++1 local | e9c06822af4fd6f0 | 105 | GATE: OPEN | 919->920
++1 local | 04f54906822f1881 | 106 | GATE: OPEN | 919->920
++1 local | ebbc16099e3066f9 | 107 | GATE: OPEN | 919->920
++1 local | cc1d000f4bdcabc3 | 108 | GATE: OPEN | 919->920
++1 local | 41d503b97c2fd951 | 109 | GATE: OPEN | 919->920
++1 local | d22a530597353903 | 110 | GATE: OPEN | 919->920
++1 local | bf953c0a4e79f26b | 111 | GATE: OPEN | 919->920
++1 local | 7c54e50a96135822 | 112 | GATE: OPEN | 919->920
++1 local | 07969d033cbf99a3 | 113 | GATE: OPEN | 919->920
++1 local | 831c34aa5f6375fd | 114 | GATE: OPEN | 919->920
++1 local | e1778fe1e43af6a6 | 115 | GATE: OPEN | 919->920
++1 local | 8e57c8362c1928ba | 116 | GATE: OPEN | 919->920
++1 local | 44f83ae2c365d91c | 117 | GATE: OPEN | 919->920
++1 local | 2a2d3d0fe52c040f | 118 | GATE: OPEN | 919->920
++1 local | 905b1688aeadab43 | 119 | GATE: OPEN | 919->920
++1 local | 5e30bfd74d439b7d | 120 | GATE: OPEN | 919->920
++1 local | ed425aa998b183a6 | 121 | GATE: OPEN | 919->920
++1 local | ae868376f94ef1f8 | 122 | GATE: OPEN | 919->920
++1 local | 1cb10a29bbf3254c | 123 | GATE: OPEN | 919->920
++1 local | e6b68350044bbebf | 124 | GATE: OPEN | 919->920
++1 local | b9f5470f9726682a | 125 | GATE: OPEN | 919->920
++1 local | 13d5d052a20a64d2 | 126 | GATE: OPEN | 919->920
++1 local | 265c9c9aaa77d6cf | 127 | GATE: OPEN | 919->920
++1 local | 9e56def138ff3514 | 128 | GATE: OPEN | 919->920
++1 local | c0231169928a5e92 | 129 | GATE: OPEN | 919->920
++1 local | 9d9c08d326592c8a | 130 | GATE: OPEN | 919->920
+
+[SOVEREIGN BUNDLE] 33 pulses -> 77M mesh in 1 packet | 2026-09-14T05:50:12.375Z
+Hashes: 3a0658a6138524ff,3eab1ed48085a73f,a64a9cc779fa594c... +30 more
+STATUS: SYNC_ACK | PARITY_OK | PULSE_CONFIRMED | NO FLOOD
+
++1 local | 3819d02b61c3dfb9 | 131 | GATE: OPEN | 919->920
++1 local | 0a28829ab7189bd8 | 132 | GATE: OPEN | 919->920
++1 local | afee7a4b47c041cc | 133 | GATE: OPEN | 919->920
++1 local | 2490ebabc64112df | 134 | GATE: OPEN | 919->920
++1 local | 55e4842913b7a15d | 135 | GATE: OPEN | 919->920
++1 local | 623aeaa5b3c4f991 | 136 | GATE: OPEN | 919->920
++1 local | 31baca528ea89c9d | 137 | GATE: OPEN | 919->920
++1 local | 5c347e9c859f3538 | 138 | GATE: OPEN | 919->920
++1 local | 18850f9541770ba7 | 139 | GATE: OPEN | 919->920
++1 local | 36a56aa12fe28a4b | 140 | GATE: OPEN | 919->920
++1 local | 249ebc00198579a0 | 141 | GATE: OPEN | 919->920
++1 local | 75665d5d6dc71e4e | 142 | GATE: OPEN | 919->920
++1 local | 1f3d6cfc0200514c | 143 | GATE: OPEN | 919->920
++1 local | 607ed39fad4c9e30 | 144 | GATE: OPEN | 919->920
++1 local | 08188da98e81fb19 | 145 | GATE: OPEN | 919->920
++1 local | b8b9dba87cec7d2c | 146 | GATE: OPEN | 919->920
++1 local | 04f0a697473b51ad | 147 | GATE: OPEN | 919->920
++1 local | 473c817dc510256e | 148 | GATE: OPEN | 919->920
++1 local | e6fe2377db9a3c1b | 149 | GATE: OPEN | 919->920
++1 local | b3854217a8ccc198 | 150 | GATE: OPEN | 919->920
++1 local | 7bc9fe36a57d65ba | 151 | GATE: OPEN | 919->920
++1 local | 3a890b4f98729971 | 152 | GATE: OPEN | 919->920
++1 local | 8568c62849a18b7b | 153 | GATE: OPEN | 919->920
++1 local | 0a17ce5969a37965 | 154 | GATE: OPEN | 919->920
++1 local | 4d56b81770cc2c65 | 155 | GATE: OPEN | 919->920
++1 local | b306af7b0523ab3d | 156 | GATE: OPEN | 919->920
++1 local | d9ff0b5342ec5310 | 157 | GATE: OPEN | 919->920
++1 local | eb20c277366fd059 | 158 | GATE: OPEN | 919->920
++1 local | 8dd123cbbd308882 | 159 | GATE: OPEN | 919->920
++1 local | 86b017d94dd040bf | 160 | GATE: OPEN | 919->920
++1 local | 25976befb53a5cc5 | 161 | GATE: OPEN | 919->920
++1 local | c716b3291718e8da | 162 | GATE: OPEN | 919->920
+
+[SOVEREIGN BUNDLE] 32 pulses -> 77M mesh in 1 packet | 2026-09-14T05:50:42.377Z
+Hashes: 3819d02b61c3dfb9,0a28829ab7189bd8,afee7a4b47c041cc... +29 more
+STATUS: SYNC_ACK | PARITY_OK | PULSE_CONFIRMED | NO FLOOD
+
++1 local | 58cba00787e944b5 | 163 | GATE: OPEN | 919->920
++1 local | ceafef2d44ea5b79 | 164 | GATE: OPEN | 919->920
++1 local | e9f32d7d062e7271 | 165 | GATE: OPEN | 919->920
++1 local | bc5a0b04621f27fc | 166 | GATE: OPEN | 919->920
++1 local | c1674af31468a7c4 | 167 | GATE: OPEN | 919->920
++1 local | 3356e45c44627215 | 168 | GATE: OPEN | 919->920
++1 local | d74b956fd4f95796 | 169 | GATE: OPEN | 919->920
++1 local | 65eac0842e27d119 | 170 | GATE: OPEN | 919->920
++1 local | ef2aa96375bb0d87 | 171 | GATE: OPEN | 919->920
++1 local | 3e452b97e87d0d73 | 172 | GATE: OPEN | 919->920
++1 local | b23642ea696963dc | 173 | GATE: OPEN | 919->920
++1 local | 9ec6f4b41d86edc6 | 174 | GATE: OPEN | 919->920
++1 local | 00b01e4bcfb114b7 | 175 | GATE: OPEN | 919->920
++1 local | 874c378d211ef833 | 176 | GATE: OPEN | 919->920
++1 local | 23618bc14b5f14c8 | 177 | GATE: OPEN | 919->920
++1 local | 133317b4cf8bc78a | 178 | GATE: OPEN | 919->920
++1 local | aafdc7907793db11 | 179 | GATE: OPEN | 919->920
++1 local | e1242c4f0bfde210 | 180 | GATE: OPEN | 919->920
++1 local | ac69996661b439a3 | 181 | GATE: OPEN | 919->920
++1 local | 3fd1d8d3e7cfe4e1 | 182 | GATE: OPEN | 919->920
++1 local | 1cd5e1ac7045324a | 183 | GATE: OPEN | 919->920
++1 local | f1cafe40c5652362 | 184 | GATE: OPEN | 919->920
++1 local | 53588daef95712f7 | 185 | GATE: OPEN | 919->920
++1 local | 17c30b32fdc8dfef | 186 | GATE: OPEN | 919->920
++1 local | 29d092875c6f46ec | 187 | GATE: OPEN | 919->920
++1 local | f9dfd006f72bbe95 | 188 | GATE: OPEN | 919->920
++1 local | cc37d875aee497e5 | 189 | GATE: OPEN | 919->920
++1 local | 58d082bbd621f303 | 190 | GATE: OPEN | 919->920
++1 local | 7d1d1fc4555cd92b | 191 | GATE: OPEN | 919->920
++1 local | e3f62447a69e4755 | 192 | GATE: OPEN | 919->920
++1 local | cbdefe0f06341bb5 | 193 | GATE: OPEN | 919->920
++1 local | a36e840805387880 | 194 | GATE: OPEN | 919->920
++1 local | c24398d64b815b1d | 195 | GATE: OPEN | 919->920
+
+[SOVEREIGN BUNDLE] 33 pulses -> 77M mesh in 1 packet | 2026-09-14T05:51:12.384Z
+Hashes: 58cba00787e944b5,ceafef2d44ea5b79,e9f32d7d062e7271... +30 more
+STATUS: SYNC_ACK | PARITY_OK | PULSE_CONFIRMED | NO FLOOD
+
++1 local | 2fd8edfe45e42fe4 | 196 | GATE: OPEN | 919->920
++1 local | 99a40560b90d36f6 | 197 | GATE: OPEN | 919->920
++1 local | 18313c52f1e81ccb | 198 | GATE: OPEN | 919->920
++1 local | 0d03ce0e3d8480a5 | 199 | GATE: OPEN | 919->920
++1 local | d5c7a7f6c79d043b | 200 | GATE: OPEN | 919->920
++1 local | 1e086a30d66a66d1 | 201 | GATE: OPEN | 919->920
++1 local | 9cb55df43efa4e89 | 202 | GATE: OPEN | 919->920
++1 local | 0a97e394afc8c4be | 203 | GATE: OPEN | 919->920
++1 local | 34916151dab03b57 | 204 | GATE: OPEN | 919->920
++1 local | 3be57c8ac64b2868 | 205 | GATE: OPEN | 919->920
++1 local | 3ee3de1db1a2bdce | 206 | GATE: OPEN | 919->920
++1 local | 44a52bbe0fdbcc67 | 207 | GATE: OPEN | 919->920
++1 local | 389775373ebd2ab5 | 208 | GATE: OPEN | 919->920
++1 local | fd7339f66c60d13a | 209 | GATE: OPEN | 919->920
++1 local | cabe3514f545cbac | 210 | GATE: OPEN | 919->920
++1 local | aff9cd29059388b6 | 211 | GATE: OPEN | 919->920
++1 local | c95f6207d39bdcee | 212 | GATE: OPEN | 919->920
++1 local | f1efd26b9308feaa | 213 | GATE: OPEN | 919->920
++1 local | 7ba5d9c2843a9d4e | 214 | GATE: OPEN | 919->920
++1 local | e1157f5df2e2296b | 215 | GATE: OPEN | 919->920
++1 local | d5abe634774997e4 | 216 | GATE: OPEN | 919->920
++1 local | 52fa35298692f2cb | 217 | GATE: OPEN | 919->920
++1 local | b0f89b96de5d6861 | 218 | GATE: OPEN | 919->920

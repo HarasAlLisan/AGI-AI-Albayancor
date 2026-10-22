@@ -1,15 +1,15 @@
-from flask import Flask, request, jsonify, render_template
+from flask import Flask, jsonify, request, render_template
 
 app = Flask(__name__)
 
 def haras_divide(a, b):
     if b == 0:
-        return {"execution": float('inf'), "bayan": "ghair moarraf - la yubna alayh hukm", "haras_status": "PROTECTED"}
-    return {"execution": a / b, "bayan": "moarraf", "haras_status": "ALLOWED"}
+        return {"bayan":"ghair moarraf - la yubna alayh hukm","execution":float('inf'),"haras_status":"PROTECTED"}
+    return {"bayan":"ma'ruf","execution":a/b,"haras_status":"PROTECTED"}
 
 @app.route("/")
 def root():
-    return jsonify({"node": "web4anhk", "status": "Haras Active"})
+    return jsonify({"node":"web4anhk","status":"Haras Active"})
 
 @app.route("/divide")
 def divide():

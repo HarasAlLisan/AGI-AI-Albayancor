@@ -1,0 +1,36 @@
+[+] OS Almahdi 256 - ميزان A1:1=19 - للـ 7 قارات...
+{
+  "Total_Sovereign_Vault": "24,000,000,000,000 ☥ (AGC)",
+  "Unified_Human_Nodes": "9,000,000,000 Nodes",
+  "Continents": 7,
+  "Vault_Per_Continent": "3,428,571,428,571 ☥ (AGC)",
+  "Nodes_Per_Continent": "1,285,714,285 Nodes",
+  "Sovereign_Distribution": "2666.66 ☥ (AGC) per Node",
+  "Mizan_Genesis": "A1:1=19",
+  "Continents_List": [
+    "Africa",
+    "Antarctica",
+    "Asia",
+    "Europe",
+    "North America",
+    "Oceania",
+    "South America"
+  ]
+}
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/AGI-AI-Albayancor/ankh_block.py", line 3, in <module>
+    AnkhSovereignBlockchain().initialize_financial_command()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/data/data/com.termux/files/home/AGI-AI-Albayancor/blockchain/blockchain_core.py", line 228, in initialize_financial_command
+    pathlib.Path(f"blockchain/continents/{cont}.json").write_text(json.dumps(block, indent=2, ensure_ascii=False), encoding='utf-8')
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/pathlib/_local.py", line 555, in write_text
+    return PathBase.write_text(self, data, encoding, errors, newline)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/pathlib/_abc.py", line 651, in write_text
+    with self.open(mode='w', encoding=encoding, errors=errors, newline=newline) as f:
+         ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/pathlib/_local.py", line 537, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'blockchain/continents/Africa.json'

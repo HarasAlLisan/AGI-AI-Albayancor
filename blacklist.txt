@@ -1,0 +1,89 @@
+[2026-09-14 16:47:00] Account: @bot_test | Reason: High Frequency Bot + Propaganda
+[2026-09-14 17:32:12] Account: @lajna_hunter | Reason: Propaganda Content + High Frequency Bot + No Profile Picture + New Account (<30 days)
+[2026-09-14 17:46:25] Account: @mohamed_2026 | Reason: Propaganda + Bot Frequency + No Avatar + New Account
+[2026-09-14 17:46:27] Account: @sisi_fan_bot | Reason: Propaganda + Bot Frequency + No Avatar + New Account
+[2026-09-14 18:08:36] Account: @mohamed_2026 | Reason: Propaganda + Bot Frequency + No Avatar + New Account
+[2026-09-14 18:08:38] Account: @sisi_fan_bot | Reason: Propaganda + Bot Frequency + No Avatar + New Account
+[2026-09-14 18:09:11] Account: @mohamed_2026 | Reason: Propaganda + Bot Frequency + No Avatar + New Account
+[2026-09-14 18:09:13] Account: @sisi_fan_bot | Reason: Propaganda + Bot Frequency + No Avatar + New Account
+[2026-09-14 18:09:42] Account: @mohamed_2026 | Reason: Propaganda + Bot Frequency + No Avatar + New Account
+[2026-09-14 18:09:44] Account: @sisi_fan_bot | Reason: Propaganda + Bot Frequency + No Avatar + New Account
+[2026-09-14 18:10:18] Account: @mohamed_2026 | Reason: Propaganda + Bot Frequency + No Avatar + New Account
+[2026-09-14 18:10:20] Account: @sisi_fan_bot | Reason: Propaganda + Bot Frequency + No Avatar + New Account
+[2026-09-14 18:10:55] Account: @mohamed_2026 | Reason: Propaganda + Bot Frequency + No Avatar + New Account
+[2026-09-14 18:10:57] Account: @sisi_fan_bot | Reason: Propaganda + Bot Frequency + No Avatar + New Account
+[2026-09-14 18:11:27] Account: @mohamed_2026 | Reason: Propaganda + Bot Frequency + No Avatar + New Account
+[2026-09-14 18:11:29] Account: @sisi_fan_bot | Reason: Propaganda + Bot Frequency + No Avatar + New Account
+[2026-09-14 18:12:06] Account: @mohamed_2026 | Reason: Propaganda + Bot Frequency + No Avatar + New Account
+[2026-09-14 18:12:08] Account: @sisi_fan_bot | Reason: Propaganda + Bot Frequency + No Avatar + New Account
+[2026-09-14 18:12:20] Account: @mohamed_2026 | Reason: Propaganda + Bot Frequency + No Avatar + New Account
+[2026-09-14 18:12:21] Account: @sisi_fan_bot | Reason: Propaganda + Bot Frequency + No Avatar + New Account
+[2026-09-14 18:12:55] Account: @mohamed_2026 | Reason: Propaganda + Bot Frequency + No Avatar + New Account
+[2026-09-14 18:12:56] Account: @sisi_fan_bot | Reason: Propaganda + Bot Frequency + No Avatar + New Account
+[2026-09-14 18:13:30] Account: @mohamed_2026 | Reason: Propaganda + Bot Frequency + No Avatar + New Account
+[2026-09-14 18:13:31] Account: @sisi_fan_bot | Reason: Propaganda + Bot Frequency + No Avatar + New Account
+[2026-09-14 18:14:06] Account: @mohamed_2026 | Reason: Propaganda + Bot Frequency + No Avatar + New Account
+[2026-09-14 18:14:07] Account: @sisi_fan_bot | Reason: Propaganda + Bot Frequency + No Avatar + New Account
+[2026-09-14 18:14:29] Account: @mohamed_2026 | Risk Score: 5.5 | Reasons: Linguistic Patterns (HISTORICAL_SCAPEGOAT) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:14:30] Account: @takfeer_bot_01 | Risk Score: 7.0 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM, ETHICAL_EXCLUSION) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:14:30] Account: @lajna_mesh_baz | Risk Score: 5.5 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:15:05] Account: @mohamed_2026 | Risk Score: 5.5 | Reasons: Linguistic Patterns (HISTORICAL_SCAPEGOAT) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:15:05] Account: @takfeer_bot_01 | Risk Score: 7.0 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM, ETHICAL_EXCLUSION) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:15:06] Account: @lajna_mesh_baz | Risk Score: 5.5 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:15:39] Account: @mohamed_2026 | Risk Score: 5.5 | Reasons: Linguistic Patterns (HISTORICAL_SCAPEGOAT) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:15:40] Account: @takfeer_bot_01 | Risk Score: 7.0 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM, ETHICAL_EXCLUSION) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:15:40] Account: @lajna_mesh_baz | Risk Score: 5.5 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:16:15] Account: @mohamed_2026 | Risk Score: 5.5 | Reasons: Linguistic Patterns (HISTORICAL_SCAPEGOAT) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:16:15] Account: @takfeer_bot_01 | Risk Score: 7.0 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM, ETHICAL_EXCLUSION) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:16:16] Account: @lajna_mesh_baz | Risk Score: 5.5 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:16:50] Account: @mohamed_2026 | Risk Score: 5.5 | Reasons: Linguistic Patterns (HISTORICAL_SCAPEGOAT) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:16:51] Account: @takfeer_bot_01 | Risk Score: 7.0 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM, ETHICAL_EXCLUSION) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:16:51] Account: @lajna_mesh_baz | Risk Score: 5.5 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:17:25] Account: @mohamed_2026 | Risk Score: 5.5 | Reasons: Linguistic Patterns (HISTORICAL_SCAPEGOAT) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:17:26] Account: @takfeer_bot_01 | Risk Score: 7.0 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM, ETHICAL_EXCLUSION) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:17:27] Account: @lajna_mesh_baz | Risk Score: 5.5 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:18:01] Account: @mohamed_2026 | Risk Score: 5.5 | Reasons: Linguistic Patterns (HISTORICAL_SCAPEGOAT) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:18:01] Account: @takfeer_bot_01 | Risk Score: 7.0 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM, ETHICAL_EXCLUSION) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:18:02] Account: @lajna_mesh_baz | Risk Score: 5.5 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:18:36] Account: @mohamed_2026 | Risk Score: 5.5 | Reasons: Linguistic Patterns (HISTORICAL_SCAPEGOAT) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:18:37] Account: @takfeer_bot_01 | Risk Score: 7.0 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM, ETHICAL_EXCLUSION) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:18:37] Account: @lajna_mesh_baz | Risk Score: 5.5 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:19:11] Account: @mohamed_2026 | Risk Score: 5.5 | Reasons: Linguistic Patterns (HISTORICAL_SCAPEGOAT) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:19:12] Account: @takfeer_bot_01 | Risk Score: 7.0 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM, ETHICAL_EXCLUSION) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:19:13] Account: @lajna_mesh_baz | Risk Score: 5.5 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:21:10] Account: @mohamed_2026 | Risk Score: 5.5 | Reasons: Linguistic Patterns (HISTORICAL_SCAPEGOAT) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:21:11] Account: @takfeer_bot_01 | Risk Score: 7.0 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM, ETHICAL_EXCLUSION) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:21:12] Account: @lajna_mesh_baz | Risk Score: 5.5 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:21:50] Account: @mohamed_2026 | Risk Score: 5.5 | Reasons: Linguistic Patterns (HISTORICAL_SCAPEGOAT) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:21:50] Account: @takfeer_bot_01 | Risk Score: 7.0 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM, ETHICAL_EXCLUSION) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:21:50] Account: @lajna_mesh_baz | Risk Score: 5.5 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:22:25] Account: @mohamed_2026 | Risk Score: 5.5 | Reasons: Linguistic Patterns (HISTORICAL_SCAPEGOAT) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:22:25] Account: @takfeer_bot_01 | Risk Score: 7.0 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM, ETHICAL_EXCLUSION) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:22:25] Account: @lajna_mesh_baz | Risk Score: 5.5 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:22:59] Account: @mohamed_2026 | Risk Score: 5.5 | Reasons: Linguistic Patterns (HISTORICAL_SCAPEGOAT) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:22:59] Account: @takfeer_bot_01 | Risk Score: 7.0 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM, ETHICAL_EXCLUSION) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:22:59] Account: @lajna_mesh_baz | Risk Score: 5.5 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:23:33] Account: @mohamed_2026 | Risk Score: 5.5 | Reasons: Linguistic Patterns (HISTORICAL_SCAPEGOAT) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:23:33] Account: @takfeer_bot_01 | Risk Score: 7.0 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM, ETHICAL_EXCLUSION) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:23:33] Account: @lajna_mesh_baz | Risk Score: 5.5 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:24:07] Account: @mohamed_2026 | Risk Score: 5.5 | Reasons: Linguistic Patterns (HISTORICAL_SCAPEGOAT) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:24:07] Account: @takfeer_bot_01 | Risk Score: 7.0 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM, ETHICAL_EXCLUSION) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:24:08] Account: @lajna_mesh_baz | Risk Score: 5.5 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:24:41] Account: @mohamed_2026 | Risk Score: 5.5 | Reasons: Linguistic Patterns (HISTORICAL_SCAPEGOAT) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:24:41] Account: @takfeer_bot_01 | Risk Score: 7.0 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM, ETHICAL_EXCLUSION) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:24:41] Account: @lajna_mesh_baz | Risk Score: 5.5 | Reasons: Linguistic Patterns (NATIONAL_TERRORISM) + Bot High-Frequency Spammer + Anonymous Account Profile + Freshly Created Account (<30 Days)
+[2026-09-14 18:24:53] Global Account: @cairo_lajna_01 | Lang: AR | Score: 7.5
+[2026-09-14 18:24:53] Global Account: @western_bot_99 | Lang: EN | Score: 6.0
+[2026-09-14 18:24:53] Global Account: @paris_influence | Lang: FR | Score: 7.5
+[2026-09-14 18:25:27] Global Account: @cairo_lajna_01 | Lang: AR | Score: 7.5
+[2026-09-14 18:25:28] Global Account: @western_bot_99 | Lang: EN | Score: 6.0
+[2026-09-14 18:25:28] Global Account: @paris_influence | Lang: FR | Score: 7.5
+[2026-09-14 18:26:02] Global Account: @cairo_lajna_01 | Lang: AR | Score: 7.5
+[2026-09-14 18:26:03] Global Account: @western_bot_99 | Lang: EN | Score: 6.0
+[2026-09-14 18:26:03] Global Account: @paris_influence | Lang: FR | Score: 7.5
+[2026-09-14 18:26:37] Global Account: @cairo_lajna_01 | Lang: AR | Score: 7.5
+[2026-09-14 18:26:37] Global Account: @western_bot_99 | Lang: EN | Score: 6.0
+[2026-09-14 18:26:38] Global Account: @paris_influence | Lang: FR | Score: 7.5
+[2026-09-14 18:27:12] Global Account: @cairo_lajna_01 | Lang: AR | Score: 7.5
+[2026-09-14 18:27:12] Global Account: @western_bot_99 | Lang: EN | Score: 6.0
+[2026-09-14 18:27:12] Global Account: @paris_influence | Lang: FR | Score: 7.5

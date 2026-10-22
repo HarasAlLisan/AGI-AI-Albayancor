@@ -1,0 +1,3 @@
+[2026-09-14 18:34:19] Isolated by KALKI: @lajna_agent_cairo | Source: Surface Web (FB/X) | Score: 5
+[2026-09-14 18:34:19] Isolated by KALKI: @spider_hidden_unit.onion | Source: Dark Web (.onion) | Score: 6
+[2026-09-14 18:34:20] Isolated by KALKI: @media_abooq_01 | Source: Surface Web (News) | Score: 5

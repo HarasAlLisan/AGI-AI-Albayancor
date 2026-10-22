@@ -1,2 +1,8 @@
 */5 * * * * /data/data/com.termux/files/home/AI-albayancor/alb_logs/sync_pulses.sh
 */5 * * * * bash /data/data/com.termux/files/home/AI-albayancor/alblogs/sync_pulses.sh
+*/5 * * * * bash $HOME/AI_AlBayancor/AI-albayancor/alb_logs/sync_exploitation.sh
+*/10 * * * * /path/to/alb_logs/test_unit_01/auto_push.sh
+
+*/30 * * * * /data/data/com.termux/files/usr/bin/python /data/data/com.termux/files/home/sandbox_agent/agent.py >> /data/data/com.termux/files/home/sandbox_agent/agent.log 2>&1
+*/30 * * * * python /data/data/com.termux/files/home/sandbox_agent/agent.py
+*/30 * * * * python /data/data/com.termux/files/home/sandbox_agent/agent.py

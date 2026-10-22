@@ -1,0 +1,458 @@
+========== FULL AUDIT Tue Sep 15 13:27:04 EEST 2026 ==========
+
+=== 1- المستودعات ===
+---- /data/data/com.termux/files/home/downloads/HarasAlLisan ----
+main
+e216304 Update quran_hadith.csv
+
+---- /data/data/com.termux/files/home/AI_AlBayancor ----
+seal-deploy
+5d806eb 🔷 تحديث الختم السيادي + نبضة جديدة
+?? AI-albayancor/DeployLog.md
+?? AI-albayancor/README.md
+?? AI-albayancor/SealBalanceLog.md
+?? AI-albayancor/Seal_A1.png
+?? AI-albayancor/Seal_Balance.svg
+?? AI-albayancor/VisualPurityLog.md
+?? AI-albayancor/WorkManifest.md
+?? AI-albayancor/WorkManifestLog.md
+?? AI-albayancor/alb_logs/
+?? AI-albayancor/deploy_balance.sh
+?? AI-albayancor/deploy_log.sh
+?? AI-albayancor/deploy_manifest.sh
+?? AI-albayancor/docs/
+?? AI-albayancor/favicon-64.png
+?? AI-albayancor/index.html
+?? AI-albayancor/manifest.md
+?? AI-albayancor/units/
+?? "AI-albayancor/الميزان الذهبي هو علامة السيادة، به تُوزن النبضات، ويُفصل الثابت عن المتداول."
+
+---- /data/data/com.termux/files/home/AI_AlBayancor/AI-albayancor ----
+main
+69197d5 🧭 إنشاء DeployLog وتوثيق azuro_bridge.py - DEP-AZ-2025-08-20-2105
+ M SealBalanceLog.md
+?? AdamTongueSeal.key
+?? Seal_A1.log
+?? alb_logs/
+?? blockchain/
+?? deploy.sh
+?? deploy_balance.sh
+?? deploy_log.sh
+?? deploy_manifest.sh
+?? "الميزان الذهبي هو علامة السيادة، به تُوزن النبضات، ويُفصل الثابت عن المتداول."
+
+---- /data/data/com.termux/files/home ----
+main
+1c0f54ba LIVE PROOF: web4anhk /bayan active - 1/0=PROTECTED
+ M .bash_history
+ M .cache/crontab/crontab.bak
+ M .cache/pip/http-v2/0/2/f/8/e/02f8e820ca8231526982c4a2b93baef519d0948ff85c925acd226f06
+ M .cache/pip/http-v2/0/2/f/8/e/02f8e820ca8231526982c4a2b93baef519d0948ff85c925acd226f06.body
+ M .cache/pip/http-v2/0/4/1/8/c/0418c83b80f7f7bfaec2738bfbbee53d2c1562196c0781702f6eddc8
+ M .cache/pip/http-v2/0/4/1/8/c/0418c83b80f7f7bfaec2738bfbbee53d2c1562196c0781702f6eddc8.body
+ M .cache/pip/http-v2/0/4/4/0/9/04409a64cbe9342d7e3b5728f6ad45c1cb35fb3ec830064d6f7f201a
+ M .cache/pip/http-v2/0/4/4/0/9/04409a64cbe9342d7e3b5728f6ad45c1cb35fb3ec830064d6f7f201a.body
+ M .cache/pip/http-v2/0/a/e/8/4/0ae84cda1068eb8069d0d031ff1b592b6ce0646c279bf59396ff2d05
+ M .cache/pip/http-v2/0/a/e/8/4/0ae84cda1068eb8069d0d031ff1b592b6ce0646c279bf59396ff2d05.body
+ M .cache/pip/http-v2/0/f/a/e/c/0faec10fc908d92f19ad98c40f513a1781ae2d868b0add6bff108aff
+ M .cache/pip/http-v2/0/f/a/e/c/0faec10fc908d92f19ad98c40f513a1781ae2d868b0add6bff108aff.body
+ M .cache/pip/http-v2/1/9/3/d/2/193d2b14cf4cd704ac983a718ec8edac2afad38c2e26f3f739d3d911
+ M .cache/pip/http-v2/1/9/3/d/2/193d2b14cf4cd704ac983a718ec8edac2afad38c2e26f3f739d3d911.body
+ M .cache/pip/http-v2/2/2/6/e/2/226e20ef37baae18486c4b142f19362b0176ef112b8135637169c623
+ M .cache/pip/http-v2/2/2/6/e/2/226e20ef37baae18486c4b142f19362b0176ef112b8135637169c623.body
+ M .cache/pip/http-v2/2/3/4/4/6/23446cc6157b1ce7d0c47be470d3e3e086ba28baabb823def5b31de1
+ M .cache/pip/http-v2/2/3/4/4/6/23446cc6157b1ce7d0c47be470d3e3e086ba28baabb823def5b31de1.body
+ M .cache/pip/http-v2/2/6/4/1/7/264179aeab1d8942e5f72419f2c39e8a5577779f5155b081e3ad0fd8
+ M .cache/pip/http-v2/2/6/4/1/7/264179aeab1d8942e5f72419f2c39e8a5577779f5155b081e3ad0fd8.body
+
+---- /data/data/com.termux/files/home/AGI-AI-Albayancor ----
+main
+114857b رجعنا النظام المتقسم b376a7a
+ ? web4anhk
+
+---- /data/data/com.termux/files/home/Seal_A1 ----
+main
+3c546a0 🕰️ نبضة جديدة تحت ختم GAL-099 – ALB-Log-2026-08-19-1814
+?? merged/
+
+---- /data/data/com.termux/files/home/anti_botnet_project ----
+main
+963ae88 Add python scripts and web dashboard v3.0
+
+=== 2- ملفات المشروع ===
+/data/data/com.termux/files/home/AGI-AI-Albayancor/AI-albayancor/ data/quran_hadith.csv
+/data/data/com.termux/files/home/AGI-AI-Albayancor/AI-albayancor/HarasAlLisan/mood_engine.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/AI-albayancor/__init__.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/AI-albayancor/bridge_node.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/AI-albayancor/build_manhaj_6236.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/AI-albayancor/check_folders.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/AI-albayancor/core_bootstrap.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/AI-albayancor/data/dataz/quran_hadith.csv
+/data/data/com.termux/files/home/AGI-AI-Albayancor/AI-albayancor/data/quran_hadith.csv
+/data/data/com.termux/files/home/AGI-AI-Albayancor/AI-albayancor/data/quran_hadith_data.csv
+/data/data/com.termux/files/home/AGI-AI-Albayancor/AI-albayancor/interface/app.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/AI-albayancor/interface/pilot.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/AI-albayancor/modules/verify_bayan.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/AI-albayancor/organize.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/AI-albayancor/tests/integritytest01.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/OS-ALMAHDI-256/continents_bridge_790.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/OS-ALMAHDI-256/core.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/Q_A1_Core/__init__.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/Q_A1_Core/init_q_a1.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/Q_A1_NatiqSeal/guard_link.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/Q_A1_NatiqSeal/intent_link.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/Q_A1_NatiqSeal/pulse_link.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/agents/agent_template.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/ai_albayancor.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/ankh_block.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/blockchain/blockchain_core.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/__init__.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/anhk_dns_crypto_vault.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/anhk_m5_root_delegation.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/anhk_root_analytics.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/ankh_identity_fusion.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/ankh_identity_modular.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/bitcoin_iron_core.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/continuation_core_400.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/cosmic_final_closure_2520.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/cosmic_metals_mint.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/cosmic_seals_2191_core.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/energy_conservation.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/firebase_sovereign_bridge.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/hardware_network_slicer.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/heptagonal_guardian_m6.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/heptagonal_polar_gates.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/hyper_572_counter.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/islamic_flood_license.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/islamic_sovereign_11.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/lattice_m3_core.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/lattice_matrix_full.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/master_ledger_settlement.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/master_orchestrator.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/network_identity_gate.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/q_a1_core.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/quantum_cluster_five.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/quantum_matrix_core.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/root_servers_13_core.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/sovereign_accounting_ledger.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/sovereign_algebra_calc.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/sovereign_core_54.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/sovereign_cyber_firewall.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/sovereign_cyber_scf_919.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/sovereign_final_seal_191919.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/sovereign_identity_vault.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/sovereign_justice_dashboard.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/web4_cyber_shield_core.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/web4_final_law.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core/web4_master_settlement.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/core_tarikh_filter.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/export_forensic_log.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/final_pure_fix.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/haras_allisan.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/perfect_arabic_shaper.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/pure_rtl_patch.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/pyramid_47_matter.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/pyramid_48_gate.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/pyramids_50/generate_45.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/pyramids_50/generate_keys_50.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/q_a1_finance_7continents.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/quantum_sync.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/simulator/AI_albayancor_sim_UL/ai_albayancor_live.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/simulator/ai_albayancor_live.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/sovereign_shape_core.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/src/__init__.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/src/audio_module.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/src/main.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/src/memory_module.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/src/nlp_module.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/src/reasoning_module.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/src/vision_module.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/tarikh_full.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/tests/test_nlp.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/tests/test_reasoning.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/tests/test_vision.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/blacklist_report.csv
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/cores/blacklist_report.csv
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/network_syncer.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_cluster_sync_enforce.cjs
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_cluster_sync_enforce.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_cluster_sync_safe.cjs
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_cluster_sync_safe.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_cluster_sync_v4_2.cjs
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_cluster_sync_v4_2.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/accepts/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/array-flatten/array-flatten.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/base64-js/base64js.min.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/base64-js/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/bignumber.js/bignumber.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/body-parser/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/browserslist/browser.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/browserslist/cli.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/browserslist/error.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/browserslist/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/browserslist/node.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/browserslist/parse.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/buffer-equal-constant-time/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/buffer-equal-constant-time/test.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/bytes/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/call-bind-apply-helpers/actualApply.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/call-bind-apply-helpers/applyBind.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/call-bind-apply-helpers/functionApply.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/call-bind-apply-helpers/functionCall.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/call-bind-apply-helpers/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/call-bind-apply-helpers/reflectApply.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/call-bound/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/commander/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/content-disposition/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/content-type/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/convert-source-map/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/cookie-signature/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/cookie/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/decimal.js-light/decimal.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/decimal.js-light/decimal.min.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/delaunator/delaunator.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/delaunator/delaunator.min.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/delaunator/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/depd/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/destroy/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/dotenv/config.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/dunder-proto/get.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/dunder-proto/set.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/ee-first/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/electron-to-chromium/chromium-versions.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/electron-to-chromium/full-chromium-versions.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/electron-to-chromium/full-versions.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/electron-to-chromium/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/electron-to-chromium/versions.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/encodeurl/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/es-define-property/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/es-errors/eval.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/es-errors/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/es-errors/range.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/es-errors/ref.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/es-errors/syntax.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/es-errors/type.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/es-errors/uri.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/es-object-atoms/RequireObjectCoercible.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/es-object-atoms/ToObject.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/es-object-atoms/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/es-object-atoms/isObject.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/es-toolkit/array.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/es-toolkit/bigint.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/es-toolkit/compat.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/es-toolkit/error.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/es-toolkit/fp.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/es-toolkit/function.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/es-toolkit/iterator.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/es-toolkit/map.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/es-toolkit/math.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/es-toolkit/object.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/es-toolkit/predicate.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/es-toolkit/promise.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/es-toolkit/server.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/es-toolkit/set.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/es-toolkit/string.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/es-toolkit/util.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/esbuild/install.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/escape-html/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/etag/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/eventemitter3/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/express/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/extend/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/fetch-blob/file.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/fetch-blob/from.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/fetch-blob/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/fetch-blob/streams.cjs
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/finalhandler/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/formdata-polyfill/FormData.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/formdata-polyfill/esm.min.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/formdata-polyfill/formdata-to-blob.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/formdata-polyfill/formdata.min.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/forwarded/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/fresh/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/function-bind/implementation.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/function-bind/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/gensync/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/get-intrinsic/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/get-proto/Object.getPrototypeOf.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/get-proto/Reflect.getPrototypeOf.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/get-proto/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/gopd/gOPD.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/gopd/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/graceful-fs/clone.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/graceful-fs/graceful-fs.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/graceful-fs/legacy-streams.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/graceful-fs/polyfills.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/has-symbols/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/has-symbols/shams.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/hasown/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/http-errors/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/inherits/inherits.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/inherits/inherits_browser.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/ipaddr.js/ipaddr.min.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/js-tokens/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/jsesc/jsesc.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/json-bigint/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/jwa/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/jws/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/long/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/lru-cache/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/math-intrinsics/abs.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/math-intrinsics/floor.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/math-intrinsics/isFinite.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/math-intrinsics/isInteger.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/math-intrinsics/isNaN.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/math-intrinsics/isNegativeZero.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/math-intrinsics/max.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/math-intrinsics/min.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/math-intrinsics/mod.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/math-intrinsics/pow.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/math-intrinsics/round.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/math-intrinsics/sign.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/media-typer/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/merge-descriptors/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/methods/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/mime-db/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/mime-types/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/mime/cli.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/mime/mime.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/ms/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/nanoid/index.browser.cjs
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/nanoid/index.browser.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/nanoid/index.cjs
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/nanoid/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/nanoid/nanoid.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/negotiator/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/node-domexception/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/object-inspect/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/object-inspect/test-core-js.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/object-inspect/util.inspect.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/on-finished/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/p-retry/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/parseurl/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/path-to-regexp/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/picocolors/picocolors.browser.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/picocolors/picocolors.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/picomatch/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/picomatch/posix.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/protobufjs/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/protobufjs/light.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/protobufjs/minimal.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/proxy-addr/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/range-parser/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/raw-body/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/react-dom/client.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/react-dom/client.react-server.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/react-dom/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/react-dom/profiling.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/react-dom/profiling.react-server.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/react-dom/react-dom.react-server.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/react-dom/server.browser.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/react-dom/server.bun.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/react-dom/server.edge.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/react-dom/server.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/react-dom/server.node.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/react-dom/server.react-server.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/react-dom/static.browser.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/react-dom/static.edge.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/react-dom/static.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/react-dom/static.node.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/react-dom/static.react-server.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/react-dom/test-utils.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/react-is/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/react-refresh/babel.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/react-refresh/runtime.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/react/compiler-runtime.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/react/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/react/jsx-dev-runtime.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/react/jsx-dev-runtime.react-server.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/react/jsx-runtime.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/react/jsx-runtime.react-server.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/react/react.react-server.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/retry/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/robust-predicates/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/rw/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/safe-buffer/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/safer-buffer/dangerous.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/safer-buffer/safer.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/safer-buffer/tests.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/scheduler/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/scheduler/index.native.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/scheduler/unstable_mock.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/scheduler/unstable_post_task.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/semver/semver.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/send/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/serve-static/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/setprototypeof/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/side-channel-list/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/side-channel-map/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/side-channel-weakmap/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/side-channel/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/source-map-js/source-map.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/statuses/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/toidentifier/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/tslib/tslib.es6.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/tslib/tslib.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/type-is/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/unpipe/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/update-browserslist-db/check-npm-version.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/update-browserslist-db/cli.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/update-browserslist-db/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/update-browserslist-db/utils.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/use-sync-external-store/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/use-sync-external-store/with-selector.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/utils-merge/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/vary/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/victory-vendor/d3-array.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/victory-vendor/d3-ease.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/victory-vendor/d3-interpolate.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/victory-vendor/d3-scale.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/victory-vendor/d3-shape.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/victory-vendor/d3-time.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/victory-vendor/d3-timer.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/vite/index.cjs
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/ws/browser.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/ws/index.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/yallist/iterator.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/yallist/yallist.js
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/scripts/anr_tracker.cjs
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/scripts/merge_a_to_web4anhk.cjs
+/data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk_crypto/quantum_crypto.py
+/data/data/com.termux/files/home/AGI-AI-Albayancor/weight_patch_ledger.py
+/data/data/com.termux/files/home/HarasAllisan/web4anhk/app.py
+
+=== 3- الأحجام ===
+-rw-------. 1 u0_a323 u0_a323  209 Sep 15 13:24 /data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/blacklist_report.csv
+-rw-------. 1 u0_a323 u0_a323 1.1K Sep 15 13:23 /data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/network_syncer.py
+-rw-------. 1 u0_a323 u0_a323 2.3K Sep 15 13:24 /data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_cluster_sync_v4_2.cjs
+-rw-------. 1 u0_a323 u0_a323  707 Sep 15 13:06 /data/data/com.termux/files/home/HarasAllisan/web4anhk/app.py
+
+=== 4- الوكلاء والبورتات ===
+u0_a323  13286  0.0  0.1 11007384 14612 pts/24 S     1970   0:01 python /data/data/com.termux/files/usr/bin/python app.py
+u0_a323  13287  0.3  0.6 12025780 49556 pts/24 Sl    1970   0:03 node npm exec tsx server.ts --host 0.0.0.0 --port 4000
+u0_a323  13312  0.0  0.4 12057940 31464 pts/24 Sl    1970   0:00 node /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/.bin/tsx server.ts --host 0.0.0.0 --port 4000
+u0_a323  13323  1.5  1.1 26013608 90160 pts/24 Sl    1970   0:18 /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/usr/bin/node --require /data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/tsx/dist/preflight.cjs --import file:///data/data/com.termux/files/home/AGI-AI-Albayancor/web4anhk/node_modules/tsx/dist/loader.mjs server.ts --host 0.0.0.0 --port 4000
+u0_a323  22857  0.5  0.6 11922352 47252 pts/24 Sl    1970   0:00 node /data/data/com.termux/files/usr/bin/node node_cluster_sync_v4_2.cjs
+{"node":"web4anhk","status":"Haras Active"}
+<!doctype html>
+<html lang="en">
+
+=== 5- اللوجز ===
+total 92K
+-rw-------. 1 u0_a323 u0_a323 214 Sep 14 20:20 4000.log
+-rw-------. 1 u0_a323 u0_a323  22 Sep 14 20:15 5000.log
+-rw-------. 1 u0_a323 u0_a323  22 Sep 14 20:19 8080.log
+-rw-------. 1 u0_a323 u0_a323  52 Sep 15 13:26 FULL_AUDIT_2026-09-15_13-26.log
+-rw-------. 1 u0_a323 u0_a323 36K Sep 15 13:27 FULL_AUDIT_2026-09-15_13-27.log
+-rw-------. 1 u0_a323 u0_a323 173 Sep 15 13:07 ankh_4000.log
+-rw-------. 1 u0_a323 u0_a323 744 Sep 14 20:09 app.log
+-rw-------. 1 u0_a323 u0_a323 202 Sep 14 20:10 app_4000.log
+-rw-------. 1 u0_a323 u0_a323 11K Sep 15 13:27 cluster_sync.log
+-rw-------. 1 u0_a323 u0_a323 790 Sep 15 13:27 haras_8000.log
+-rw-------. 1 u0_a323 u0_a323 258 Sep 15 13:24 network_syncer.log
+-rw-------. 1 u0_a323 u0_a323  82 Sep 14 20:09 omega.log
+-rw-------. 1 u0_a323 u0_a323  22 Sep 14 20:10 omega_8080.log
+[🎉] CLOUD SYNC SUCCESS: Data mirrored to central database!
+=========================================
+
+========== END ==========

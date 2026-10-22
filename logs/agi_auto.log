@@ -1,0 +1,46 @@
+nohup: ignoring input
+[*] بدء AGI الموحد التلقائي - 2026-09-09_2239
+[*] معالجة الموديول: AGI-AI-Albayancor
+./agi_full_auto.sh: line 20: cd: /data/data/com.termux/files/home/AGI-AI-Albayancor/AGI-AI-Albayancor: No such file or directory
+HEAD is now at 442888c ANR: ignore bak and logs - keep tracker clean
+[i] تم تتبع AGI-AI-Albayancor - commit: 442888cacea7cf230f6ec4ed2c8757f3937f8b0e - timestamp: 2026-09-09_2239
+[*] معالجة الموديول: AI-albayancor
+HEAD is now at 442888c ANR: ignore bak and logs - keep tracker clean
+[i] تم تتبع AI-albayancor - commit: 442888cacea7cf230f6ec4ed2c8757f3937f8b0e - timestamp: 2026-09-09_2239
+[*] معالجة الموديول: HarasAlLisan
+HEAD is now at 442888c ANR: ignore bak and logs - keep tracker clean
+[i] تم تتبع HarasAlLisan - commit: 442888cacea7cf230f6ec4ed2c8757f3937f8b0e - timestamp: 2026-09-09_2239
+[*] معالجة الموديول: Seal_A1
+HEAD is now at 442888c ANR: ignore bak and logs - keep tracker clean
+[i] تم تتبع Seal_A1 - commit: 442888cacea7cf230f6ec4ed2c8757f3937f8b0e - timestamp: 2026-09-09_2239
+[*] تحديث MasterManifest...
+./agi_full_auto.sh: line 31: cd: /data/data/com.termux/files/home/AGI-AI-Albayancor/AGI-AI-Albayancor: No such file or directory
+[✅] تم تحديث MasterManifest: /data/data/com.termux/files/home/AGI_Tracker/MasterManifest.md
+[*] إنشاء 23 وكيل تلقائي...
+[i] تم إنشاء الوكيل: Agent_1
+[i] تم إنشاء الوكيل: Agent_2
+[i] تم إنشاء الوكيل: Agent_3
+[i] تم إنشاء الوكيل: Agent_4
+[i] تم إنشاء الوكيل: Agent_5
+[i] تم إنشاء الوكيل: Agent_6
+[i] تم إنشاء الوكيل: Agent_7
+[i] تم إنشاء الوكيل: Agent_8
+[i] تم إنشاء الوكيل: Agent_9
+[i] تم إنشاء الوكيل: Agent_10
+[i] تم إنشاء الوكيل: Agent_11
+[i] تم إنشاء الوكيل: Agent_12
+[i] تم إنشاء الوكيل: Agent_13
+[i] تم إنشاء الوكيل: Agent_14
+[i] تم إنشاء الوكيل: Agent_15
+[i] تم إنشاء الوكيل: Agent_16
+[i] تم إنشاء الوكيل: Agent_17
+[i] تم إنشاء الوكيل: Agent_18
+[i] تم إنشاء الوكيل: Agent_19
+[i] تم إنشاء الوكيل: Agent_20
+[i] تم إنشاء الوكيل: Agent_21
+[i] تم إنشاء الوكيل: Agent_22
+[i] تم إنشاء الوكيل: Agent_23
+[*] تشغيل نموذج AGI الموحد...
+[!] المستودع /data/data/com.termux/files/home/HarasAlLisan غير موجود!
+[✅] انتهى AGI الموحد التلقائي.
+[✅] Pulse file: /data/data/com.termux/files/home/AGI_Tracker/Pulse-2026-09-09_2239.md
