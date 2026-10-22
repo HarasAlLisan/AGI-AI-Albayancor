@@ -1,0 +1,11 @@
+2026-09-07 00:44:35,578 DEBUG    root            Loaded Command Group: ['gcloud', 'compute']
+2026-09-07 00:44:35,810 DEBUG    root            Loaded Command Group: ['gcloud', 'compute', 'scp']
+2026-09-07 00:44:35,819 DEBUG    root            On GCE from disk cache: False
+2026-09-07 00:44:35,820 DEBUG    root            Running [gcloud.compute.scp] with arguments: [--zone: "us-central1-a", [[USER@]INSTANCE:]DEST: "YOUR_VPS:~/ANKH/Web4/", [[USER@]INSTANCE:]SRC:2: "['forensic_616.enc', 'Seal_A1/adamhash_918_forensic_sync_log_1788730277.json']"]
+2026-09-07 00:44:35,822 WARNING  root            The private SSH key file for gcloud does not exist.
+2026-09-07 00:44:35,823 WARNING  root            The public SSH key file for gcloud does not exist.
+2026-09-07 00:44:35,823 WARNING  root            You do not have an SSH key for gcloud.
+2026-09-07 00:44:35,823 WARNING  root            SSH keygen will be executed to generate a key.
+2026-09-07 00:44:35,824 DEBUG    root            Running command [/data/data/com.termux/files/usr/bin/ssh-keygen -t rsa -f /data/data/com.termux/files/home/.ssh/google_compute_engine].
+2026-09-07 00:44:35,824 DEBUG    root            Executing command: ['/data/data/com.termux/files/usr/bin/ssh-keygen', '-t', 'rsa', '-f', '/data/data/com.termux/files/home/.ssh/google_compute_engine']
+2026-09-07 00:47:21,941 DEBUG    root            Subprocess [14228] got [2]

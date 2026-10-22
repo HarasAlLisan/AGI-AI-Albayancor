@@ -1,0 +1,25 @@
+2026-09-07 00:48:31,786 DEBUG    root            Loaded Command Group: ['gcloud', 'auth']
+2026-09-07 00:48:31,792 DEBUG    root            Loaded Command Group: ['gcloud', 'auth', 'list']
+2026-09-07 00:48:31,796 DEBUG    root            Running [gcloud.auth.list] with arguments: []
+2026-09-07 00:48:31,810 DEBUG    root            On GCE from disk cache: False
+2026-09-07 00:48:31,811 DEBUG    root            Chosen display Format:    table[title='Credentialed Accounts'](
+        status.yesno(yes='*', no=''):label=ACTIVE,
+        account
+    )
+2026-09-07 00:48:31,812 INFO     root            Display format: "    table[title='Credentialed Accounts'](
+        status.yesno(yes='*', no=''):label=ACTIVE,
+        account
+    )"
+2026-09-07 00:48:31,812 INFO     ___FILE_ONLY___ 
+No credentialed accounts.
+
+To login, run:
+  $ gcloud auth login `ACCOUNT`
+
+
+2026-09-07 00:48:31,893 DEBUG    root            Checking for updates...
+2026-09-07 00:48:31,895 DEBUG    root            On GCE from memory cache: False
+2026-09-07 00:48:31,898 DEBUG    root            On GCE from memory cache: False
+2026-09-07 00:48:31,903 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): dl.google.com:443
+2026-09-07 00:48:32,598 DEBUG    urllib3.connectionpool https://dl.google.com:443 "GET /dl/cloudsdk/channels/rapid/components-2.json HTTP/1.1" 200 27641
+2026-09-07 00:48:32,784 DEBUG    root            Updating notification cache...

@@ -1,0 +1,90 @@
+2026-09-07 00:48:08,782 DEBUG    root            Loaded Command Group: ['gcloud', 'auth']
+2026-09-07 00:48:08,841 DEBUG    root            Loaded Command Group: ['gcloud', 'auth', 'login']
+2026-09-07 00:48:08,846 DEBUG    root            Running [gcloud.auth.login] with arguments: [--no-launch-browser: "False"]
+2026-09-07 00:48:08,847 DEBUG    root            On GCE from disk cache: False
+2026-09-07 00:48:09,028 DEBUG    root            On GCE from memory cache: False
+2026-09-07 00:48:09,029 DEBUG    requests_oauthlib.oauth2_session Generated new state was5fAV40HJMm46IPCfl6i2lqpojcg.
+2026-09-07 00:48:09,030 INFO     ___FILE_ONLY___ Go to the following link in your browser, and complete the sign-in prompts:
+
+    https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=32555940559.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fsdk.cloud.google.com%2Fauthcode.html&scope=openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fappengine.admin+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fsqlservice.login+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcompute+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Faccounts.reauth&state=was5fAV40HJMm46IPCfl6i2lqpojcg&prompt=consent&token_usage=remote&access_type=offline&code_challenge=6zNQ-Rjmqw8I711gT3O3KxHXBZXNj76pLxLDu3k78ck&code_challenge_method=S256
+
+
+2026-09-07 00:48:28,947 DEBUG    requests_oauthlib.oauth2_session Requesting url https://oauth2.googleapis.com/token using method POST.
+2026-09-07 00:48:28,948 DEBUG    requests_oauthlib.oauth2_session Supplying headers {b'Accept': b'application/json', b'Content-Type': b'application/x-www-form-urlencoded;charset=UTF-8', b'user-agent': b'google-cloud-sdk gcloud/583.0.0 command/gcloud.auth.login invocation-id/c058a9cc3c204487abc6cb284ee55c36 environment/None environment-version/None client-os/None client-os-ver/None client-pltf-arch/arm interactive/True from-script/False python/3.13.13 term/xterm-256color  ()'} and data {'grant_type': 'authorization_code', 'client_id': '32555940559.apps.googleusercontent.com', 'client_secret': 'ZmssLNjJy2998hD4CTg2ejr2', 'code': 'gcloud config set project YOUR_PROJECT_ID', 'redirect_uri': 'https://sdk.cloud.google.com/authcode.html', 'code_verifier': 'UJsm.U6CB7mPU4-GBS.MbnyspJhl-egqpYubJ86yMVwhTdAlZGE_.sUAp5Fn1WRx.O1-WNaLkj6c9ZS5JwkiXlLZMEQh8sshcAXzKZ~YO1fA6Gz1B1p9dYtH.iN~VQqb'}
+2026-09-07 00:48:28,948 DEBUG    requests_oauthlib.oauth2_session Passing through key word arguments {'json': None, 'timeout': None, 'auth': None, 'verify': None, 'proxies': None}.
+2026-09-07 00:48:28,951 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2026-09-07 00:48:30,096 DEBUG    urllib3.connectionpool https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 400 None
+2026-09-07 00:48:30,104 DEBUG    requests_oauthlib.oauth2_session Prepared fetch token request body grant_type=authorization_code&client_id=32555940559.apps.googleusercontent.com&client_secret=ZmssLNjJy2998hD4CTg2ejr2&code=gcloud+config+set+project+YOUR_PROJECT_ID&redirect_uri=https%3A%2F%2Fsdk.cloud.google.com%2Fauthcode.html&code_verifier=UJsm.U6CB7mPU4-GBS.MbnyspJhl-egqpYubJ86yMVwhTdAlZGE_.sUAp5Fn1WRx.O1-WNaLkj6c9ZS5JwkiXlLZMEQh8sshcAXzKZ~YO1fA6Gz1B1p9dYtH.iN~VQqb
+2026-09-07 00:48:30,105 DEBUG    requests_oauthlib.oauth2_session Request to fetch token completed with status 400.
+2026-09-07 00:48:30,110 DEBUG    requests_oauthlib.oauth2_session Request headers were {'user-agent': b'google-cloud-sdk gcloud/583.0.0 command/gcloud.auth.login invocation-id/c058a9cc3c204487abc6cb284ee55c36 environment/None environment-version/None client-os/None client-os-ver/None client-pltf-arch/arm interactive/True from-script/False python/3.13.13 term/xterm-256color  ()', 'Accept-Encoding': 'gzip, deflate', 'Accept': b'application/json', 'Connection': 'keep-alive', 'Content-Type': b'application/x-www-form-urlencoded;charset=UTF-8', 'Content-Length': '371'}
+2026-09-07 00:48:30,112 DEBUG    requests_oauthlib.oauth2_session Request body was grant_type=authorization_code&client_id=32555940559.apps.googleusercontent.com&client_secret=ZmssLNjJy2998hD4CTg2ejr2&code=gcloud+config+set+project+YOUR_PROJECT_ID&redirect_uri=https%3A%2F%2Fsdk.cloud.google.com%2Fauthcode.html&code_verifier=UJsm.U6CB7mPU4-GBS.MbnyspJhl-egqpYubJ86yMVwhTdAlZGE_.sUAp5Fn1WRx.O1-WNaLkj6c9ZS5JwkiXlLZMEQh8sshcAXzKZ~YO1fA6Gz1B1p9dYtH.iN~VQqb
+2026-09-07 00:48:30,113 DEBUG    requests_oauthlib.oauth2_session Response headers were {'Cache-Control': 'no-cache, no-store, max-age=0, must-revalidate', 'Expires': 'Mon, 01 Jan 1990 00:00:00 GMT', 'Date': 'Sun, 06 Sep 2026 21:48:31 GMT', 'Pragma': 'no-cache', 'Content-Type': 'application/json; charset=utf-8', 'Vary': 'Origin, X-Origin, Referer', 'Content-Encoding': 'gzip', 'Server': 'scaffolding on HTTPServer2', 'X-XSS-Protection': '0', 'X-Frame-Options': 'SAMEORIGIN', 'X-Content-Type-Options': 'nosniff', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'Transfer-Encoding': 'chunked'} and content {
+  "error": "invalid_grant",
+  "error_description": "Malformed auth code."
+}.
+2026-09-07 00:48:30,114 DEBUG    requests_oauthlib.oauth2_session Invoking 0 token response hooks.
+2026-09-07 00:48:30,118 ERROR    root            There was a problem with web authentication.
+2026-09-07 00:48:30,121 DEBUG    root            (gcloud.auth.login) (invalid_grant) Malformed auth code.
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/core/credentials/flow.py", line 103, in HandleOauth2FlowErrors
+    yield
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/core/credentials/flow.py", line 259, in Run
+    return self._Run(**kwargs)
+           ~~~~~~~~~^^^^^^^^^^
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/core/credentials/flow.py", line 812, in _Run
+    self.fetch_token(
+    ~~~~~~~~~~~~~~~~^
+        code=code, include_client_id=self.include_client_id, verify=None
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/third_party/google_auth_oauthlib/flow.py", line 300, in fetch_token
+    return self.oauth2session.fetch_token(self.client_config["token_uri"], **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/third_party/requests_oauthlib/oauth2_session.py", line 345, in fetch_token
+    self._client.parse_request_body_response(r.text, scope=self.scope)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/third_party/oauthlib/oauth2/rfc6749/clients/base.py", line 451, in parse_request_body_response
+    self.token = parse_token_response(body, scope=scope)
+                 ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/third_party/oauthlib/oauth2/rfc6749/parameters.py", line 435, in parse_token_response
+    validate_token_parameters(params)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/third_party/oauthlib/oauth2/rfc6749/parameters.py", line 442, in validate_token_parameters
+    raise_from_error(params.get('error'), params)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/third_party/oauthlib/oauth2/rfc6749/errors.py", line 406, in raise_from_error
+    raise cls(**kwargs)
+oauthlib.oauth2.rfc6749.errors.InvalidGrantError: (invalid_grant) Malformed auth code.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/calliope/cli.py", line 951, in Execute
+    resources = calliope_command.Run(cli=self, args=args)
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/calliope/backend.py", line 968, in Run
+    resources = command_instance.Run(args)
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/surface/auth/login.py", line 331, in Run
+    creds = auth_util.DoInstalledAppBrowserFlowGoogleAuth(
+        scopes,
+        auth_proxy_redirect_uri='https://sdk.cloud.google.com/authcode.html',
+        **flow_params)
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/api_lib/auth/util.py", line 351, in DoInstalledAppBrowserFlowGoogleAuth
+    user_creds = RemoteLoginWithAuthProxyFlowRunner(
+        scopes, client_config, auth_proxy_redirect_uri
+    ).Run(**query_params)
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/api_lib/auth/util.py", line 142, in Run
+    return self._flow.Run(**kwargs)
+           ~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/core/credentials/flow.py", line 258, in Run
+    with HandleOauth2FlowErrors():
+         ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/core/credentials/flow.py", line 110, in HandleOauth2FlowErrors
+    six.raise_from(AuthRequestRejectedError(e), e)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 3, in raise_from
+googlecloudsdk.core.credentials.flow.AuthRequestRejectedError: (invalid_grant) Malformed auth code.
+2026-09-07 00:48:30,151 ERROR    root            (gcloud.auth.login) (invalid_grant) Malformed auth code.

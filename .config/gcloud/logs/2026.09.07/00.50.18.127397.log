@@ -1,0 +1,7 @@
+2026-09-07 00:50:18,282 DEBUG    root            Loaded Command Group: ['gcloud', 'compute']
+2026-09-07 00:50:18,308 DEBUG    root            Loaded Command Group: ['gcloud', 'compute', 'instances']
+2026-09-07 00:50:18,316 DEBUG    root            Loaded Command Group: ['gcloud', 'compute', 'instances', 'list']
+2026-09-07 00:50:18,319 ERROR    root            (gcloud.compute.instances.list) unrecognized arguments: --zone=us-central1-a (did you mean '--zones'?) 
+
+To search the help text of gcloud commands, run:
+  gcloud help -- SEARCH_TERMS

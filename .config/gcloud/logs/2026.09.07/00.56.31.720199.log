@@ -1,0 +1,35 @@
+2026-09-07 00:56:31,722 DEBUG    root            Loaded Command Group: ['gcloud', 'auth']
+2026-09-07 00:56:31,730 DEBUG    root            Loaded Command Group: ['gcloud', 'auth', 'activate_service_account']
+2026-09-07 00:56:31,734 DEBUG    root            Running [gcloud.auth.activate-service-account] with arguments: [--key-file: "~/Downloads/key.json"]
+2026-09-07 00:56:31,735 DEBUG    root            (gcloud.auth.activate-service-account) Unable to read file [~/Downloads/key.json]: [Errno 2] No such file or directory: '~/Downloads/key.json'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/core/util/files.py", line 1307, in _FileOpener
+    return io.open(path, mode, encoding=encoding, newline=newline)
+           ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '~/Downloads/key.json'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/calliope/cli.py", line 951, in Execute
+    resources = calliope_command.Run(cli=self, args=args)
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/calliope/backend.py", line 968, in Run
+    resources = command_instance.Run(args)
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/surface/auth/activate_service_account.py", line 97, in Run
+    file_content, is_json = _IsJsonFile(args.key_file)
+                            ~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/surface/auth/activate_service_account.py", line 144, in _IsJsonFile
+    content = console_io.ReadFromFileOrStdin(filename, binary=True)
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/core/console/console_io.py", line 137, in ReadFromFileOrStdin
+    return files.ReadBinaryFileContents(path)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/core/util/files.py", line 1105, in ReadBinaryFileContents
+    with BinaryFileReader(path) as f:
+         ~~~~~~~~~~~~~~~~^^^^^^
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/core/util/files.py", line 1220, in BinaryFileReader
+    return _FileOpener(encoding_util.Encode(path, encoding='utf-8'), 'rb', 'read')
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/core/util/files.py", line 1314, in _FileOpener
+    raise exc_type('Unable to {0} file [{1}]: {2}'.format(verb, path, e))
+googlecloudsdk.core.util.files.MissingFileError: Unable to read file [~/Downloads/key.json]: [Errno 2] No such file or directory: '~/Downloads/key.json'
+2026-09-07 00:56:31,741 ERROR    root            (gcloud.auth.activate-service-account) Unable to read file [~/Downloads/key.json]: [Errno 2] No such file or directory: '~/Downloads/key.json'
+2026-09-07 00:56:31,758 DEBUG    root            Failed to check metadata server: <urlopen error [Errno 7] No address associated with hostname>

@@ -1,0 +1,1 @@
+- [SKIP] .git-credentials - رمز وصول شخصي @ Wed Aug 20 23:39:30 UTC 2025 | Seal: SKIP-GHPCRED-19581f08-6a7d-46f5-967c-7767b8aec976

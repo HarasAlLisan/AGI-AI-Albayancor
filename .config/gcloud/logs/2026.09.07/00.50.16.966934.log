@@ -1,0 +1,19 @@
+2026-09-07 00:50:16,969 DEBUG    root            Loaded Command Group: ['gcloud', 'auth']
+2026-09-07 00:50:16,974 DEBUG    root            Loaded Command Group: ['gcloud', 'auth', 'list']
+2026-09-07 00:50:16,978 DEBUG    root            Running [gcloud.auth.list] with arguments: []
+2026-09-07 00:50:16,983 DEBUG    root            On GCE from disk cache: False
+2026-09-07 00:50:16,984 DEBUG    root            Chosen display Format:    table[title='Credentialed Accounts'](
+        status.yesno(yes='*', no=''):label=ACTIVE,
+        account
+    )
+2026-09-07 00:50:16,985 INFO     root            Display format: "    table[title='Credentialed Accounts'](
+        status.yesno(yes='*', no=''):label=ACTIVE,
+        account
+    )"
+2026-09-07 00:50:16,985 INFO     ___FILE_ONLY___ 
+No credentialed accounts.
+
+To login, run:
+  $ gcloud auth login `ACCOUNT`
+
+

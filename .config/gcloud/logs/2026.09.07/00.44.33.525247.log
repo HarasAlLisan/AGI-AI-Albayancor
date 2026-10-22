@@ -1,0 +1,65 @@
+2026-09-07 00:44:33,529 DEBUG    root            Loaded Command Group: ['gcloud', 'auth']
+2026-09-07 00:44:33,667 DEBUG    root            Loaded Command Group: ['gcloud', 'auth', 'login']
+2026-09-07 00:44:33,672 DEBUG    root            Running [gcloud.auth.login] with arguments: []
+2026-09-07 00:44:33,672 DEBUG    root            On GCE from disk cache: False
+2026-09-07 00:44:33,925 DEBUG    root            On GCE from memory cache: False
+2026-09-07 00:44:33,926 DEBUG    requests_oauthlib.oauth2_session Generated new state dnzOMhGGGx2KqFNVkukLMnnBhDCYH4.
+2026-09-07 00:44:33,927 INFO     ___FILE_ONLY___ Go to the following link in your browser, and complete the sign-in prompts:
+
+    https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=32555940559.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fsdk.cloud.google.com%2Fauthcode.html&scope=openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fappengine.admin+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fsqlservice.login+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcompute+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Faccounts.reauth&state=dnzOMhGGGx2KqFNVkukLMnnBhDCYH4&prompt=consent&token_usage=remote&access_type=offline&code_challenge=sfcVyn4Uteifh76ekagEz4q_A8sMkDbhlf-acQUdhDY&code_challenge_method=S256
+
+
+2026-09-07 00:44:33,927 ERROR    root            There was a problem with web authentication.
+2026-09-07 00:44:33,928 DEBUG    root            (gcloud.auth.login) Please supply either code or authorization_response parameters.
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/core/credentials/flow.py", line 103, in HandleOauth2FlowErrors
+    yield
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/core/credentials/flow.py", line 259, in Run
+    return self._Run(**kwargs)
+           ~~~~~~~~~^^^^^^^^^^
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/core/credentials/flow.py", line 812, in _Run
+    self.fetch_token(
+    ~~~~~~~~~~~~~~~~^
+        code=code, include_client_id=self.include_client_id, verify=None
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/third_party/google_auth_oauthlib/flow.py", line 300, in fetch_token
+    return self.oauth2session.fetch_token(self.client_config["token_uri"], **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/third_party/requests_oauthlib/oauth2_session.py", line 239, in fetch_token
+    raise ValueError('Please supply either code or '
+                     'authorization_response parameters.')
+ValueError: Please supply either code or authorization_response parameters.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/calliope/cli.py", line 951, in Execute
+    resources = calliope_command.Run(cli=self, args=args)
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/calliope/backend.py", line 968, in Run
+    resources = command_instance.Run(args)
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/surface/auth/login.py", line 331, in Run
+    creds = auth_util.DoInstalledAppBrowserFlowGoogleAuth(
+        scopes,
+        auth_proxy_redirect_uri='https://sdk.cloud.google.com/authcode.html',
+        **flow_params)
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/api_lib/auth/util.py", line 363, in DoInstalledAppBrowserFlowGoogleAuth
+    user_creds = RemoteLoginWithAuthProxyFlowRunner(
+        scopes, client_config, auth_proxy_redirect_uri
+    ).Run(**query_params)
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/api_lib/auth/util.py", line 142, in Run
+    return self._flow.Run(**kwargs)
+           ~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/core/credentials/flow.py", line 258, in Run
+    with HandleOauth2FlowErrors():
+         ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/core/credentials/flow.py", line 124, in HandleOauth2FlowErrors
+    raise six.raise_from(AuthRequestFailedError(e), e)
+          ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 3, in raise_from
+googlecloudsdk.core.credentials.flow.AuthRequestFailedError: Please supply either code or authorization_response parameters.
+2026-09-07 00:44:33,938 ERROR    root            (gcloud.auth.login) Please supply either code or authorization_response parameters.

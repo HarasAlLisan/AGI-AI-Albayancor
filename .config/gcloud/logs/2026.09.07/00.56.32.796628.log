@@ -1,0 +1,46 @@
+2026-09-07 00:56:32,806 DEBUG    root            Loaded Command Group: ['gcloud', 'config']
+2026-09-07 00:56:33,043 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'set']
+2026-09-07 00:56:33,046 DEBUG    root            Running [gcloud.config.set] with arguments: [SECTION/PROPERTY: "project", VALUE: "PROJECT_ID_الحقيقي"]
+2026-09-07 00:56:33,047 DEBUG    root            On GCE from disk cache: False
+2026-09-07 00:56:33,048 DEBUG    root            (gcloud.config.set) The project property must be set to a valid project ID, not the project name [PROJECT_ID_الحقيقي]
+To set your project, run:
+
+  $ gcloud config set project PROJECT_ID
+
+or to unset it, run:
+
+  $ gcloud config unset project
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/calliope/cli.py", line 951, in Execute
+    resources = calliope_command.Run(cli=self, args=args)
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/calliope/backend.py", line 968, in Run
+    resources = command_instance.Run(args)
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/surface/config/set.py", line 178, in Run
+    properties.PersistProperty(prop, args.value, scope=scope)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/core/properties.py", line 5332, in PersistProperty
+    prop.Validate(value)
+    ~~~~~~~~~~~~~^^^^^^^
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/core/properties.py", line 4829, in Validate
+    self.__validator(value)
+    ~~~~~~~~~~~~~~~~^^^^^^^
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/core/properties.py", line 2521, in ProjectValidator
+    raise InvalidProjectError(
+    ...<2 lines>...
+    )
+googlecloudsdk.core.properties.InvalidProjectError: The project property must be set to a valid project ID, not the project name [PROJECT_ID_الحقيقي]
+To set your project, run:
+
+  $ gcloud config set project PROJECT_ID
+
+or to unset it, run:
+
+  $ gcloud config unset project
+2026-09-07 00:56:33,053 ERROR    root            (gcloud.config.set) The project property must be set to a valid project ID, not the project name [PROJECT_ID_الحقيقي]
+To set your project, run:
+
+  $ gcloud config set project PROJECT_ID
+
+or to unset it, run:
+
+  $ gcloud config unset project

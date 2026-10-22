@@ -1,0 +1,5 @@
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host --force
+
+M5 28612030103352 on 4000 -> qwen-anhk:latest

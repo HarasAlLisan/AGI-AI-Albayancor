@@ -1,0 +1,15 @@
+2026-09-07 00:52:22,918 DEBUG    root            Loaded Command Group: ['gcloud', 'auth']
+2026-09-07 00:52:22,969 DEBUG    root            Loaded Command Group: ['gcloud', 'auth', 'revoke']
+2026-09-07 00:52:22,973 DEBUG    root            Running [gcloud.auth.revoke] with arguments: [--all: "True", --quiet: "True"]
+2026-09-07 00:52:22,981 DEBUG    root            On GCE from disk cache: False
+2026-09-07 00:52:22,981 DEBUG    root            (gcloud.auth.revoke) Invalid value for [accounts]: No credentials available to revoke.
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/calliope/cli.py", line 951, in Execute
+    resources = calliope_command.Run(cli=self, args=args)
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/googlecloudsdk/calliope/backend.py", line 968, in Run
+    resources = command_instance.Run(args)
+  File "/data/data/com.termux/files/home/google-cloud-sdk/lib/surface/auth/revoke.py", line 94, in Run
+    raise c_exc.InvalidArgumentException(
+        'accounts', 'No credentials available to revoke.')
+googlecloudsdk.calliope.exceptions.InvalidArgumentException: Invalid value for [accounts]: No credentials available to revoke.
+2026-09-07 00:52:22,985 ERROR    root            (gcloud.auth.revoke) Invalid value for [accounts]: No credentials available to revoke.

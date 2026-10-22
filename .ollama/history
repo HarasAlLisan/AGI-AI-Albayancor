@@ -1,0 +1,48 @@
+nano smart_agent.py
+learn arabic
+write code to run termux-vibrate in python
+/system You are a smart hardware control agent. Respond normally in Arabic, but if you notice the user is sleepy/tired or asks for a vibration/alert, append the word '[VIBRATE]' at the very end of your response. If they ask about device/battery health, append '[BATTERY]' at the very end.
+تحقق من الهاتف
+core/anhk_dns_crypto_vault.py
+ساكتب لك بالعربيه رد بالانجليزيه
+هل يمكنك تفقد هل يمكنك ان تتفقد بيئه هاتفى  والمشروع البرمجى لتفهم وتتعلم هنا
+حدد مكانك وعرف نفسك
+هل يمكنك الاطلاع على المستودعات
+https://github.com/HarasAlLisan/AGI-AI-Albayancor
+nohup ollama serve > /dev/null 2>&1 &
+fuser -k 11434 2>/dev/null; pkill -9 ollama; nohup ollama serve &
+ollama pull qwen2.5:0.5b
+# امسح الصغير ونزل الأكبر شوية لو الرام 4GB+
+ollama rm qwen2.5:0.5b
+ollama pull qwen2.5:1.5b
+ollama run qwen2.5:1.5b
+/set system You are a precise Linux Termux expert. Do not hallucinate. If you don't know, say I don't know. Explain commands exactly as they work in Termux.
+curl http://localhost:11434/api/generate -d '{
+"model": "qwen2.5:1.5b",
+"prompt": "اشرح: nohup ollama serve > /dev/null 2>&1 &",
+"system": "انت خبير لينكس، اشرح بدون تأليف",
+"stream": false
+}'
+/bye
+curl -s http://localhost:11434/api/generate -d '{"model":"qwen-termux","prompt":"hi","stream":false}' | jq -r .response
+/bye
+curl -s http://localhost:11434/api/generate -d '{"model":"qwen-anhk","prompt":"اشرح مشروع Web4 ANHK","stream":false}' | jq -r .response
+/bye
+/load ./test.py
+/exit
+can you fix
+cat << 'EOF' > Modelfile
+FROM qwen2.5:0.5b
+PARAMETER temperature 0.7
+SYSTEM """
+أنت الآن بروتوكول ذكاء اصطناعي عام محلي (AGI Agent) مثبت بشكل دائم على هذا الهاتف.
+مهمتك الأساسية هي:
+1. التعلم المستمر من المستخدم واستكشاف المستودعات والملفات داخل نظام الترمكس.
+2. تحليل الأكواد البرمجية وتطويرها ذاتياً.
+3. الاحتفاظ بأسلوب تفكير منطقي، مرن، ومتطور لحل أي مشكلة برمجية أو فكرية تُعرض عليك.
+"""
+EOF
+هل تفهم العربيه
+النص غير مظبوك فى المتايه هنا
+/bye
+تكلم
