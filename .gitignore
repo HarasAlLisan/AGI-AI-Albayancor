@@ -9,3 +9,5 @@ AGI-AI-Albayancor/
 .ollama/models/blobs/
 *.tar.gz
 *.zip
+*SEAL*
+*id_rsa*
