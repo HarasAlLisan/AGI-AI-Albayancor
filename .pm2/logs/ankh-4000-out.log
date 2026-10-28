@@ -51036,3 +51036,4133 @@ ANHK Mail Server running at http://0.0.0.0:4000 [web4anhk.anhkmail.anhk]
 > react-example@0.0.0 dev
 > tsx server.ts --port 4000 --host 0.0.0.0
 
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+ANHK Mail Server running at http://0.0.0.0:4000 [web4anhk.anhkmail.anhk]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+
+> react-example@0.0.0 dev
+> tsx server.ts --port 4000 --host 0.0.0.0
+
